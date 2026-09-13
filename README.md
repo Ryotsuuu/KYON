@@ -16,6 +16,8 @@
 
 </div>
 
+This repository does not redistribute Pokémon Competition Data, official Pokémon card artwork, or other Pokémon Elements. Required competition assets must be obtained through the official competition resources and used according to the competition rules.
+
 ## 📑 Table of Contents
 
 1. [Architectural Overview & System Building Journey](#1-architectural-overview--system-building-journey)
