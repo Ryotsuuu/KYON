@@ -1,0 +1,1402 @@
+{
+  "S_GRA_stage_2_ex": {
+    "S_GRA_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.5
+    },
+    "S_FIR_aggro": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_WAT_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_LIG_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_PSY_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_FIG_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_DAR_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_MET_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "D_GRA+PSY_balanced": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "D_FIR+WAT_aggro": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "D_PSY+DAR_mega_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "T_GRA+FIR+WAT_balanced": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "TR_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "DR_damage_counter": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    }
+  },
+  "S_FIR_aggro": {
+    "S_GRA_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_FIR_aggro": {
+      "wins_p1": 0,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.5
+    },
+    "S_WAT_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_LIG_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_PSY_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_FIG_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_DAR_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_MET_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "D_GRA+PSY_balanced": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "D_FIR+WAT_aggro": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "D_PSY+DAR_mega_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "T_GRA+FIR+WAT_balanced": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "TR_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "DR_damage_counter": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    }
+  },
+  "S_WAT_stage_2_ex": {
+    "S_GRA_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_FIR_aggro": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_WAT_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.5
+    },
+    "S_LIG_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_PSY_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_FIG_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_DAR_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_MET_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "D_GRA+PSY_balanced": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "D_FIR+WAT_aggro": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "D_PSY+DAR_mega_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "T_GRA+FIR+WAT_balanced": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "TR_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "DR_damage_counter": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    }
+  },
+  "S_LIG_stage_2_ex": {
+    "S_GRA_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_FIR_aggro": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_WAT_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_LIG_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.5
+    },
+    "S_PSY_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_FIG_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_DAR_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_MET_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "D_GRA+PSY_balanced": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "D_FIR+WAT_aggro": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "D_PSY+DAR_mega_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "T_GRA+FIR+WAT_balanced": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "TR_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "DR_damage_counter": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    }
+  },
+  "S_PSY_stage_2_ex": {
+    "S_GRA_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_FIR_aggro": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_WAT_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_LIG_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_PSY_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.5
+    },
+    "S_FIG_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_DAR_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_MET_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "D_GRA+PSY_balanced": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "D_FIR+WAT_aggro": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "D_PSY+DAR_mega_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "T_GRA+FIR+WAT_balanced": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "TR_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "DR_damage_counter": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    }
+  },
+  "S_FIG_stage_2_ex": {
+    "S_GRA_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_FIR_aggro": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_WAT_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_LIG_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_PSY_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_FIG_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.5
+    },
+    "S_DAR_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_MET_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "D_GRA+PSY_balanced": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "D_FIR+WAT_aggro": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "D_PSY+DAR_mega_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "T_GRA+FIR+WAT_balanced": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "TR_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "DR_damage_counter": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    }
+  },
+  "S_DAR_stage_2_ex": {
+    "S_GRA_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_FIR_aggro": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_WAT_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_LIG_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_PSY_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_FIG_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_DAR_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.5
+    },
+    "S_MET_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "D_GRA+PSY_balanced": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "D_FIR+WAT_aggro": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "D_PSY+DAR_mega_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "T_GRA+FIR+WAT_balanced": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "TR_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "DR_damage_counter": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    }
+  },
+  "S_MET_stage_2_ex": {
+    "S_GRA_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_FIR_aggro": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_WAT_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_LIG_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_PSY_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_FIG_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_DAR_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_MET_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.5
+    },
+    "D_GRA+PSY_balanced": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "D_FIR+WAT_aggro": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "D_PSY+DAR_mega_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "T_GRA+FIR+WAT_balanced": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "TR_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "DR_damage_counter": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    }
+  },
+  "D_GRA+PSY_balanced": {
+    "S_GRA_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_FIR_aggro": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_WAT_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_LIG_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_PSY_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_FIG_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_DAR_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_MET_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "D_GRA+PSY_balanced": {
+      "wins_p1": 0,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.5
+    },
+    "D_FIR+WAT_aggro": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "D_PSY+DAR_mega_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "T_GRA+FIR+WAT_balanced": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "TR_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "DR_damage_counter": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    }
+  },
+  "D_FIR+WAT_aggro": {
+    "S_GRA_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_FIR_aggro": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_WAT_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_LIG_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_PSY_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_FIG_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_DAR_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_MET_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "D_GRA+PSY_balanced": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "D_FIR+WAT_aggro": {
+      "wins_p1": 0,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.5
+    },
+    "D_PSY+DAR_mega_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "T_GRA+FIR+WAT_balanced": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "TR_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "DR_damage_counter": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    }
+  },
+  "D_PSY+DAR_mega_stage_2_ex": {
+    "S_GRA_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_FIR_aggro": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_WAT_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_LIG_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_PSY_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_FIG_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_DAR_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_MET_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "D_GRA+PSY_balanced": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "D_FIR+WAT_aggro": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "D_PSY+DAR_mega_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.5
+    },
+    "T_GRA+FIR+WAT_balanced": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "TR_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "DR_damage_counter": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    }
+  },
+  "T_GRA+FIR+WAT_balanced": {
+    "S_GRA_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_FIR_aggro": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_WAT_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_LIG_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_PSY_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_FIG_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_DAR_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_MET_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "D_GRA+PSY_balanced": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "D_FIR+WAT_aggro": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "D_PSY+DAR_mega_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "T_GRA+FIR+WAT_balanced": {
+      "wins_p1": 0,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.5
+    },
+    "TR_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "DR_damage_counter": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    }
+  },
+  "TR_stage_2_ex": {
+    "S_GRA_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_FIR_aggro": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_WAT_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_LIG_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_PSY_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_FIG_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_DAR_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_MET_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "D_GRA+PSY_balanced": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "D_FIR+WAT_aggro": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "D_PSY+DAR_mega_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "T_GRA+FIR+WAT_balanced": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "TR_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.5
+    },
+    "DR_damage_counter": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    }
+  },
+  "DR_damage_counter": {
+    "S_GRA_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_FIR_aggro": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_WAT_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "S_LIG_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_PSY_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_FIG_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_DAR_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "S_MET_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "D_GRA+PSY_balanced": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "D_FIR+WAT_aggro": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "D_PSY+DAR_mega_stage_2_ex": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "T_GRA+FIR+WAT_balanced": {
+      "wins_p1": 0,
+      "wins_p2": 1,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.0
+    },
+    "TR_stage_2_ex": {
+      "wins_p1": 1,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 1.0
+    },
+    "DR_damage_counter": {
+      "wins_p1": 0,
+      "wins_p2": 0,
+      "draws": 0,
+      "games": 1,
+      "win_rate": 0.5
+    }
+  }
+}

@@ -1,0 +1,805 @@
+{
+  "candidates": [
+    {
+      "card_id": 223,
+      "name": "PalossandEX",
+      "rank": 2,
+      "reason": "PalossandEX (ID 223) — confirmed effects: Tera ability prevents all damage on bench, Sand Tomb locks retreat, Barite Jail spreads damage to opponent bench. Cost: {W}{P}{F} (triple-type). Strong control option for triple-energy design, locking opponent while spreading damage.",
+      "energy_requirements": {
+        "Water": 1,
+        "Psychic": 1,
+        "Fighting": 1
+      },
+      "profile": {
+        "card_id": 223,
+        "name": "PalossandEX",
+        "category": "Pokemon",
+        "pokemon_stage": "Stage 1",
+        "evolves_from": "Sandygast",
+        "hp": 280,
+        "type": "Psychic",
+        "weakness": "Darkness",
+        "resistance": "Fighting",
+        "retreat_cost": 4,
+        "is_ex": true,
+        "is_mega_ex": false,
+        "is_ace_spec": false,
+        "is_team_rocket_pokemon": false,
+        "is_dragon_type": false,
+        "abilities": [],
+        "attacks": [
+          {
+            "name": "Tera",
+            "cost": "",
+            "damage": "",
+            "text": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent’s).",
+            "conditional_effects": []
+          },
+          {
+            "name": "Sand Tomb",
+            "cost": "●●●",
+            "damage": "160",
+            "text": "During your opponent’s next turn, the Defending Pokémon can’t retreat.",
+            "conditional_effects": []
+          },
+          {
+            "name": "Barite Jail",
+            "cost": "{W}{P}{F}",
+            "damage": "",
+            "text": "Put damage counters on each of your opponent’s Benched Pokémon until its remaining HP is 100.",
+            "conditional_effects": [
+              {
+                "text": "each of your opponent’s Benched Pokémon until its remaining HP is 100.",
+                "condition_type": "scaling_bench_count",
+                "condition_detail": "each of your opponent’s benched pokémon",
+                "requires_deckbuilding_support": false
+              }
+            ]
+          }
+        ],
+        "effect_tags": [
+          "bench_protection",
+          "bench_spread_damage",
+          "retreat_lock"
+        ],
+        "energy_fetch_or_flex": false,
+        "archetype_fits": [
+          {
+            "archetype": "stage_1_ex",
+            "reason": "Stage 1 ex with 280 HP"
+          },
+          {
+            "archetype": "aggro",
+            "reason": "high damage (max base 160)"
+          },
+          {
+            "archetype": "stall",
+            "reason": "damage prevention counters aggro"
+          }
+        ],
+        "ga_mutation_risk": true,
+        "ga_mutation_risk_note": "Stage 1 from Sandygast; GA must preserve pre-evo;",
+        "strategic_analysis": {
+          "best_use_case": "Secondary attacker with 160 damage. Stage 1 evolution.",
+          "gameplay_role": "attacker",
+          "effectiveness_rating": "high",
+          "position_preference": "bench",
+          "key_strength": "very high HP (280); ex status with high stats; Bench position bonus: prevent all damage done to this Pokémon by attacks (both yours and your opponent",
+          "key_weakness": "gives 2 Prizes when KOd; high retreat (4); Stage 1 — 1-turn setup",
+          "synergy_requirements": [],
+          "anti_synergy_warnings": [],
+          "turn_to_play": "mid_game",
+          "deckbuilding_priority": "medium"
+        },
+        "categorization": {
+          "heal_factor": {
+            "has_heal": false,
+            "type": null,
+            "amounts": [],
+            "targets": [],
+            "conditions": []
+          },
+          "active_position": {
+            "best_position": "bench",
+            "wants_active": false,
+            "wants_bench": true,
+            "active_benefit": "",
+            "bench_benefit": "prevent all damage done to this Pokémon by attacks (both yours and your opponent’s). During your opponent’s next turn, the Defending Pokémon can’t retreat. DMG:160 Put damage counters on each of your"
+          },
+          "counter": {
+            "is_counter": true,
+            "counters": [
+              "damage_prevention"
+            ],
+            "mechanism": ""
+          },
+          "status_conditions": {
+            "poison": {
+              "can_inflict": false,
+              "via_ability": false,
+              "via_attack": false,
+              "guaranteed": true,
+              "mechanism": ""
+            },
+            "burn": {
+              "can_inflict": false,
+              "via_ability": false,
+              "via_attack": false,
+              "guaranteed": true,
+              "mechanism": ""
+            },
+            "sleep": {
+              "can_inflict": false,
+              "via_ability": false,
+              "via_attack": false,
+              "guaranteed": true,
+              "mechanism": ""
+            },
+            "paralyze": {
+              "can_inflict": false,
+              "via_ability": false,
+              "via_attack": false,
+              "guaranteed": true,
+              "mechanism": ""
+            },
+            "confuse": {
+              "can_inflict": false,
+              "via_ability": false,
+              "via_attack": false,
+              "guaranteed": true,
+              "mechanism": ""
+            }
+          },
+          "no_retreat_cost": {
+            "base_retreat_cost": 4,
+            "has_free_retreat": false,
+            "provides_free_retreat": false,
+            "retreat_cost_reduction": false
+          },
+          "special_ability": {
+            "has_ability": false,
+            "ability_count": 0,
+            "ability_names": [],
+            "has_tera": false,
+            "ability_type": "passive",
+            "bench_protection": false,
+            "damage_prevention": false,
+            "energy_acceleration": false,
+            "draw_power": false,
+            "search_power": false,
+            "switch_power": false
+          },
+          "damage": {
+            "max_base_damage": 160,
+            "has_scaling_damage": false,
+            "scaling_mechanism": "",
+            "is_high_damage": false
+          },
+          "stadium_use_case": {
+            "is_stadium": false,
+            "references_stadium": false,
+            "stadium_synergy": "",
+            "stadium_type": null
+          },
+          "items_use_case": {
+            "is_item": false,
+            "is_supporter": false,
+            "item_category": null,
+            "use_case": ""
+          }
+        },
+        "confidence": "medium",
+        "notes": "GA risk requires deck composition | GA RISK: Stage 1 from Sandygast; GA must preserve pre-evo;",
+        "revision_notes": "Attack count mismatch: JSON has 3, CSV has 2; ",
+        "is_colorless_type": false,
+        "colorless_energy_only": false,
+        "references_team_rocket_energy": false,
+        "references_legacy_energy": false,
+        "references_specific_energy": null,
+        "cross_reference_synergies": [
+          {
+            "partner_id": 111,
+            "partner_name": "Sandygast",
+            "type": "evolution_chain",
+            "direction": "this_evolves_from_partner",
+            "reason": "PalossandEX evolves from Sandygast (ID 111)"
+          },
+          {
+            "partner_id": 38,
+            "partner_name": "Girafarig",
+            "type": "energy_type_compatibility",
+            "direction": "shared_energy",
+            "reason": "Both are Psychic-type, share Psychic Energy"
+          },
+          {
+            "partner_id": 39,
+            "partner_name": "Enamorus",
+            "type": "energy_type_compatibility",
+            "direction": "shared_energy",
+            "reason": "Both are Psychic-type, share Psychic Energy"
+          },
+          {
+            "partner_id": 53,
+            "partner_name": "Marill",
+            "type": "energy_type_compatibility",
+            "direction": "shared_energy",
+            "reason": "Both are Psychic-type, share Psychic Energy"
+          },
+          {
+            "partner_id": 54,
+            "partner_name": "Bronzor",
+            "type": "energy_type_compatibility",
+            "direction": "shared_energy",
+            "reason": "Both are Psychic-type, share Psychic Energy"
+          },
+          {
+            "partner_id": 55,
+            "partner_name": "Bronzong",
+            "type": "energy_type_compatibility",
+            "direction": "shared_energy",
+            "reason": "Both are Psychic-type, share Psychic Energy"
+          },
+          {
+            "partner_id": 56,
+            "partner_name": "Flutter Mane",
+            "type": "energy_type_compatibility",
+            "direction": "shared_energy",
+            "reason": "Both are Psychic-type, share Psychic Energy"
+          },
+          {
+            "partner_id": 80,
+            "partner_name": "Iron Crown ex",
+            "type": "energy_type_compatibility",
+            "direction": "shared_energy",
+            "reason": "Both are Psychic-type, share Psychic Energy"
+          },
+          {
+            "partner_id": 109,
+            "partner_name": "Abra",
+            "type": "energy_type_compatibility",
+            "direction": "shared_energy",
+            "reason": "Both are Psychic-type, share Psychic Energy"
+          },
+          {
+            "partner_id": 110,
+            "partner_name": "Slurpuff",
+            "type": "energy_type_compatibility",
+            "direction": "shared_energy",
+            "reason": "Both are Psychic-type, share Psychic Energy"
+          }
+        ]
+      }
+    },
+    {
+      "card_id": 236,
+      "name": "Leafeon ex",
+      "rank": 1,
+      "reason": "Leafeon ex (ID 236) — confirmed healing ability: 'Heal 100 damage from each of your Benched Pokemon' via Moss Agate attack. Cost: {G}{R}{W} (triple-type). With Verdant Storm scaling off opponent energy, it can be a self-sufficient attacker while providing team healing. Ideal for triple-energy design as a 1-2 species anchor.",
+      "energy_requirements": {
+        "Grass": 1,
+        "Fire": 1,
+        "Water": 1
+      },
+      "profile": {
+        "card_id": 236,
+        "name": "Leafeon ex",
+        "category": "Pokemon",
+        "pokemon_stage": "Stage 1",
+        "evolves_from": "Eevee",
+        "hp": 270,
+        "type": "Grass",
+        "weakness": "Fire",
+        "resistance": null,
+        "retreat_cost": 2,
+        "is_ex": true,
+        "is_mega_ex": false,
+        "is_ace_spec": false,
+        "is_team_rocket_pokemon": false,
+        "is_dragon_type": false,
+        "abilities": [
+          {
+            "name": "[Tera]",
+            "text": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent’s).",
+            "conditional_effects": []
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Verdant Storm",
+            "cost": "{G}●",
+            "damage": "60×",
+            "text": "This attack does 60 damage for each Energy attached to all of your opponent’s Pokémon.",
+            "conditional_effects": [
+              {
+                "text": "for each Energy attached to all of your opponent’s Pokémon.",
+                "condition_type": "scaling_energy_count",
+                "condition_detail": "for each energy attached to",
+                "requires_deckbuilding_support": false
+              }
+            ]
+          },
+          {
+            "name": "Moss Agate",
+            "cost": "{G}{R}{W}",
+            "damage": "230",
+            "text": "Heal 100 damage from each of your Benched Pokémon.",
+            "conditional_effects": [
+              {
+                "text": "each of your Benched Pokémon.",
+                "condition_type": "scaling_bench_count",
+                "condition_detail": "each of your benched pokémon",
+                "requires_deckbuilding_support": false
+              }
+            ]
+          }
+        ],
+        "effect_tags": [
+          "bench_protection",
+          "heal_bench",
+          "heal_fixed"
+        ],
+        "energy_fetch_or_flex": false,
+        "archetype_fits": [
+          {
+            "archetype": "stage_1_ex",
+            "reason": "Stage 1 ex with 270 HP"
+          },
+          {
+            "archetype": "aggro",
+            "reason": "high damage (max base 230)"
+          },
+          {
+            "archetype": "stall",
+            "reason": "large heal ([100]) for sustain"
+          },
+          {
+            "archetype": "stall",
+            "reason": "damage prevention counters aggro"
+          }
+        ],
+        "ga_mutation_risk": true,
+        "ga_mutation_risk_note": "Stage 1 from Eevee; GA must preserve pre-evo;",
+        "strategic_analysis": {
+          "best_use_case": "Primary attacker with 230 max damage. wall/staller with damage prevention. healer for sustain. Stage 1 evolution.",
+          "gameplay_role": "attacker",
+          "effectiveness_rating": "very_high",
+          "position_preference": "bench",
+          "key_strength": "very high HP (270); ex status with high stats; high damage (230); healing ([100]); damage prevention",
+          "key_weakness": "gives 2 Prizes when KOd; Stage 1 — 1-turn setup",
+          "synergy_requirements": [],
+          "anti_synergy_warnings": [],
+          "turn_to_play": "mid_game",
+          "deckbuilding_priority": "high"
+        },
+        "categorization": {
+          "heal_factor": {
+            "has_heal": true,
+            "type": null,
+            "amounts": [
+              100
+            ],
+            "targets": [
+              "bench",
+              "all_pokemon"
+            ],
+            "conditions": []
+          },
+          "active_position": {
+            "best_position": "bench",
+            "wants_active": false,
+            "wants_bench": true,
+            "active_benefit": "",
+            "bench_benefit": "prevent all damage done to this Pokémon by attacks (both yours and your opponent’s). This attack does 60 damage for each Energy attached to all of your opponent’s Pokémon. DMG:60× Heal 100 damage from"
+          },
+          "counter": {
+            "is_counter": true,
+            "counters": [
+              "damage_prevention"
+            ],
+            "mechanism": ""
+          },
+          "status_conditions": {
+            "poison": {
+              "can_inflict": false,
+              "via_ability": false,
+              "via_attack": false,
+              "guaranteed": true,
+              "mechanism": ""
+            },
+            "burn": {
+              "can_inflict": false,
+              "via_ability": false,
+              "via_attack": false,
+              "guaranteed": true,
+              "mechanism": ""
+            },
+            "sleep": {
+              "can_inflict": false,
+              "via_ability": false,
+              "via_attack": false,
+              "guaranteed": true,
+              "mechanism": ""
+            },
+            "paralyze": {
+              "can_inflict": false,
+              "via_ability": false,
+              "via_attack": false,
+              "guaranteed": true,
+              "mechanism": ""
+            },
+            "confuse": {
+              "can_inflict": false,
+              "via_ability": false,
+              "via_attack": false,
+              "guaranteed": true,
+              "mechanism": ""
+            }
+          },
+          "no_retreat_cost": {
+            "base_retreat_cost": 2,
+            "has_free_retreat": false,
+            "provides_free_retreat": false,
+            "retreat_cost_reduction": false
+          },
+          "special_ability": {
+            "has_ability": true,
+            "ability_count": 1,
+            "ability_names": [
+              "[Tera]"
+            ],
+            "has_tera": true,
+            "ability_type": "passive",
+            "bench_protection": false,
+            "damage_prevention": true,
+            "energy_acceleration": false,
+            "draw_power": false,
+            "search_power": false,
+            "switch_power": false
+          },
+          "damage": {
+            "max_base_damage": 230,
+            "has_scaling_damage": false,
+            "scaling_mechanism": "",
+            "is_high_damage": true
+          },
+          "stadium_use_case": {
+            "is_stadium": false,
+            "references_stadium": false,
+            "stadium_synergy": "",
+            "stadium_type": null
+          },
+          "items_use_case": {
+            "is_item": false,
+            "is_supporter": false,
+            "item_category": null,
+            "use_case": ""
+          }
+        },
+        "confidence": "medium",
+        "notes": "GA risk requires deck composition | GA RISK: Stage 1 from Eevee; GA must preserve pre-evo;",
+        "revision_notes": "",
+        "is_colorless_type": false,
+        "colorless_energy_only": false,
+        "references_team_rocket_energy": false,
+        "references_legacy_energy": false,
+        "references_specific_energy": null,
+        "cross_reference_synergies": [
+          {
+            "partner_id": 43,
+            "partner_name": "Eevee",
+            "type": "evolution_chain",
+            "direction": "this_evolves_from_partner",
+            "reason": "Leafeon ex evolves from Eevee (ID 43)"
+          },
+          {
+            "partner_id": 145,
+            "partner_name": "Eevee",
+            "type": "evolution_chain",
+            "direction": "this_evolves_from_partner",
+            "reason": "Leafeon ex evolves from Eevee (ID 145)"
+          },
+          {
+            "partner_id": 25,
+            "partner_name": "Pinsir",
+            "type": "energy_type_compatibility",
+            "direction": "shared_energy",
+            "reason": "Both are Grass-type, share Grass Energy"
+          },
+          {
+            "partner_id": 26,
+            "partner_name": "Leafeon",
+            "type": "energy_type_compatibility",
+            "direction": "shared_energy",
+            "reason": "Both are Grass-type, share Grass Energy"
+          },
+          {
+            "partner_id": 27,
+            "partner_name": "Iron Leaves",
+            "type": "energy_type_compatibility",
+            "direction": "shared_energy",
+            "reason": "Both are Grass-type, share Grass Energy"
+          },
+          {
+            "partner_id": 28,
+            "partner_name": "Poltchageist",
+            "type": "energy_type_compatibility",
+            "direction": "shared_energy",
+            "reason": "Both are Grass-type, share Grass Energy"
+          },
+          {
+            "partner_id": 29,
+            "partner_name": "Sinistcha ex",
+            "type": "energy_type_compatibility",
+            "direction": "shared_energy",
+            "reason": "Both are Grass-type, share Grass Energy"
+          },
+          {
+            "partner_id": 45,
+            "partner_name": "Shaymin",
+            "type": "energy_type_compatibility",
+            "direction": "shared_energy",
+            "reason": "Both are Grass-type, share Grass Energy"
+          },
+          {
+            "partner_id": 67,
+            "partner_name": "Pineco",
+            "type": "energy_type_compatibility",
+            "direction": "shared_energy",
+            "reason": "Both are Grass-type, share Grass Energy"
+          },
+          {
+            "partner_id": 68,
+            "partner_name": "Seedot",
+            "type": "energy_type_compatibility",
+            "direction": "shared_energy",
+            "reason": "Both are Grass-type, share Grass Energy"
+          }
+        ]
+      }
+    },
+    {
+      "card_id": 123,
+      "name": "Farfetch'd",
+      "rank": 3,
+      "reason": "Energy flexible card: provides/fetches multiple energy types. Key for triple-energy toolbox.",
+      "profile": {
+        "card_id": 123,
+        "name": "Farfetch'd",
+        "category": "Pokemon",
+        "pokemon_stage": "Basic",
+        "evolves_from": null,
+        "hp": 70,
+        "type": "Colorless",
+        "weakness": "Lightning",
+        "resistance": "Fighting",
+        "retreat_cost": 1,
+        "is_ex": false,
+        "is_mega_ex": false,
+        "is_ace_spec": false,
+        "is_team_rocket_pokemon": false,
+        "is_dragon_type": false,
+        "abilities": [
+          {
+            "name": "Impromptu Carrier",
+            "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for a Pokémon Tool card and attach it to this Pokémon. Then, shuffle your deck.",
+            "conditional_effects": []
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Mach Cut",
+            "cost": "●",
+            "damage": "30",
+            "text": "Discard a Special Energy from your opponent’s Active Pokémon.",
+            "conditional_effects": []
+          }
+        ],
+        "effect_tags": [
+          "deck_search",
+          "energy_search",
+          "pokemon_search_to_hand",
+          "trainer_search"
+        ],
+        "energy_fetch_or_flex": true,
+        "archetype_fits": [
+          {
+            "archetype": "triple_energy",
+            "reason": "fetches/provides multiple energy types"
+          }
+        ],
+        "ga_mutation_risk": false,
+        "ga_mutation_risk_note": "",
+        "strategic_analysis": {
+          "best_use_case": "Basic Pokemon.",
+          "gameplay_role": "support",
+          "effectiveness_rating": "medium",
+          "position_preference": "flexible",
+          "key_strength": "built-in search",
+          "key_weakness": "very low HP (70)",
+          "synergy_requirements": [],
+          "anti_synergy_warnings": [],
+          "turn_to_play": "early_game",
+          "deckbuilding_priority": "low"
+        },
+        "categorization": {
+          "heal_factor": {
+            "has_heal": false,
+            "type": null,
+            "amounts": [],
+            "targets": [],
+            "conditions": []
+          },
+          "active_position": {
+            "best_position": "flexible",
+            "wants_active": false,
+            "wants_bench": false,
+            "active_benefit": "",
+            "bench_benefit": ""
+          },
+          "counter": {
+            "is_counter": false,
+            "counters": [],
+            "mechanism": ""
+          },
+          "status_conditions": {
+            "poison": {
+              "can_inflict": false,
+              "via_ability": false,
+              "via_attack": false,
+              "guaranteed": true,
+              "mechanism": ""
+            },
+            "burn": {
+              "can_inflict": false,
+              "via_ability": false,
+              "via_attack": false,
+              "guaranteed": true,
+              "mechanism": ""
+            },
+            "sleep": {
+              "can_inflict": false,
+              "via_ability": false,
+              "via_attack": false,
+              "guaranteed": true,
+              "mechanism": ""
+            },
+            "paralyze": {
+              "can_inflict": false,
+              "via_ability": false,
+              "via_attack": false,
+              "guaranteed": true,
+              "mechanism": ""
+            },
+            "confuse": {
+              "can_inflict": false,
+              "via_ability": false,
+              "via_attack": false,
+              "guaranteed": true,
+              "mechanism": ""
+            }
+          },
+          "no_retreat_cost": {
+            "base_retreat_cost": 1,
+            "has_free_retreat": false,
+            "provides_free_retreat": false,
+            "retreat_cost_reduction": false
+          },
+          "special_ability": {
+            "has_ability": true,
+            "ability_count": 1,
+            "ability_names": [
+              "Impromptu Carrier"
+            ],
+            "has_tera": false,
+            "ability_type": "passive",
+            "bench_protection": false,
+            "damage_prevention": false,
+            "energy_acceleration": false,
+            "draw_power": false,
+            "search_power": true,
+            "switch_power": false
+          },
+          "damage": {
+            "max_base_damage": 30,
+            "has_scaling_damage": false,
+            "scaling_mechanism": "",
+            "is_high_damage": false
+          },
+          "stadium_use_case": {
+            "is_stadium": false,
+            "references_stadium": false,
+            "stadium_synergy": "",
+            "stadium_type": null
+          },
+          "items_use_case": {
+            "is_item": false,
+            "is_supporter": false,
+            "item_category": null,
+            "use_case": ""
+          }
+        },
+        "confidence": "high",
+        "notes": "SEARCH_DETAIL: searches for: a Pokémon Tool card",
+        "revision_notes": "",
+        "is_colorless_type": true,
+        "colorless_energy_only": true,
+        "references_team_rocket_energy": false,
+        "references_legacy_energy": false,
+        "references_specific_energy": null,
+        "cross_reference_synergies": [
+          {
+            "partner_id": 21,
+            "partner_name": "Scrafty",
+            "type": "search_evo_target",
+            "direction": "this_finds_partner",
+            "reason": "Farfetch'd searches deck, can find Scrafty or its pre-evolutions"
+          },
+          {
+            "partner_id": 23,
+            "partner_name": "Hippowdon",
+            "type": "search_evo_target",
+            "direction": "this_finds_partner",
+            "reason": "Farfetch'd searches deck, can find Hippowdon or its pre-evolutions"
+          },
+          {
+            "partner_id": 26,
+            "partner_name": "Leafeon",
+            "type": "search_evo_target",
+            "direction": "this_finds_partner",
+            "reason": "Farfetch'd searches deck, can find Leafeon or its pre-evolutions"
+          },
+          {
+            "partner_id": 29,
+            "partner_name": "Sinistcha ex",
+            "type": "search_evo_target",
+            "direction": "this_finds_partner",
+            "reason": "Farfetch'd searches deck, can find Sinistcha ex or its pre-evolutions"
+          },
+          {
+            "partner_id": 30,
+            "partner_name": "Magcargo ex",
+            "type": "search_evo_target",
+            "direction": "this_finds_partner",
+            "reason": "Farfetch'd searches deck, can find Magcargo ex or its pre-evolutions"
+          },
+          {
+            "partner_id": 32,
+            "partner_name": "Glaceon",
+            "type": "search_evo_target",
+            "direction": "this_finds_partner",
+            "reason": "Farfetch'd searches deck, can find Glaceon or its pre-evolutions"
+          },
+          {
+            "partner_id": 34,
+            "partner_name": "Frogadier",
+            "type": "search_evo_target",
+            "direction": "this_finds_partner",
+            "reason": "Farfetch'd searches deck, can find Frogadier or its pre-evolutions"
+          },
+          {
+            "partner_id": 40,
+            "partner_name": "Greninja ex",
+            "type": "search_evo_target",
+            "direction": "this_finds_partner",
+            "reason": "Farfetch'd searches deck, can find Greninja ex or its pre-evolutions"
+          },
+          {
+            "partner_id": 48,
+            "partner_name": "Croconaw",
+            "type": "search_evo_target",
+            "direction": "this_finds_partner",
+            "reason": "Farfetch'd searches deck, can find Croconaw or its pre-evolutions"
+          },
+          {
+            "partner_id": 49,
+            "partner_name": "Feraligatr",
+            "type": "search_evo_target",
+            "direction": "this_finds_partner",
+            "reason": "Farfetch'd searches deck, can find Feraligatr or its pre-evolutions"
+          }
+        ]
+      }
+    }
+  ],
+  "design_rationale": "The triple-energy archetype uses 1-2 Pokemon species with multi-type attack costs, supported by energy-tutor Trainer/Special Energy cards that can fetch multiple energy types per turn. This avoids the problem of trying to run 6 species across 3 energy types."
+}

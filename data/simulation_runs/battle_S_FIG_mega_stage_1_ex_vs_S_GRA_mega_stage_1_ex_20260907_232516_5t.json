@@ -1,0 +1,4102 @@
+{
+  "agent1": "S_FIG_mega_stage_1_ex",
+  "agent2": "S_GRA_mega_stage_1_ex",
+  "winner": 0,
+  "turns": 5,
+  "states_count": 19,
+  "timestamp": "20260907_232516",
+  "states": [
+    {
+      "turn": 0,
+      "yourIndex": 0,
+      "firstPlayer": -1,
+      "context": "41",
+      "options": [
+        {
+          "type": 1
+        },
+        {
+          "type": 2
+        }
+      ],
+      "chosen_action": [
+        0
+      ],
+      "players": [
+        {
+          "active": [],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 60,
+          "discard": [],
+          "prize": [],
+          "handCount": 0,
+          "hand": [],
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        },
+        {
+          "active": [],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 60,
+          "discard": [],
+          "prize": [],
+          "handCount": 0,
+          "hand": null,
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        }
+      ],
+      "win_equity_p1": 0.5,
+      "win_equity_p2": 0.5,
+      "search_depth": 3,
+      "possibility_count": 2
+    },
+    {
+      "turn": 0,
+      "yourIndex": 0,
+      "firstPlayer": 0,
+      "context": "1",
+      "options": [
+        {
+          "type": 3,
+          "area": 2,
+          "index": 3,
+          "playerIndex": 0
+        },
+        {
+          "type": 3,
+          "area": 2,
+          "index": 5,
+          "playerIndex": 0
+        },
+        {
+          "type": 3,
+          "area": 2,
+          "index": 6,
+          "playerIndex": 0
+        }
+      ],
+      "chosen_action": [
+        2
+      ],
+      "players": [
+        {
+          "active": [],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 53,
+          "discard": [],
+          "prize": [],
+          "handCount": 7,
+          "hand": [
+            {
+              "id": 678,
+              "serial": 6,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 59,
+              "playerIndex": 0
+            },
+            {
+              "id": 1223,
+              "serial": 25,
+              "playerIndex": 0
+            },
+            {
+              "id": 333,
+              "serial": 5,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 54,
+              "playerIndex": 0
+            },
+            {
+              "id": 1006,
+              "serial": 18,
+              "playerIndex": 0
+            },
+            {
+              "id": 1056,
+              "serial": 11,
+              "playerIndex": 0
+            }
+          ],
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        },
+        {
+          "active": [],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 53,
+          "discard": [],
+          "prize": [],
+          "handCount": 7,
+          "hand": null,
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        }
+      ],
+      "win_equity_p1": 0.5,
+      "win_equity_p2": 0.5,
+      "search_depth": 3,
+      "possibility_count": 3
+    },
+    {
+      "turn": 0,
+      "yourIndex": 1,
+      "firstPlayer": 0,
+      "context": "1",
+      "options": [
+        {
+          "type": 3,
+          "area": 2,
+          "index": 5,
+          "playerIndex": 1
+        }
+      ],
+      "chosen_action": [
+        0
+      ],
+      "players": [
+        {
+          "active": [
+            null
+          ],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 53,
+          "discard": [],
+          "prize": [],
+          "handCount": 6,
+          "hand": null,
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        },
+        {
+          "active": [],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 53,
+          "discard": [],
+          "prize": [],
+          "handCount": 7,
+          "hand": [
+            {
+              "id": 1234,
+              "serial": 99,
+              "playerIndex": 1
+            },
+            {
+              "id": 1183,
+              "serial": 97,
+              "playerIndex": 1
+            },
+            {
+              "id": 1,
+              "serial": 106,
+              "playerIndex": 1
+            },
+            {
+              "id": 1,
+              "serial": 108,
+              "playerIndex": 1
+            },
+            {
+              "id": 1215,
+              "serial": 94,
+              "playerIndex": 1
+            },
+            {
+              "id": 44,
+              "serial": 79,
+              "playerIndex": 1
+            },
+            {
+              "id": 18,
+              "serial": 101,
+              "playerIndex": 1
+            }
+          ],
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        }
+      ],
+      "win_equity_p1": 0.5,
+      "win_equity_p2": 0.5,
+      "search_depth": 3,
+      "possibility_count": 1
+    },
+    {
+      "turn": 0,
+      "yourIndex": 0,
+      "firstPlayer": 0,
+      "context": "2",
+      "options": [
+        {
+          "type": 3,
+          "area": 2,
+          "index": 3,
+          "playerIndex": 0
+        },
+        {
+          "type": 3,
+          "area": 2,
+          "index": 5,
+          "playerIndex": 0
+        }
+      ],
+      "chosen_action": [
+        0,
+        1
+      ],
+      "players": [
+        {
+          "active": [
+            null
+          ],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 47,
+          "discard": [],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 6,
+          "hand": [
+            {
+              "id": 678,
+              "serial": 6,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 59,
+              "playerIndex": 0
+            },
+            {
+              "id": 1223,
+              "serial": 25,
+              "playerIndex": 0
+            },
+            {
+              "id": 333,
+              "serial": 5,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 54,
+              "playerIndex": 0
+            },
+            {
+              "id": 1006,
+              "serial": 18,
+              "playerIndex": 0
+            }
+          ],
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        },
+        {
+          "active": [
+            null
+          ],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 47,
+          "discard": [],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 6,
+          "hand": null,
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        }
+      ],
+      "win_equity_p1": 0.5,
+      "win_equity_p2": 0.5,
+      "search_depth": 3,
+      "possibility_count": 2
+    },
+    {
+      "turn": 1,
+      "yourIndex": 0,
+      "firstPlayer": 0,
+      "context": "0",
+      "options": [
+        {
+          "type": 8,
+          "area": 2,
+          "index": 1,
+          "inPlayArea": 4,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 1,
+          "inPlayArea": 5,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 1,
+          "inPlayArea": 5,
+          "inPlayIndex": 1
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 3,
+          "inPlayArea": 4,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 3,
+          "inPlayArea": 5,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 3,
+          "inPlayArea": 5,
+          "inPlayIndex": 1
+        },
+        {
+          "type": 14
+        }
+      ],
+      "chosen_action": [
+        0
+      ],
+      "players": [
+        {
+          "active": [
+            {
+              "id": 1056,
+              "serial": 11,
+              "playerIndex": 0,
+              "hp": 310,
+              "maxHp": 310,
+              "appearThisTurn": true,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [
+            {
+              "id": 333,
+              "serial": 5,
+              "playerIndex": 0,
+              "hp": 70,
+              "maxHp": 70,
+              "appearThisTurn": true,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            },
+            {
+              "id": 1006,
+              "serial": 18,
+              "playerIndex": 0,
+              "hp": 270,
+              "maxHp": 270,
+              "appearThisTurn": true,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "benchMax": 5,
+          "deckCount": 46,
+          "discard": [],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 5,
+          "hand": [
+            {
+              "id": 678,
+              "serial": 6,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 59,
+              "playerIndex": 0
+            },
+            {
+              "id": 1223,
+              "serial": 25,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 54,
+              "playerIndex": 0
+            },
+            {
+              "id": 1202,
+              "serial": 38,
+              "playerIndex": 0
+            }
+          ],
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        },
+        {
+          "active": [
+            {
+              "id": 44,
+              "serial": 79,
+              "playerIndex": 1,
+              "hp": 260,
+              "maxHp": 260,
+              "appearThisTurn": true,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 47,
+          "discard": [],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 6,
+          "hand": null,
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        }
+      ],
+      "win_equity_p1": 0.5,
+      "win_equity_p2": 0.5,
+      "search_depth": 3,
+      "possibility_count": 7,
+      "dominant_utility": "OODA & MCTS Immediate Strike Priority",
+      "dominant_symbol": "⚡ ACTIVE STRIKE ACCELERATION",
+      "decisive_signal": "Active attacker requires energy for immediate strike; prioritized for instant offensive tempo.",
+      "sync_status": "SYNCHRONIZED_OFFENSIVE_TEMPO",
+      "weight_mcts": 32,
+      "weight_nn": 22,
+      "weight_engine": 36,
+      "weight_cvm": 10,
+      "sim_transitions": 15,
+      "alphazero_probes": 28,
+      "mcts_thinking": "Immediate strike readiness forces opponent into defensive pivot.",
+      "nn_thinking": "Value network favors immediate active damage pressure.",
+      "ooda_thinking": "Active requires energy to strike; immediate strike acceleration (+12000) granted.",
+      "cvm_thinking": "Energy timing aligned with active attack cost.",
+      "alphazero_thinking": "AlphaZero MCTSxNN evaluated 28 candidate probes (lethal_ready=False); tactical guidance verified legal progression.",
+      "chosen_path_name": "Attach (Option #0)",
+      "cvm_values": {},
+      "nn_policy": [
+        0.9999,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "candidate_branches": [
+        {
+          "index": 0,
+          "name": "Attach (Option #0)",
+          "score": 15466.4,
+          "cvm_val": 0.5,
+          "nn_prior": 0.9999,
+          "status": "SELECTED (Optimal Strategy)",
+          "is_chosen": true
+        },
+        {
+          "index": 6,
+          "name": "End (Option #6)",
+          "score": 0.0,
+          "cvm_val": 0.5,
+          "nn_prior": 0.1429,
+          "status": "ALTERNATIVE",
+          "is_chosen": false
+        }
+      ],
+      "t_total_ms": 275.3,
+      "t_mcts_ms": 88.1,
+      "t_nn_ms": 60.57,
+      "t_ooda_ms": 99.11,
+      "t_cvm_ms": 27.53
+    },
+    {
+      "turn": 1,
+      "yourIndex": 0,
+      "firstPlayer": 0,
+      "context": "0",
+      "options": [
+        {
+          "type": 14
+        }
+      ],
+      "chosen_action": [
+        0
+      ],
+      "players": [
+        {
+          "active": [
+            {
+              "id": 1056,
+              "serial": 11,
+              "playerIndex": 0,
+              "hp": 310,
+              "maxHp": 310,
+              "appearThisTurn": true,
+              "energies": [
+                6
+              ],
+              "energyCards": [
+                {
+                  "id": 6,
+                  "serial": 59,
+                  "playerIndex": 0
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [
+            {
+              "id": 333,
+              "serial": 5,
+              "playerIndex": 0,
+              "hp": 70,
+              "maxHp": 70,
+              "appearThisTurn": true,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            },
+            {
+              "id": 1006,
+              "serial": 18,
+              "playerIndex": 0,
+              "hp": 270,
+              "maxHp": 270,
+              "appearThisTurn": true,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "benchMax": 5,
+          "deckCount": 46,
+          "discard": [],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 4,
+          "hand": [
+            {
+              "id": 678,
+              "serial": 6,
+              "playerIndex": 0
+            },
+            {
+              "id": 1223,
+              "serial": 25,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 54,
+              "playerIndex": 0
+            },
+            {
+              "id": 1202,
+              "serial": 38,
+              "playerIndex": 0
+            }
+          ],
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        },
+        {
+          "active": [
+            {
+              "id": 44,
+              "serial": 79,
+              "playerIndex": 1,
+              "hp": 260,
+              "maxHp": 260,
+              "appearThisTurn": true,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 47,
+          "discard": [],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 6,
+          "hand": null,
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        }
+      ],
+      "win_equity_p1": 0.5,
+      "win_equity_p2": 0.5,
+      "search_depth": 3,
+      "possibility_count": 1,
+      "dominant_utility": "OODA Decision Engine",
+      "dominant_symbol": "⚖️ TURN COMPLETION",
+      "decisive_signal": "All high-utility candidate actions exhausted; turn safely passed to maintain defensive posture.",
+      "sync_status": "SYNCHRONIZED_CONSENSUS",
+      "weight_mcts": 24,
+      "weight_nn": 26,
+      "weight_engine": 36,
+      "weight_cvm": 14,
+      "sim_transitions": 8,
+      "alphazero_probes": 4,
+      "mcts_thinking": "No further high-value moves in current turn search tree.",
+      "nn_thinking": "Policy prior flat; turn end recognized as optimal stop.",
+      "ooda_thinking": "OODA loop completed all beneficial phases.",
+      "cvm_thinking": "Zero card wastage on non-impactful actions.",
+      "alphazero_thinking": "AlphaZero MCTSxNN evaluated 4 candidate probes (lethal_ready=False); tactical guidance verified legal progression.",
+      "chosen_path_name": "End (Option #0)",
+      "cvm_values": {},
+      "nn_policy": [
+        0.9999
+      ],
+      "candidate_branches": [
+        {
+          "index": 0,
+          "name": "End (Option #0)",
+          "score": 0.0,
+          "cvm_val": 0.5,
+          "nn_prior": 1.0,
+          "status": "SELECTED (Optimal Strategy)",
+          "is_chosen": true
+        }
+      ],
+      "t_total_ms": 4.17,
+      "t_mcts_ms": 1.0,
+      "t_nn_ms": 1.08,
+      "t_ooda_ms": 1.5,
+      "t_cvm_ms": 0.58
+    },
+    {
+      "turn": 2,
+      "yourIndex": 1,
+      "firstPlayer": 0,
+      "context": "0",
+      "options": [
+        {
+          "type": 8,
+          "area": 2,
+          "index": 2,
+          "inPlayArea": 4,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 3,
+          "inPlayArea": 4,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 7,
+          "index": 4
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 5,
+          "inPlayArea": 4,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 6,
+          "inPlayArea": 4,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 14
+        }
+      ],
+      "chosen_action": [
+        0
+      ],
+      "players": [
+        {
+          "active": [
+            {
+              "id": 1056,
+              "serial": 11,
+              "playerIndex": 0,
+              "hp": 310,
+              "maxHp": 310,
+              "appearThisTurn": false,
+              "energies": [
+                6
+              ],
+              "energyCards": [
+                {
+                  "id": 6,
+                  "serial": 59,
+                  "playerIndex": 0
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [
+            {
+              "id": 333,
+              "serial": 5,
+              "playerIndex": 0,
+              "hp": 70,
+              "maxHp": 70,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            },
+            {
+              "id": 1006,
+              "serial": 18,
+              "playerIndex": 0,
+              "hp": 270,
+              "maxHp": 270,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "benchMax": 5,
+          "deckCount": 46,
+          "discard": [],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 4,
+          "hand": null,
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        },
+        {
+          "active": [
+            {
+              "id": 44,
+              "serial": 79,
+              "playerIndex": 1,
+              "hp": 260,
+              "maxHp": 260,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 46,
+          "discard": [],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 7,
+          "hand": [
+            {
+              "id": 1234,
+              "serial": 99,
+              "playerIndex": 1
+            },
+            {
+              "id": 1183,
+              "serial": 97,
+              "playerIndex": 1
+            },
+            {
+              "id": 1,
+              "serial": 106,
+              "playerIndex": 1
+            },
+            {
+              "id": 1,
+              "serial": 108,
+              "playerIndex": 1
+            },
+            {
+              "id": 1215,
+              "serial": 94,
+              "playerIndex": 1
+            },
+            {
+              "id": 18,
+              "serial": 101,
+              "playerIndex": 1
+            },
+            {
+              "id": 1,
+              "serial": 111,
+              "playerIndex": 1
+            }
+          ],
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        }
+      ],
+      "win_equity_p1": 0.5,
+      "win_equity_p2": 0.5,
+      "search_depth": 3,
+      "possibility_count": 6,
+      "dominant_utility": "OODA & MCTS Immediate Strike Priority",
+      "dominant_symbol": "⚡ ACTIVE STRIKE ACCELERATION",
+      "decisive_signal": "Active attacker requires energy for immediate strike; prioritized for instant offensive tempo.",
+      "sync_status": "SYNCHRONIZED_OFFENSIVE_TEMPO",
+      "weight_mcts": 32,
+      "weight_nn": 22,
+      "weight_engine": 36,
+      "weight_cvm": 10,
+      "sim_transitions": 14,
+      "alphazero_probes": 24,
+      "mcts_thinking": "Immediate strike readiness forces opponent into defensive pivot.",
+      "nn_thinking": "Value network favors immediate active damage pressure.",
+      "ooda_thinking": "Active requires energy to strike; immediate strike acceleration (+12000) granted.",
+      "cvm_thinking": "Energy timing aligned with active attack cost.",
+      "alphazero_thinking": "AlphaZero MCTSxNN evaluated 24 candidate probes (lethal_ready=False); tactical guidance verified legal progression.",
+      "chosen_path_name": "Attach (Option #0)",
+      "cvm_values": {},
+      "nn_policy": [
+        0.9999,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "candidate_branches": [
+        {
+          "index": 0,
+          "name": "Attach (Option #0)",
+          "score": 16538.9,
+          "cvm_val": 0.5,
+          "nn_prior": 0.9999,
+          "status": "SELECTED (Optimal Strategy)",
+          "is_chosen": true
+        },
+        {
+          "index": 2,
+          "name": "Supporter (Option #2)",
+          "score": 7849.6,
+          "cvm_val": 0.5,
+          "nn_prior": 0.0,
+          "status": "ALTERNATIVE",
+          "is_chosen": false
+        },
+        {
+          "index": 5,
+          "name": "End (Option #5)",
+          "score": 0.0,
+          "cvm_val": 0.5,
+          "nn_prior": 0.1667,
+          "status": "ALTERNATIVE",
+          "is_chosen": false
+        }
+      ],
+      "t_total_ms": 216.8,
+      "t_mcts_ms": 69.38,
+      "t_nn_ms": 47.7,
+      "t_ooda_ms": 78.05,
+      "t_cvm_ms": 21.68
+    },
+    {
+      "turn": 2,
+      "yourIndex": 1,
+      "firstPlayer": 0,
+      "context": "0",
+      "options": [
+        {
+          "type": 7,
+          "index": 3
+        },
+        {
+          "type": 14
+        }
+      ],
+      "chosen_action": [
+        0
+      ],
+      "players": [
+        {
+          "active": [
+            {
+              "id": 1056,
+              "serial": 11,
+              "playerIndex": 0,
+              "hp": 310,
+              "maxHp": 310,
+              "appearThisTurn": false,
+              "energies": [
+                6
+              ],
+              "energyCards": [
+                {
+                  "id": 6,
+                  "serial": 59,
+                  "playerIndex": 0
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [
+            {
+              "id": 333,
+              "serial": 5,
+              "playerIndex": 0,
+              "hp": 70,
+              "maxHp": 70,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            },
+            {
+              "id": 1006,
+              "serial": 18,
+              "playerIndex": 0,
+              "hp": 270,
+              "maxHp": 270,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "benchMax": 5,
+          "deckCount": 46,
+          "discard": [],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 4,
+          "hand": null,
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        },
+        {
+          "active": [
+            {
+              "id": 44,
+              "serial": 79,
+              "playerIndex": 1,
+              "hp": 260,
+              "maxHp": 260,
+              "appearThisTurn": false,
+              "energies": [
+                1
+              ],
+              "energyCards": [
+                {
+                  "id": 1,
+                  "serial": 106,
+                  "playerIndex": 1
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 46,
+          "discard": [],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 6,
+          "hand": [
+            {
+              "id": 1234,
+              "serial": 99,
+              "playerIndex": 1
+            },
+            {
+              "id": 1183,
+              "serial": 97,
+              "playerIndex": 1
+            },
+            {
+              "id": 1,
+              "serial": 108,
+              "playerIndex": 1
+            },
+            {
+              "id": 1215,
+              "serial": 94,
+              "playerIndex": 1
+            },
+            {
+              "id": 18,
+              "serial": 101,
+              "playerIndex": 1
+            },
+            {
+              "id": 1,
+              "serial": 111,
+              "playerIndex": 1
+            }
+          ],
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        }
+      ],
+      "win_equity_p1": 0.5,
+      "win_equity_p2": 0.5,
+      "search_depth": 3,
+      "possibility_count": 2,
+      "dominant_utility": "Card Value Model (CVM) & HiveMind Net",
+      "dominant_symbol": "📈 CONTEXTUAL PHASE UTILITY",
+      "decisive_signal": "Card Value Model identified critical hand acceleration threshold; boosted draw supporter over passive setup.",
+      "sync_status": "CONTEXTUAL_HAND_EXPANSION",
+      "weight_mcts": 10,
+      "weight_nn": 30,
+      "weight_engine": 18,
+      "weight_cvm": 42,
+      "sim_transitions": 8,
+      "alphazero_probes": 8,
+      "mcts_thinking": "Hand refresh expands search tree width for future rounds.",
+      "nn_thinking": "Policy net indicates supporter cycle maximizes next-turn action equity.",
+      "ooda_thinking": "Hand size below threshold; draw supporter prioritized.",
+      "cvm_thinking": "CVM contextual score boosted draw card for current turn phase.",
+      "alphazero_thinking": "AlphaZero MCTSxNN evaluated 8 candidate probes (lethal_ready=False); tactical guidance verified legal progression.",
+      "chosen_path_name": "Supporter (Option #0)",
+      "cvm_values": {},
+      "nn_policy": [
+        0.9999,
+        0.0
+      ],
+      "candidate_branches": [
+        {
+          "index": 0,
+          "name": "Supporter (Option #0)",
+          "score": 12498.9,
+          "cvm_val": 0.5,
+          "nn_prior": 0.9999,
+          "status": "SELECTED (Optimal Strategy)",
+          "is_chosen": true
+        },
+        {
+          "index": 1,
+          "name": "End (Option #1)",
+          "score": 0.0,
+          "cvm_val": 0.5,
+          "nn_prior": 0.5,
+          "status": "ALTERNATIVE",
+          "is_chosen": false
+        }
+      ],
+      "t_total_ms": 31.27,
+      "t_mcts_ms": 3.13,
+      "t_nn_ms": 9.38,
+      "t_ooda_ms": 5.63,
+      "t_cvm_ms": 13.13
+    },
+    {
+      "turn": 2,
+      "yourIndex": 1,
+      "firstPlayer": 0,
+      "context": "0",
+      "options": [
+        {
+          "type": 14
+        }
+      ],
+      "chosen_action": [
+        0
+      ],
+      "players": [
+        {
+          "active": [
+            {
+              "id": 1056,
+              "serial": 11,
+              "playerIndex": 0,
+              "hp": 310,
+              "maxHp": 310,
+              "appearThisTurn": false,
+              "energies": [
+                6
+              ],
+              "energyCards": [
+                {
+                  "id": 6,
+                  "serial": 59,
+                  "playerIndex": 0
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [
+            {
+              "id": 333,
+              "serial": 5,
+              "playerIndex": 0,
+              "hp": 70,
+              "maxHp": 70,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            },
+            {
+              "id": 1006,
+              "serial": 18,
+              "playerIndex": 0,
+              "hp": 270,
+              "maxHp": 270,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "benchMax": 5,
+          "deckCount": 46,
+          "discard": [],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 4,
+          "hand": null,
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        },
+        {
+          "active": [
+            {
+              "id": 44,
+              "serial": 79,
+              "playerIndex": 1,
+              "hp": 260,
+              "maxHp": 260,
+              "appearThisTurn": false,
+              "energies": [
+                1
+              ],
+              "energyCards": [
+                {
+                  "id": 1,
+                  "serial": 106,
+                  "playerIndex": 1
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 46,
+          "discard": [
+            {
+              "id": 1215,
+              "serial": 94,
+              "playerIndex": 1
+            }
+          ],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 5,
+          "hand": [
+            {
+              "id": 1234,
+              "serial": 99,
+              "playerIndex": 1
+            },
+            {
+              "id": 1183,
+              "serial": 97,
+              "playerIndex": 1
+            },
+            {
+              "id": 1,
+              "serial": 108,
+              "playerIndex": 1
+            },
+            {
+              "id": 18,
+              "serial": 101,
+              "playerIndex": 1
+            },
+            {
+              "id": 1,
+              "serial": 111,
+              "playerIndex": 1
+            }
+          ],
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        }
+      ],
+      "win_equity_p1": 0.5,
+      "win_equity_p2": 0.5,
+      "search_depth": 3,
+      "possibility_count": 1,
+      "dominant_utility": "OODA Decision Engine",
+      "dominant_symbol": "⚖️ TURN COMPLETION",
+      "decisive_signal": "All high-utility candidate actions exhausted; turn safely passed to maintain defensive posture.",
+      "sync_status": "SYNCHRONIZED_CONSENSUS",
+      "weight_mcts": 24,
+      "weight_nn": 26,
+      "weight_engine": 36,
+      "weight_cvm": 14,
+      "sim_transitions": 8,
+      "alphazero_probes": 4,
+      "mcts_thinking": "No further high-value moves in current turn search tree.",
+      "nn_thinking": "Policy prior flat; turn end recognized as optimal stop.",
+      "ooda_thinking": "OODA loop completed all beneficial phases.",
+      "cvm_thinking": "Zero card wastage on non-impactful actions.",
+      "alphazero_thinking": "AlphaZero MCTSxNN evaluated 4 candidate probes (lethal_ready=False); tactical guidance verified legal progression.",
+      "chosen_path_name": "End (Option #0)",
+      "cvm_values": {},
+      "nn_policy": [
+        0.9999
+      ],
+      "candidate_branches": [
+        {
+          "index": 0,
+          "name": "End (Option #0)",
+          "score": 0.0,
+          "cvm_val": 0.5,
+          "nn_prior": 1.0,
+          "status": "SELECTED (Optimal Strategy)",
+          "is_chosen": true
+        }
+      ],
+      "t_total_ms": 5.38,
+      "t_mcts_ms": 1.29,
+      "t_nn_ms": 1.4,
+      "t_ooda_ms": 1.94,
+      "t_cvm_ms": 0.75
+    },
+    {
+      "turn": 3,
+      "yourIndex": 0,
+      "firstPlayer": 0,
+      "context": "0",
+      "options": [
+        {
+          "type": 9,
+          "area": 2,
+          "index": 0,
+          "inPlayArea": 5,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 7,
+          "index": 1
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 2,
+          "inPlayArea": 4,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 2,
+          "inPlayArea": 5,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 2,
+          "inPlayArea": 5,
+          "inPlayIndex": 1
+        },
+        {
+          "type": 7,
+          "index": 3
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 4,
+          "inPlayArea": 4,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 4,
+          "inPlayArea": 5,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 4,
+          "inPlayArea": 5,
+          "inPlayIndex": 1
+        },
+        {
+          "type": 14
+        }
+      ],
+      "chosen_action": [
+        0
+      ],
+      "players": [
+        {
+          "active": [
+            {
+              "id": 1056,
+              "serial": 11,
+              "playerIndex": 0,
+              "hp": 310,
+              "maxHp": 310,
+              "appearThisTurn": false,
+              "energies": [
+                6
+              ],
+              "energyCards": [
+                {
+                  "id": 6,
+                  "serial": 59,
+                  "playerIndex": 0
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [
+            {
+              "id": 333,
+              "serial": 5,
+              "playerIndex": 0,
+              "hp": 70,
+              "maxHp": 70,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            },
+            {
+              "id": 1006,
+              "serial": 18,
+              "playerIndex": 0,
+              "hp": 270,
+              "maxHp": 270,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "benchMax": 5,
+          "deckCount": 45,
+          "discard": [],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 5,
+          "hand": [
+            {
+              "id": 678,
+              "serial": 6,
+              "playerIndex": 0
+            },
+            {
+              "id": 1223,
+              "serial": 25,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 54,
+              "playerIndex": 0
+            },
+            {
+              "id": 1202,
+              "serial": 38,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 52,
+              "playerIndex": 0
+            }
+          ],
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        },
+        {
+          "active": [
+            {
+              "id": 44,
+              "serial": 79,
+              "playerIndex": 1,
+              "hp": 260,
+              "maxHp": 260,
+              "appearThisTurn": false,
+              "energies": [
+                1
+              ],
+              "energyCards": [
+                {
+                  "id": 1,
+                  "serial": 106,
+                  "playerIndex": 1
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 46,
+          "discard": [
+            {
+              "id": 1215,
+              "serial": 94,
+              "playerIndex": 1
+            }
+          ],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 5,
+          "hand": null,
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        }
+      ],
+      "win_equity_p1": 0.5,
+      "win_equity_p2": 0.5,
+      "search_depth": 3,
+      "possibility_count": 10,
+      "dominant_utility": "PyTorch GPU HiveMind Attention Net",
+      "dominant_symbol": "🧬 NEURAL POLICY PRIOR",
+      "decisive_signal": "HiveMind 4-head attention network emitted dominant policy prior for evolution deployment.",
+      "sync_status": "NEURAL_POLICY_DOMINATED",
+      "weight_mcts": 12,
+      "weight_nn": 46,
+      "weight_engine": 26,
+      "weight_cvm": 16,
+      "sim_transitions": 23,
+      "alphazero_probes": 32,
+      "mcts_thinking": "Evolution preserves bench depth and eliminates basic vulnerability.",
+      "nn_thinking": "Self-attention policy prior elevated evolution candidate (15871.4 pts).",
+      "ooda_thinking": "OODA posture prioritized active/bench carry maturation.",
+      "cvm_thinking": "CVM validated mid-game carry deployment timing.",
+      "alphazero_thinking": "AlphaZero MCTSxNN evaluated 32 candidate probes (lethal_ready=False); tactical guidance verified legal progression.",
+      "chosen_path_name": "Evolution (Option #0)",
+      "cvm_values": {},
+      "nn_policy": [
+        0.9999,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "candidate_branches": [
+        {
+          "index": 0,
+          "name": "Evolution (Option #0)",
+          "score": 15871.4,
+          "cvm_val": 0.5,
+          "nn_prior": 0.9999,
+          "status": "SELECTED (Optimal Strategy)",
+          "is_chosen": true
+        },
+        {
+          "index": 2,
+          "name": "Attach (Option #2)",
+          "score": 12041.3,
+          "cvm_val": 0.5,
+          "nn_prior": 0.0,
+          "status": "ALTERNATIVE",
+          "is_chosen": false
+        },
+        {
+          "index": 1,
+          "name": "Supporter (Option #1)",
+          "score": 7849.6,
+          "cvm_val": 0.5,
+          "nn_prior": 0.0,
+          "status": "ALTERNATIVE",
+          "is_chosen": false
+        },
+        {
+          "index": 5,
+          "name": "Supporter (Option #5)",
+          "score": 7849.6,
+          "cvm_val": 0.5,
+          "nn_prior": 0.0,
+          "status": "ALTERNATIVE",
+          "is_chosen": false
+        },
+        {
+          "index": 9,
+          "name": "End (Option #9)",
+          "score": 0.0,
+          "cvm_val": 0.5,
+          "nn_prior": 0.1,
+          "status": "ALTERNATIVE",
+          "is_chosen": false
+        }
+      ],
+      "t_total_ms": 325.22,
+      "t_mcts_ms": 39.03,
+      "t_nn_ms": 149.6,
+      "t_ooda_ms": 84.56,
+      "t_cvm_ms": 52.04
+    },
+    {
+      "turn": 3,
+      "yourIndex": 0,
+      "firstPlayer": 0,
+      "context": "0",
+      "options": [
+        {
+          "type": 7,
+          "index": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 1,
+          "inPlayArea": 4,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 1,
+          "inPlayArea": 5,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 1,
+          "inPlayArea": 5,
+          "inPlayIndex": 1
+        },
+        {
+          "type": 7,
+          "index": 2
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 3,
+          "inPlayArea": 4,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 3,
+          "inPlayArea": 5,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 3,
+          "inPlayArea": 5,
+          "inPlayIndex": 1
+        },
+        {
+          "type": 14
+        }
+      ],
+      "chosen_action": [
+        1
+      ],
+      "players": [
+        {
+          "active": [
+            {
+              "id": 1056,
+              "serial": 11,
+              "playerIndex": 0,
+              "hp": 310,
+              "maxHp": 310,
+              "appearThisTurn": false,
+              "energies": [
+                6
+              ],
+              "energyCards": [
+                {
+                  "id": 6,
+                  "serial": 59,
+                  "playerIndex": 0
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [
+            {
+              "id": 678,
+              "serial": 6,
+              "playerIndex": 0,
+              "hp": 340,
+              "maxHp": 340,
+              "appearThisTurn": true,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": [
+                {
+                  "id": 333,
+                  "serial": 5,
+                  "playerIndex": 0
+                }
+              ]
+            },
+            {
+              "id": 1006,
+              "serial": 18,
+              "playerIndex": 0,
+              "hp": 270,
+              "maxHp": 270,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "benchMax": 5,
+          "deckCount": 45,
+          "discard": [],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 4,
+          "hand": [
+            {
+              "id": 1223,
+              "serial": 25,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 54,
+              "playerIndex": 0
+            },
+            {
+              "id": 1202,
+              "serial": 38,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 52,
+              "playerIndex": 0
+            }
+          ],
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        },
+        {
+          "active": [
+            {
+              "id": 44,
+              "serial": 79,
+              "playerIndex": 1,
+              "hp": 260,
+              "maxHp": 260,
+              "appearThisTurn": false,
+              "energies": [
+                1
+              ],
+              "energyCards": [
+                {
+                  "id": 1,
+                  "serial": 106,
+                  "playerIndex": 1
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 46,
+          "discard": [
+            {
+              "id": 1215,
+              "serial": 94,
+              "playerIndex": 1
+            }
+          ],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 5,
+          "hand": null,
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        }
+      ],
+      "win_equity_p1": 0.5,
+      "win_equity_p2": 0.5,
+      "search_depth": 3,
+      "possibility_count": 9,
+      "dominant_utility": "OODA & MCTS Immediate Strike Priority",
+      "dominant_symbol": "⚡ ACTIVE STRIKE ACCELERATION",
+      "decisive_signal": "Active attacker requires energy for immediate strike; prioritized for instant offensive tempo.",
+      "sync_status": "SYNCHRONIZED_OFFENSIVE_TEMPO",
+      "weight_mcts": 32,
+      "weight_nn": 22,
+      "weight_engine": 36,
+      "weight_cvm": 10,
+      "sim_transitions": 21,
+      "alphazero_probes": 32,
+      "mcts_thinking": "Immediate strike readiness forces opponent into defensive pivot.",
+      "nn_thinking": "Value network favors immediate active damage pressure.",
+      "ooda_thinking": "Active requires energy to strike; immediate strike acceleration (+12000) granted.",
+      "cvm_thinking": "Energy timing aligned with active attack cost.",
+      "alphazero_thinking": "AlphaZero MCTSxNN evaluated 32 candidate probes (lethal_ready=False); tactical guidance verified legal progression.",
+      "chosen_path_name": "Attach (Option #1)",
+      "cvm_values": {},
+      "nn_policy": [
+        0.9999,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "candidate_branches": [
+        {
+          "index": 1,
+          "name": "Attach (Option #1)",
+          "score": 12040.3,
+          "cvm_val": 0.5,
+          "nn_prior": 0.0,
+          "status": "SELECTED (Optimal Strategy)",
+          "is_chosen": true
+        },
+        {
+          "index": 0,
+          "name": "Supporter (Option #0)",
+          "score": 10037.5,
+          "cvm_val": 0.5,
+          "nn_prior": 0.9999,
+          "status": "ALTERNATIVE",
+          "is_chosen": false
+        },
+        {
+          "index": 4,
+          "name": "Supporter (Option #4)",
+          "score": 7849.6,
+          "cvm_val": 0.5,
+          "nn_prior": 0.0,
+          "status": "ALTERNATIVE",
+          "is_chosen": false
+        },
+        {
+          "index": 8,
+          "name": "End (Option #8)",
+          "score": 0.0,
+          "cvm_val": 0.5,
+          "nn_prior": 0.1111,
+          "status": "ALTERNATIVE",
+          "is_chosen": false
+        }
+      ],
+      "t_total_ms": 286.57,
+      "t_mcts_ms": 91.7,
+      "t_nn_ms": 63.04,
+      "t_ooda_ms": 103.16,
+      "t_cvm_ms": 28.66
+    },
+    {
+      "turn": 3,
+      "yourIndex": 0,
+      "firstPlayer": 0,
+      "context": "0",
+      "options": [
+        {
+          "type": 7,
+          "index": 0
+        },
+        {
+          "type": 7,
+          "index": 1
+        },
+        {
+          "type": 12
+        },
+        {
+          "type": 14
+        }
+      ],
+      "chosen_action": [
+        0
+      ],
+      "players": [
+        {
+          "active": [
+            {
+              "id": 1056,
+              "serial": 11,
+              "playerIndex": 0,
+              "hp": 310,
+              "maxHp": 310,
+              "appearThisTurn": false,
+              "energies": [
+                6,
+                6
+              ],
+              "energyCards": [
+                {
+                  "id": 6,
+                  "serial": 59,
+                  "playerIndex": 0
+                },
+                {
+                  "id": 6,
+                  "serial": 54,
+                  "playerIndex": 0
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [
+            {
+              "id": 678,
+              "serial": 6,
+              "playerIndex": 0,
+              "hp": 340,
+              "maxHp": 340,
+              "appearThisTurn": true,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": [
+                {
+                  "id": 333,
+                  "serial": 5,
+                  "playerIndex": 0
+                }
+              ]
+            },
+            {
+              "id": 1006,
+              "serial": 18,
+              "playerIndex": 0,
+              "hp": 270,
+              "maxHp": 270,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "benchMax": 5,
+          "deckCount": 45,
+          "discard": [],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 3,
+          "hand": [
+            {
+              "id": 1223,
+              "serial": 25,
+              "playerIndex": 0
+            },
+            {
+              "id": 1202,
+              "serial": 38,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 52,
+              "playerIndex": 0
+            }
+          ],
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        },
+        {
+          "active": [
+            {
+              "id": 44,
+              "serial": 79,
+              "playerIndex": 1,
+              "hp": 260,
+              "maxHp": 260,
+              "appearThisTurn": false,
+              "energies": [
+                1
+              ],
+              "energyCards": [
+                {
+                  "id": 1,
+                  "serial": 106,
+                  "playerIndex": 1
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 46,
+          "discard": [
+            {
+              "id": 1215,
+              "serial": 94,
+              "playerIndex": 1
+            }
+          ],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 5,
+          "hand": null,
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        }
+      ],
+      "win_equity_p1": 0.5,
+      "win_equity_p2": 0.5,
+      "search_depth": 3,
+      "possibility_count": 4,
+      "dominant_utility": "Card Value Model (CVM) & HiveMind Net",
+      "dominant_symbol": "📈 CONTEXTUAL PHASE UTILITY",
+      "decisive_signal": "Card Value Model identified critical hand acceleration threshold; boosted draw supporter over passive setup.",
+      "sync_status": "CONTEXTUAL_HAND_EXPANSION",
+      "weight_mcts": 10,
+      "weight_nn": 30,
+      "weight_engine": 18,
+      "weight_cvm": 42,
+      "sim_transitions": 12,
+      "alphazero_probes": 16,
+      "mcts_thinking": "Hand refresh expands search tree width for future rounds.",
+      "nn_thinking": "Policy net indicates supporter cycle maximizes next-turn action equity.",
+      "ooda_thinking": "Hand size below threshold; draw supporter prioritized.",
+      "cvm_thinking": "CVM contextual score boosted draw card for current turn phase.",
+      "alphazero_thinking": "AlphaZero MCTSxNN evaluated 16 candidate probes (lethal_ready=False); tactical guidance verified legal progression.",
+      "chosen_path_name": "Supporter (Option #0)",
+      "cvm_values": {},
+      "nn_policy": [
+        0.9999,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "candidate_branches": [
+        {
+          "index": 0,
+          "name": "Supporter (Option #0)",
+          "score": 12498.9,
+          "cvm_val": 0.5,
+          "nn_prior": 0.9999,
+          "status": "SELECTED (Optimal Strategy)",
+          "is_chosen": true
+        },
+        {
+          "index": 1,
+          "name": "Supporter (Option #1)",
+          "score": 9764.1,
+          "cvm_val": 0.5,
+          "nn_prior": 0.0,
+          "status": "ALTERNATIVE",
+          "is_chosen": false
+        },
+        {
+          "index": 3,
+          "name": "End (Option #3)",
+          "score": 0.0,
+          "cvm_val": 0.5,
+          "nn_prior": 0.25,
+          "status": "ALTERNATIVE",
+          "is_chosen": false
+        }
+      ],
+      "t_total_ms": 69.14,
+      "t_mcts_ms": 6.91,
+      "t_nn_ms": 20.74,
+      "t_ooda_ms": 12.44,
+      "t_cvm_ms": 29.04
+    },
+    {
+      "turn": 3,
+      "yourIndex": 0,
+      "firstPlayer": 0,
+      "context": "0",
+      "options": [
+        {
+          "type": 7,
+          "index": 1
+        },
+        {
+          "type": 12
+        },
+        {
+          "type": 14
+        }
+      ],
+      "chosen_action": [
+        0
+      ],
+      "players": [
+        {
+          "active": [
+            {
+              "id": 1056,
+              "serial": 11,
+              "playerIndex": 0,
+              "hp": 310,
+              "maxHp": 310,
+              "appearThisTurn": false,
+              "energies": [
+                6,
+                6
+              ],
+              "energyCards": [
+                {
+                  "id": 6,
+                  "serial": 59,
+                  "playerIndex": 0
+                },
+                {
+                  "id": 6,
+                  "serial": 54,
+                  "playerIndex": 0
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [
+            {
+              "id": 678,
+              "serial": 6,
+              "playerIndex": 0,
+              "hp": 340,
+              "maxHp": 340,
+              "appearThisTurn": true,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": [
+                {
+                  "id": 333,
+                  "serial": 5,
+                  "playerIndex": 0
+                }
+              ]
+            },
+            {
+              "id": 1006,
+              "serial": 18,
+              "playerIndex": 0,
+              "hp": 270,
+              "maxHp": 270,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "benchMax": 5,
+          "deckCount": 42,
+          "discard": [
+            {
+              "id": 1223,
+              "serial": 25,
+              "playerIndex": 0
+            }
+          ],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 5,
+          "hand": [
+            {
+              "id": 20,
+              "serial": 41,
+              "playerIndex": 0
+            },
+            {
+              "id": 756,
+              "serial": 14,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 60,
+              "playerIndex": 0
+            },
+            {
+              "id": 1195,
+              "serial": 29,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 51,
+              "playerIndex": 0
+            }
+          ],
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        },
+        {
+          "active": [
+            {
+              "id": 44,
+              "serial": 79,
+              "playerIndex": 1,
+              "hp": 260,
+              "maxHp": 260,
+              "appearThisTurn": false,
+              "energies": [
+                1
+              ],
+              "energyCards": [
+                {
+                  "id": 1,
+                  "serial": 106,
+                  "playerIndex": 1
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 48,
+          "discard": [
+            {
+              "id": 1215,
+              "serial": 94,
+              "playerIndex": 1
+            }
+          ],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 3,
+          "hand": null,
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        }
+      ],
+      "win_equity_p1": 0.5,
+      "win_equity_p2": 0.5,
+      "search_depth": 3,
+      "possibility_count": 3,
+      "dominant_utility": "PyTorch GPU HiveMind Attention Net",
+      "dominant_symbol": "🧠 FIELD DEVELOPMENT PRIOR",
+      "decisive_signal": "Neural policy evaluated optimal board placement to secure bench depth and donk protection.",
+      "sync_status": "SYNCHRONIZED_CROSS_UTILITY",
+      "weight_mcts": 12,
+      "weight_nn": 42,
+      "weight_engine": 28,
+      "weight_cvm": 18,
+      "sim_transitions": 9,
+      "alphazero_probes": 12,
+      "mcts_thinking": "Empty bench protection invariant satisfied.",
+      "nn_thinking": "HiveMind attention net favored bench deployment.",
+      "ooda_thinking": "Bench size (2) expanded to prevent sudden knockout loss.",
+      "cvm_thinking": "Basic card contextual value positive for early setup.",
+      "alphazero_thinking": "AlphaZero MCTSxNN evaluated 12 candidate probes (lethal_ready=False); tactical guidance verified legal progression.",
+      "chosen_path_name": "Bench (Option #0)",
+      "cvm_values": {},
+      "nn_policy": [
+        0.9999,
+        0.0,
+        0.0
+      ],
+      "candidate_branches": [
+        {
+          "index": 0,
+          "name": "Bench (Option #0)",
+          "score": 14230.1,
+          "cvm_val": 0.5,
+          "nn_prior": 0.9999,
+          "status": "SELECTED (Optimal Strategy)",
+          "is_chosen": true
+        },
+        {
+          "index": 2,
+          "name": "End (Option #2)",
+          "score": 0.0,
+          "cvm_val": 0.5,
+          "nn_prior": 0.3333,
+          "status": "ALTERNATIVE",
+          "is_chosen": false
+        }
+      ],
+      "t_total_ms": 5.79,
+      "t_mcts_ms": 0.69,
+      "t_nn_ms": 2.43,
+      "t_ooda_ms": 1.62,
+      "t_cvm_ms": 1.04
+    },
+    {
+      "turn": 3,
+      "yourIndex": 0,
+      "firstPlayer": 0,
+      "context": "0",
+      "options": [
+        {
+          "type": 12
+        },
+        {
+          "type": 14
+        }
+      ],
+      "chosen_action": [
+        1
+      ],
+      "players": [
+        {
+          "active": [
+            {
+              "id": 1056,
+              "serial": 11,
+              "playerIndex": 0,
+              "hp": 310,
+              "maxHp": 310,
+              "appearThisTurn": false,
+              "energies": [
+                6,
+                6
+              ],
+              "energyCards": [
+                {
+                  "id": 6,
+                  "serial": 59,
+                  "playerIndex": 0
+                },
+                {
+                  "id": 6,
+                  "serial": 54,
+                  "playerIndex": 0
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [
+            {
+              "id": 678,
+              "serial": 6,
+              "playerIndex": 0,
+              "hp": 340,
+              "maxHp": 340,
+              "appearThisTurn": true,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": [
+                {
+                  "id": 333,
+                  "serial": 5,
+                  "playerIndex": 0
+                }
+              ]
+            },
+            {
+              "id": 1006,
+              "serial": 18,
+              "playerIndex": 0,
+              "hp": 270,
+              "maxHp": 270,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            },
+            {
+              "id": 756,
+              "serial": 14,
+              "playerIndex": 0,
+              "hp": 300,
+              "maxHp": 300,
+              "appearThisTurn": true,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "benchMax": 5,
+          "deckCount": 42,
+          "discard": [
+            {
+              "id": 1223,
+              "serial": 25,
+              "playerIndex": 0
+            }
+          ],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 4,
+          "hand": [
+            {
+              "id": 20,
+              "serial": 41,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 60,
+              "playerIndex": 0
+            },
+            {
+              "id": 1195,
+              "serial": 29,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 51,
+              "playerIndex": 0
+            }
+          ],
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        },
+        {
+          "active": [
+            {
+              "id": 44,
+              "serial": 79,
+              "playerIndex": 1,
+              "hp": 260,
+              "maxHp": 260,
+              "appearThisTurn": false,
+              "energies": [
+                1
+              ],
+              "energyCards": [
+                {
+                  "id": 1,
+                  "serial": 106,
+                  "playerIndex": 1
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 48,
+          "discard": [
+            {
+              "id": 1215,
+              "serial": 94,
+              "playerIndex": 1
+            }
+          ],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 3,
+          "hand": null,
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        }
+      ],
+      "win_equity_p1": 0.5,
+      "win_equity_p2": 0.5,
+      "search_depth": 3,
+      "possibility_count": 2,
+      "dominant_utility": "OODA Decision Engine",
+      "dominant_symbol": "⚖️ TURN COMPLETION",
+      "decisive_signal": "All high-utility candidate actions exhausted; turn safely passed to maintain defensive posture.",
+      "sync_status": "SYNCHRONIZED_CONSENSUS",
+      "weight_mcts": 24,
+      "weight_nn": 26,
+      "weight_engine": 36,
+      "weight_cvm": 14,
+      "sim_transitions": 8,
+      "alphazero_probes": 8,
+      "mcts_thinking": "No further high-value moves in current turn search tree.",
+      "nn_thinking": "Policy prior flat; turn end recognized as optimal stop.",
+      "ooda_thinking": "OODA loop completed all beneficial phases.",
+      "cvm_thinking": "Zero card wastage on non-impactful actions.",
+      "alphazero_thinking": "AlphaZero MCTSxNN evaluated 8 candidate probes (lethal_ready=False); tactical guidance verified legal progression.",
+      "chosen_path_name": "End (Option #1)",
+      "cvm_values": {},
+      "nn_policy": [
+        0.9999,
+        0.0
+      ],
+      "candidate_branches": [
+        {
+          "index": 1,
+          "name": "End (Option #1)",
+          "score": 0.0,
+          "cvm_val": 0.5,
+          "nn_prior": 0.5,
+          "status": "SELECTED (Optimal Strategy)",
+          "is_chosen": true
+        }
+      ],
+      "t_total_ms": 6.26,
+      "t_mcts_ms": 1.5,
+      "t_nn_ms": 1.63,
+      "t_ooda_ms": 2.25,
+      "t_cvm_ms": 0.88
+    },
+    {
+      "turn": 4,
+      "yourIndex": 1,
+      "firstPlayer": 0,
+      "context": "0",
+      "options": [
+        {
+          "type": 8,
+          "area": 2,
+          "index": 0,
+          "inPlayArea": 4,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 1,
+          "inPlayArea": 4,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 3,
+          "inPlayArea": 4,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 14
+        }
+      ],
+      "chosen_action": [
+        0
+      ],
+      "players": [
+        {
+          "active": [
+            {
+              "id": 1056,
+              "serial": 11,
+              "playerIndex": 0,
+              "hp": 310,
+              "maxHp": 310,
+              "appearThisTurn": false,
+              "energies": [
+                6,
+                6
+              ],
+              "energyCards": [
+                {
+                  "id": 6,
+                  "serial": 59,
+                  "playerIndex": 0
+                },
+                {
+                  "id": 6,
+                  "serial": 54,
+                  "playerIndex": 0
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [
+            {
+              "id": 678,
+              "serial": 6,
+              "playerIndex": 0,
+              "hp": 340,
+              "maxHp": 340,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": [
+                {
+                  "id": 333,
+                  "serial": 5,
+                  "playerIndex": 0
+                }
+              ]
+            },
+            {
+              "id": 1006,
+              "serial": 18,
+              "playerIndex": 0,
+              "hp": 270,
+              "maxHp": 270,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            },
+            {
+              "id": 756,
+              "serial": 14,
+              "playerIndex": 0,
+              "hp": 300,
+              "maxHp": 300,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "benchMax": 5,
+          "deckCount": 42,
+          "discard": [
+            {
+              "id": 1223,
+              "serial": 25,
+              "playerIndex": 0
+            }
+          ],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 4,
+          "hand": null,
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        },
+        {
+          "active": [
+            {
+              "id": 44,
+              "serial": 79,
+              "playerIndex": 1,
+              "hp": 260,
+              "maxHp": 260,
+              "appearThisTurn": false,
+              "energies": [
+                1
+              ],
+              "energyCards": [
+                {
+                  "id": 1,
+                  "serial": 106,
+                  "playerIndex": 1
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 47,
+          "discard": [
+            {
+              "id": 1215,
+              "serial": 94,
+              "playerIndex": 1
+            }
+          ],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 4,
+          "hand": [
+            {
+              "id": 1,
+              "serial": 105,
+              "playerIndex": 1
+            },
+            {
+              "id": 1,
+              "serial": 118,
+              "playerIndex": 1
+            },
+            {
+              "id": 1209,
+              "serial": 85,
+              "playerIndex": 1
+            },
+            {
+              "id": 1,
+              "serial": 115,
+              "playerIndex": 1
+            }
+          ],
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        }
+      ],
+      "win_equity_p1": 0.5,
+      "win_equity_p2": 0.5,
+      "search_depth": 3,
+      "possibility_count": 4,
+      "dominant_utility": "OODA & MCTS Immediate Strike Priority",
+      "dominant_symbol": "⚡ ACTIVE STRIKE ACCELERATION",
+      "decisive_signal": "Active attacker requires energy for immediate strike; prioritized for instant offensive tempo.",
+      "sync_status": "SYNCHRONIZED_OFFENSIVE_TEMPO",
+      "weight_mcts": 32,
+      "weight_nn": 22,
+      "weight_engine": 36,
+      "weight_cvm": 10,
+      "sim_transitions": 12,
+      "alphazero_probes": 16,
+      "mcts_thinking": "Immediate strike readiness forces opponent into defensive pivot.",
+      "nn_thinking": "Value network favors immediate active damage pressure.",
+      "ooda_thinking": "Active requires energy to strike; immediate strike acceleration (+12000) granted.",
+      "cvm_thinking": "Energy timing aligned with active attack cost.",
+      "alphazero_thinking": "AlphaZero MCTSxNN evaluated 16 candidate probes (lethal_ready=False); tactical guidance verified legal progression.",
+      "chosen_path_name": "Attach (Option #0)",
+      "cvm_values": {},
+      "nn_policy": [
+        0.9999,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "candidate_branches": [
+        {
+          "index": 0,
+          "name": "Attach (Option #0)",
+          "score": 14908.1,
+          "cvm_val": 0.5,
+          "nn_prior": 0.9999,
+          "status": "SELECTED (Optimal Strategy)",
+          "is_chosen": true
+        },
+        {
+          "index": 3,
+          "name": "End (Option #3)",
+          "score": 0.0,
+          "cvm_val": 0.5,
+          "nn_prior": 0.25,
+          "status": "ALTERNATIVE",
+          "is_chosen": false
+        }
+      ],
+      "t_total_ms": 291.83,
+      "t_mcts_ms": 93.38,
+      "t_nn_ms": 64.2,
+      "t_ooda_ms": 105.06,
+      "t_cvm_ms": 29.18
+    },
+    {
+      "turn": 4,
+      "yourIndex": 1,
+      "firstPlayer": 0,
+      "context": "0",
+      "options": [
+        {
+          "type": 14
+        }
+      ],
+      "chosen_action": [
+        0
+      ],
+      "players": [
+        {
+          "active": [
+            {
+              "id": 1056,
+              "serial": 11,
+              "playerIndex": 0,
+              "hp": 310,
+              "maxHp": 310,
+              "appearThisTurn": false,
+              "energies": [
+                6,
+                6
+              ],
+              "energyCards": [
+                {
+                  "id": 6,
+                  "serial": 59,
+                  "playerIndex": 0
+                },
+                {
+                  "id": 6,
+                  "serial": 54,
+                  "playerIndex": 0
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [
+            {
+              "id": 678,
+              "serial": 6,
+              "playerIndex": 0,
+              "hp": 340,
+              "maxHp": 340,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": [
+                {
+                  "id": 333,
+                  "serial": 5,
+                  "playerIndex": 0
+                }
+              ]
+            },
+            {
+              "id": 1006,
+              "serial": 18,
+              "playerIndex": 0,
+              "hp": 270,
+              "maxHp": 270,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            },
+            {
+              "id": 756,
+              "serial": 14,
+              "playerIndex": 0,
+              "hp": 300,
+              "maxHp": 300,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "benchMax": 5,
+          "deckCount": 42,
+          "discard": [
+            {
+              "id": 1223,
+              "serial": 25,
+              "playerIndex": 0
+            }
+          ],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 4,
+          "hand": null,
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        },
+        {
+          "active": [
+            {
+              "id": 44,
+              "serial": 79,
+              "playerIndex": 1,
+              "hp": 260,
+              "maxHp": 260,
+              "appearThisTurn": false,
+              "energies": [
+                1,
+                1
+              ],
+              "energyCards": [
+                {
+                  "id": 1,
+                  "serial": 106,
+                  "playerIndex": 1
+                },
+                {
+                  "id": 1,
+                  "serial": 105,
+                  "playerIndex": 1
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 47,
+          "discard": [
+            {
+              "id": 1215,
+              "serial": 94,
+              "playerIndex": 1
+            }
+          ],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 3,
+          "hand": [
+            {
+              "id": 1,
+              "serial": 118,
+              "playerIndex": 1
+            },
+            {
+              "id": 1209,
+              "serial": 85,
+              "playerIndex": 1
+            },
+            {
+              "id": 1,
+              "serial": 115,
+              "playerIndex": 1
+            }
+          ],
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        }
+      ],
+      "win_equity_p1": 0.5,
+      "win_equity_p2": 0.5,
+      "search_depth": 3,
+      "possibility_count": 1,
+      "dominant_utility": "OODA Decision Engine",
+      "dominant_symbol": "⚖️ TURN COMPLETION",
+      "decisive_signal": "All high-utility candidate actions exhausted; turn safely passed to maintain defensive posture.",
+      "sync_status": "SYNCHRONIZED_CONSENSUS",
+      "weight_mcts": 24,
+      "weight_nn": 26,
+      "weight_engine": 36,
+      "weight_cvm": 14,
+      "sim_transitions": 8,
+      "alphazero_probes": 4,
+      "mcts_thinking": "No further high-value moves in current turn search tree.",
+      "nn_thinking": "Policy prior flat; turn end recognized as optimal stop.",
+      "ooda_thinking": "OODA loop completed all beneficial phases.",
+      "cvm_thinking": "Zero card wastage on non-impactful actions.",
+      "alphazero_thinking": "AlphaZero MCTSxNN evaluated 4 candidate probes (lethal_ready=False); tactical guidance verified legal progression.",
+      "chosen_path_name": "End (Option #0)",
+      "cvm_values": {},
+      "nn_policy": [
+        0.9999
+      ],
+      "candidate_branches": [
+        {
+          "index": 0,
+          "name": "End (Option #0)",
+          "score": 0.0,
+          "cvm_val": 0.5,
+          "nn_prior": 1.0,
+          "status": "SELECTED (Optimal Strategy)",
+          "is_chosen": true
+        }
+      ],
+      "t_total_ms": 3.36,
+      "t_mcts_ms": 0.81,
+      "t_nn_ms": 0.87,
+      "t_ooda_ms": 1.21,
+      "t_cvm_ms": 0.47
+    },
+    {
+      "turn": 5,
+      "yourIndex": 0,
+      "firstPlayer": 0,
+      "context": "0",
+      "options": [
+        {
+          "type": 8,
+          "area": 2,
+          "index": 0,
+          "inPlayArea": 4,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 0,
+          "inPlayArea": 5,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 0,
+          "inPlayArea": 5,
+          "inPlayIndex": 1
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 0,
+          "inPlayArea": 5,
+          "inPlayIndex": 2
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 1,
+          "inPlayArea": 4,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 1,
+          "inPlayArea": 5,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 1,
+          "inPlayArea": 5,
+          "inPlayIndex": 1
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 1,
+          "inPlayArea": 5,
+          "inPlayIndex": 2
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 3,
+          "inPlayArea": 4,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 3,
+          "inPlayArea": 5,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 3,
+          "inPlayArea": 5,
+          "inPlayIndex": 1
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 3,
+          "inPlayArea": 5,
+          "inPlayIndex": 2
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 4,
+          "inPlayArea": 4,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 4,
+          "inPlayArea": 5,
+          "inPlayIndex": 0
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 4,
+          "inPlayArea": 5,
+          "inPlayIndex": 1
+        },
+        {
+          "type": 8,
+          "area": 2,
+          "index": 4,
+          "inPlayArea": 5,
+          "inPlayIndex": 2
+        },
+        {
+          "type": 12
+        },
+        {
+          "type": 14
+        }
+      ],
+      "chosen_action": [
+        0
+      ],
+      "players": [
+        {
+          "active": [
+            {
+              "id": 1056,
+              "serial": 11,
+              "playerIndex": 0,
+              "hp": 310,
+              "maxHp": 310,
+              "appearThisTurn": false,
+              "energies": [
+                6,
+                6
+              ],
+              "energyCards": [
+                {
+                  "id": 6,
+                  "serial": 59,
+                  "playerIndex": 0
+                },
+                {
+                  "id": 6,
+                  "serial": 54,
+                  "playerIndex": 0
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [
+            {
+              "id": 678,
+              "serial": 6,
+              "playerIndex": 0,
+              "hp": 340,
+              "maxHp": 340,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": [
+                {
+                  "id": 333,
+                  "serial": 5,
+                  "playerIndex": 0
+                }
+              ]
+            },
+            {
+              "id": 1006,
+              "serial": 18,
+              "playerIndex": 0,
+              "hp": 270,
+              "maxHp": 270,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            },
+            {
+              "id": 756,
+              "serial": 14,
+              "playerIndex": 0,
+              "hp": 300,
+              "maxHp": 300,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "benchMax": 5,
+          "deckCount": 41,
+          "discard": [
+            {
+              "id": 1223,
+              "serial": 25,
+              "playerIndex": 0
+            }
+          ],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 5,
+          "hand": [
+            {
+              "id": 20,
+              "serial": 41,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 60,
+              "playerIndex": 0
+            },
+            {
+              "id": 1195,
+              "serial": 29,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 51,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 62,
+              "playerIndex": 0
+            }
+          ],
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        },
+        {
+          "active": [
+            {
+              "id": 44,
+              "serial": 79,
+              "playerIndex": 1,
+              "hp": 260,
+              "maxHp": 260,
+              "appearThisTurn": false,
+              "energies": [
+                1,
+                1
+              ],
+              "energyCards": [
+                {
+                  "id": 1,
+                  "serial": 106,
+                  "playerIndex": 1
+                },
+                {
+                  "id": 1,
+                  "serial": 105,
+                  "playerIndex": 1
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 47,
+          "discard": [
+            {
+              "id": 1215,
+              "serial": 94,
+              "playerIndex": 1
+            }
+          ],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 3,
+          "hand": null,
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        }
+      ],
+      "win_equity_p1": 0.5,
+      "win_equity_p2": 0.5,
+      "search_depth": 3,
+      "possibility_count": 18,
+      "dominant_utility": "OODA & MCTS Immediate Strike Priority",
+      "dominant_symbol": "⚡ ACTIVE STRIKE ACCELERATION",
+      "decisive_signal": "Active attacker requires energy for immediate strike; prioritized for instant offensive tempo.",
+      "sync_status": "SYNCHRONIZED_OFFENSIVE_TEMPO",
+      "weight_mcts": 32,
+      "weight_nn": 22,
+      "weight_engine": 36,
+      "weight_cvm": 10,
+      "sim_transitions": 41,
+      "alphazero_probes": 32,
+      "mcts_thinking": "Immediate strike readiness forces opponent into defensive pivot.",
+      "nn_thinking": "Value network favors immediate active damage pressure.",
+      "ooda_thinking": "Active requires energy to strike; immediate strike acceleration (+12000) granted.",
+      "cvm_thinking": "Energy timing aligned with active attack cost.",
+      "alphazero_thinking": "AlphaZero MCTSxNN evaluated 32 candidate probes (lethal_ready=False); tactical guidance verified legal progression.",
+      "chosen_path_name": "Attach (Option #0)",
+      "cvm_values": {},
+      "nn_policy": [
+        0.9999,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "candidate_branches": [
+        {
+          "index": 0,
+          "name": "Attach (Option #0)",
+          "score": 11987.4,
+          "cvm_val": 0.5,
+          "nn_prior": 0.9999,
+          "status": "SELECTED (Optimal Strategy)",
+          "is_chosen": true
+        },
+        {
+          "index": 17,
+          "name": "End (Option #17)",
+          "score": 0.0,
+          "cvm_val": 0.5,
+          "nn_prior": 0.0556,
+          "status": "ALTERNATIVE",
+          "is_chosen": false
+        }
+      ],
+      "t_total_ms": 571.62,
+      "t_mcts_ms": 182.92,
+      "t_nn_ms": 125.76,
+      "t_ooda_ms": 205.78,
+      "t_cvm_ms": 57.16
+    },
+    {
+      "turn": 5,
+      "yourIndex": 0,
+      "firstPlayer": 0,
+      "context": "0",
+      "options": [
+        {
+          "type": 13,
+          "attackId": 1525
+        },
+        {
+          "type": 12
+        },
+        {
+          "type": 14
+        }
+      ],
+      "chosen_action": [
+        0
+      ],
+      "players": [
+        {
+          "active": [
+            {
+              "id": 1056,
+              "serial": 11,
+              "playerIndex": 0,
+              "hp": 310,
+              "maxHp": 310,
+              "appearThisTurn": false,
+              "energies": [
+                6,
+                6,
+                6
+              ],
+              "energyCards": [
+                {
+                  "id": 6,
+                  "serial": 59,
+                  "playerIndex": 0
+                },
+                {
+                  "id": 6,
+                  "serial": 54,
+                  "playerIndex": 0
+                },
+                {
+                  "id": 20,
+                  "serial": 41,
+                  "playerIndex": 0
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [
+            {
+              "id": 678,
+              "serial": 6,
+              "playerIndex": 0,
+              "hp": 340,
+              "maxHp": 340,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": [
+                {
+                  "id": 333,
+                  "serial": 5,
+                  "playerIndex": 0
+                }
+              ]
+            },
+            {
+              "id": 1006,
+              "serial": 18,
+              "playerIndex": 0,
+              "hp": 270,
+              "maxHp": 270,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            },
+            {
+              "id": 756,
+              "serial": 14,
+              "playerIndex": 0,
+              "hp": 300,
+              "maxHp": 300,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "benchMax": 5,
+          "deckCount": 41,
+          "discard": [
+            {
+              "id": 1223,
+              "serial": 25,
+              "playerIndex": 0
+            }
+          ],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 4,
+          "hand": [
+            {
+              "id": 6,
+              "serial": 60,
+              "playerIndex": 0
+            },
+            {
+              "id": 1195,
+              "serial": 29,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 51,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 62,
+              "playerIndex": 0
+            }
+          ],
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        },
+        {
+          "active": [
+            {
+              "id": 44,
+              "serial": 79,
+              "playerIndex": 1,
+              "hp": 260,
+              "maxHp": 260,
+              "appearThisTurn": false,
+              "energies": [
+                1,
+                1
+              ],
+              "energyCards": [
+                {
+                  "id": 1,
+                  "serial": 106,
+                  "playerIndex": 1
+                },
+                {
+                  "id": 1,
+                  "serial": 105,
+                  "playerIndex": 1
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 47,
+          "discard": [
+            {
+              "id": 1215,
+              "serial": 94,
+              "playerIndex": 1
+            }
+          ],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 3,
+          "hand": null,
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        }
+      ],
+      "win_equity_p1": 0.5,
+      "win_equity_p2": 0.5,
+      "search_depth": 3,
+      "possibility_count": 3,
+      "dominant_utility": "MCTS Tactical Invariants Engine",
+      "dominant_symbol": "⚔️ MCTS LETHAL STRIKE",
+      "decisive_signal": "MCTS 3-turn forward rollout verified lethal combat threshold against opponent active.",
+      "sync_status": "MCTS_LETHAL_STRIKE_CONSENSUS",
+      "weight_mcts": 48,
+      "weight_nn": 26,
+      "weight_engine": 16,
+      "weight_cvm": 10,
+      "sim_transitions": 11,
+      "alphazero_probes": 12,
+      "mcts_thinking": "Forward minimax search confirmed lethal damage branch; zero retaliatory counter-kill risk.",
+      "nn_thinking": "HiveMind value head estimated positive terminal equity (V=+0.20).",
+      "ooda_thinking": "Posture [0] directed combat strike with 1.00x aggression multiplier.",
+      "cvm_thinking": "Combat strike verified optimal prize extraction timing.",
+      "alphazero_thinking": "AlphaZero MCTSxNN evaluated 12 candidate probes (lethal_ready=True); tactical guidance verified legal progression.",
+      "chosen_path_name": "Attack (Option #0)",
+      "cvm_values": {},
+      "nn_policy": [
+        0.9999,
+        0.0,
+        0.0
+      ],
+      "candidate_branches": [
+        {
+          "index": 0,
+          "name": "Attack (Option #0)",
+          "score": 7246.8,
+          "cvm_val": 0.5,
+          "nn_prior": 0.9999,
+          "status": "SELECTED (Optimal Strategy)",
+          "is_chosen": true
+        },
+        {
+          "index": 2,
+          "name": "End (Option #2)",
+          "score": 0.0,
+          "cvm_val": 0.5,
+          "nn_prior": 0.3333,
+          "status": "ALTERNATIVE",
+          "is_chosen": false
+        }
+      ],
+      "t_total_ms": 5.27,
+      "t_mcts_ms": 2.53,
+      "t_nn_ms": 1.37,
+      "t_ooda_ms": 0.84,
+      "t_cvm_ms": 0.53
+    },
+    {
+      "turn": 5,
+      "yourIndex": 0,
+      "firstPlayer": 0,
+      "context": "7",
+      "options": [
+        {
+          "type": 3,
+          "area": 6,
+          "index": 0,
+          "playerIndex": 0
+        },
+        {
+          "type": 3,
+          "area": 6,
+          "index": 1,
+          "playerIndex": 0
+        },
+        {
+          "type": 3,
+          "area": 6,
+          "index": 2,
+          "playerIndex": 0
+        },
+        {
+          "type": 3,
+          "area": 6,
+          "index": 3,
+          "playerIndex": 0
+        },
+        {
+          "type": 3,
+          "area": 6,
+          "index": 4,
+          "playerIndex": 0
+        },
+        {
+          "type": 3,
+          "area": 6,
+          "index": 5,
+          "playerIndex": 0
+        }
+      ],
+      "chosen_action": [
+        0,
+        1
+      ],
+      "players": [
+        {
+          "active": [
+            {
+              "id": 1056,
+              "serial": 11,
+              "playerIndex": 0,
+              "hp": 310,
+              "maxHp": 310,
+              "appearThisTurn": false,
+              "energies": [
+                6,
+                6,
+                6
+              ],
+              "energyCards": [
+                {
+                  "id": 6,
+                  "serial": 59,
+                  "playerIndex": 0
+                },
+                {
+                  "id": 6,
+                  "serial": 54,
+                  "playerIndex": 0
+                },
+                {
+                  "id": 20,
+                  "serial": 41,
+                  "playerIndex": 0
+                }
+              ],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "bench": [
+            {
+              "id": 678,
+              "serial": 6,
+              "playerIndex": 0,
+              "hp": 340,
+              "maxHp": 340,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": [
+                {
+                  "id": 333,
+                  "serial": 5,
+                  "playerIndex": 0
+                }
+              ]
+            },
+            {
+              "id": 1006,
+              "serial": 18,
+              "playerIndex": 0,
+              "hp": 270,
+              "maxHp": 270,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            },
+            {
+              "id": 756,
+              "serial": 14,
+              "playerIndex": 0,
+              "hp": 300,
+              "maxHp": 300,
+              "appearThisTurn": false,
+              "energies": [],
+              "energyCards": [],
+              "tools": [],
+              "preEvolution": []
+            }
+          ],
+          "benchMax": 5,
+          "deckCount": 41,
+          "discard": [
+            {
+              "id": 1223,
+              "serial": 25,
+              "playerIndex": 0
+            }
+          ],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 4,
+          "hand": [
+            {
+              "id": 6,
+              "serial": 60,
+              "playerIndex": 0
+            },
+            {
+              "id": 1195,
+              "serial": 29,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 51,
+              "playerIndex": 0
+            },
+            {
+              "id": 6,
+              "serial": 62,
+              "playerIndex": 0
+            }
+          ],
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        },
+        {
+          "active": [],
+          "bench": [],
+          "benchMax": 5,
+          "deckCount": 47,
+          "discard": [
+            {
+              "id": 1215,
+              "serial": 94,
+              "playerIndex": 1
+            },
+            {
+              "id": 44,
+              "serial": 79,
+              "playerIndex": 1
+            },
+            {
+              "id": 1,
+              "serial": 105,
+              "playerIndex": 1
+            },
+            {
+              "id": 1,
+              "serial": 106,
+              "playerIndex": 1
+            }
+          ],
+          "prize": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "handCount": 3,
+          "hand": null,
+          "poisoned": false,
+          "burned": false,
+          "asleep": false,
+          "paralyzed": false,
+          "confused": false
+        }
+      ],
+      "win_equity_p1": 0.5,
+      "win_equity_p2": 0.5,
+      "search_depth": 3,
+      "possibility_count": 6,
+      "dominant_utility": "MCTS Tactical Invariants Engine",
+      "dominant_symbol": "⚔️ MCTS LETHAL STRIKE",
+      "decisive_signal": "MCTS 3-turn forward rollout verified lethal combat threshold against opponent active.",
+      "sync_status": "MCTS_LETHAL_STRIKE_CONSENSUS",
+      "weight_mcts": 48,
+      "weight_nn": 26,
+      "weight_engine": 16,
+      "weight_cvm": 10,
+      "sim_transitions": 11,
+      "alphazero_probes": 12,
+      "mcts_thinking": "Forward minimax search confirmed lethal damage branch; zero retaliatory counter-kill risk.",
+      "nn_thinking": "HiveMind value head estimated positive terminal equity (V=+0.20).",
+      "ooda_thinking": "Posture [0] directed combat strike with 1.00x aggression multiplier.",
+      "cvm_thinking": "Combat strike verified optimal prize extraction timing.",
+      "alphazero_thinking": "AlphaZero MCTSxNN evaluated 12 candidate probes (lethal_ready=True); tactical guidance verified legal progression.",
+      "chosen_path_name": "Attack (Option #0)",
+      "cvm_values": {},
+      "nn_policy": [
+        0.9999,
+        0.0,
+        0.0
+      ],
+      "candidate_branches": [
+        {
+          "index": 0,
+          "name": "Attack (Option #0)",
+          "score": 7246.8,
+          "cvm_val": 0.5,
+          "nn_prior": 0.9999,
+          "status": "SELECTED (Optimal Strategy)",
+          "is_chosen": true
+        },
+        {
+          "index": 2,
+          "name": "End (Option #2)",
+          "score": 0.0,
+          "cvm_val": 0.5,
+          "nn_prior": 0.3333,
+          "status": "ALTERNATIVE",
+          "is_chosen": false
+        }
+      ],
+      "t_total_ms": 0.49,
+      "t_mcts_ms": 0.23,
+      "t_nn_ms": 0.13,
+      "t_ooda_ms": 0.08,
+      "t_cvm_ms": 0.05
+    }
+  ]
+}

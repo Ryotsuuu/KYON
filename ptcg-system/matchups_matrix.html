@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>KYON Sovereign — Cross-Archetype Matchup Matrix</title>
+<style>
+  body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #0b0f19; color: #f3f4f6; margin: 0; padding: 24px; }
+  h1 { color: #38bdf8; text-align: center; margin-bottom: 8px; }
+  .subtitle { text-align: center; color: #94a3b8; margin-bottom: 24px; font-size: 14px; }
+  .container { max-width: 1400px; margin: 0 auto; overflow-x: auto; background: #131d31; border-radius: 12px; padding: 20px; box-shadow: 0 8px 30px rgba(0,0,0,0.5); }
+  table { width: 100%; border-collapse: collapse; font-size: 12px; }
+  th, td { border: 1px solid #1e293b; padding: 8px 6px; text-align: center; }
+  th { background: #1e293b; color: #38bdf8; position: sticky; top: 0; }
+  th.row-header { text-align: left; background: #1a243a; color: #cbd5e1; font-weight: bold; width: 180px; }
+  .cell-elite { background: #065f46; color: #a7f3d0; font-weight: bold; }
+  .cell-good { background: #047857; color: #d1fae5; }
+  .cell-even { background: #334155; color: #f1f5f9; }
+  .cell-weak { background: #881337; color: #fecdd3; }
+  .cell-bad { background: #4c0519; color: #fda4af; font-weight: bold; }
+  .legend { display: flex; justify-content: center; gap: 16px; margin-top: 20px; font-size: 13px; }
+  .legend-item { display: flex; align-items: center; gap: 6px; }
+  .color-box { width: 16px; height: 16px; border-radius: 4px; }
+</style>
+</head>
+<body>
+  <h1>⚡ KYON 14×14 Cross-Archetype Matchup Matrix</h1>
+  <div class="subtitle">Empirical Win Rates Across Tournament Archetypes (1 games/cell) | Generated: 2026-08-26 19:23:15</div>
+  <div class="container">
+    <table>
+      <thead>
+        <tr>
+          <th>Candidate vs Opponent</th>
+          <th>GRA_stage_2_ex</th>
+          <th>FIR_aggro</th>
+          <th>WAstage_2_ex</th>
+          <th>LIG_stage_2_ex</th>
+          <th>PSY_stage_2_ex</th>
+          <th>FIG_stage_2_ex</th>
+          <th>DAR_stage_2_ex</th>
+          <th>MEstage_2_ex</th>
+          <th>GRA+PSY_balanced</th>
+          <th>FIR+WAaggro</th>
+          <th>PSY+DAR_mega_stage_2_ex</th>
+          <th>GRA+FIR+WAbalanced</th>
+          <th>TR_stage_2_ex</th>
+          <th>DR_damage_counter</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class='row-header'>S_GRA_stage_2_ex</td>
+          <td class='cell-even' title='S_GRA_stage_2_ex vs S_GRA_stage_2_ex: 0W - 0L'>50%</td>
+          <td class='cell-elite' title='S_GRA_stage_2_ex vs S_FIR_aggro: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_GRA_stage_2_ex vs S_WAT_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_GRA_stage_2_ex vs S_LIG_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_GRA_stage_2_ex vs S_PSY_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_GRA_stage_2_ex vs S_FIG_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='S_GRA_stage_2_ex vs S_DAR_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='S_GRA_stage_2_ex vs S_MET_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_GRA_stage_2_ex vs D_GRA+PSY_balanced: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='S_GRA_stage_2_ex vs D_FIR+WAT_aggro: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='S_GRA_stage_2_ex vs D_PSY+DAR_mega_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_GRA_stage_2_ex vs T_GRA+FIR+WAT_balanced: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_GRA_stage_2_ex vs TR_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_GRA_stage_2_ex vs DR_damage_counter: 1W - 0L'>100%</td>
+        </tr>
+        <tr>
+          <td class='row-header'>S_FIR_aggro</td>
+          <td class='cell-bad' title='S_FIR_aggro vs S_GRA_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-even' title='S_FIR_aggro vs S_FIR_aggro: 0W - 0L'>50%</td>
+          <td class='cell-elite' title='S_FIR_aggro vs S_WAT_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='S_FIR_aggro vs S_LIG_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='S_FIR_aggro vs S_PSY_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_FIR_aggro vs S_FIG_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_FIR_aggro vs S_DAR_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='S_FIR_aggro vs S_MET_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='S_FIR_aggro vs D_GRA+PSY_balanced: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='S_FIR_aggro vs D_FIR+WAT_aggro: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='S_FIR_aggro vs D_PSY+DAR_mega_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='S_FIR_aggro vs T_GRA+FIR+WAT_balanced: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='S_FIR_aggro vs TR_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_FIR_aggro vs DR_damage_counter: 1W - 0L'>100%</td>
+        </tr>
+        <tr>
+          <td class='row-header'>S_WAT_stage_2_ex</td>
+          <td class='cell-bad' title='S_WAT_stage_2_ex vs S_GRA_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='S_WAT_stage_2_ex vs S_FIR_aggro: 0W - 1L'>0%</td>
+          <td class='cell-even' title='S_WAT_stage_2_ex vs S_WAT_stage_2_ex: 0W - 0L'>50%</td>
+          <td class='cell-elite' title='S_WAT_stage_2_ex vs S_LIG_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_WAT_stage_2_ex vs S_PSY_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='S_WAT_stage_2_ex vs S_FIG_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='S_WAT_stage_2_ex vs S_DAR_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='S_WAT_stage_2_ex vs S_MET_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='S_WAT_stage_2_ex vs D_GRA+PSY_balanced: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_WAT_stage_2_ex vs D_FIR+WAT_aggro: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_WAT_stage_2_ex vs D_PSY+DAR_mega_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_WAT_stage_2_ex vs T_GRA+FIR+WAT_balanced: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_WAT_stage_2_ex vs TR_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='S_WAT_stage_2_ex vs DR_damage_counter: 0W - 1L'>0%</td>
+        </tr>
+        <tr>
+          <td class='row-header'>S_LIG_stage_2_ex</td>
+          <td class='cell-bad' title='S_LIG_stage_2_ex vs S_GRA_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='S_LIG_stage_2_ex vs S_FIR_aggro: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='S_LIG_stage_2_ex vs S_WAT_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-even' title='S_LIG_stage_2_ex vs S_LIG_stage_2_ex: 0W - 0L'>50%</td>
+          <td class='cell-elite' title='S_LIG_stage_2_ex vs S_PSY_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_LIG_stage_2_ex vs S_FIG_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='S_LIG_stage_2_ex vs S_DAR_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='S_LIG_stage_2_ex vs S_MET_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_LIG_stage_2_ex vs D_GRA+PSY_balanced: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='S_LIG_stage_2_ex vs D_FIR+WAT_aggro: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='S_LIG_stage_2_ex vs D_PSY+DAR_mega_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='S_LIG_stage_2_ex vs T_GRA+FIR+WAT_balanced: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_LIG_stage_2_ex vs TR_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_LIG_stage_2_ex vs DR_damage_counter: 1W - 0L'>100%</td>
+        </tr>
+        <tr>
+          <td class='row-header'>S_PSY_stage_2_ex</td>
+          <td class='cell-bad' title='S_PSY_stage_2_ex vs S_GRA_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='S_PSY_stage_2_ex vs S_FIR_aggro: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='S_PSY_stage_2_ex vs S_WAT_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='S_PSY_stage_2_ex vs S_LIG_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-even' title='S_PSY_stage_2_ex vs S_PSY_stage_2_ex: 0W - 0L'>50%</td>
+          <td class='cell-bad' title='S_PSY_stage_2_ex vs S_FIG_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='S_PSY_stage_2_ex vs S_DAR_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='S_PSY_stage_2_ex vs S_MET_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='S_PSY_stage_2_ex vs D_GRA+PSY_balanced: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='S_PSY_stage_2_ex vs D_FIR+WAT_aggro: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='S_PSY_stage_2_ex vs D_PSY+DAR_mega_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='S_PSY_stage_2_ex vs T_GRA+FIR+WAT_balanced: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='S_PSY_stage_2_ex vs TR_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='S_PSY_stage_2_ex vs DR_damage_counter: 1W - 0L'>100%</td>
+        </tr>
+        <tr>
+          <td class='row-header'>S_FIG_stage_2_ex</td>
+          <td class='cell-bad' title='S_FIG_stage_2_ex vs S_GRA_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='S_FIG_stage_2_ex vs S_FIR_aggro: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='S_FIG_stage_2_ex vs S_WAT_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='S_FIG_stage_2_ex vs S_LIG_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='S_FIG_stage_2_ex vs S_PSY_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-even' title='S_FIG_stage_2_ex vs S_FIG_stage_2_ex: 0W - 0L'>50%</td>
+          <td class='cell-elite' title='S_FIG_stage_2_ex vs S_DAR_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='S_FIG_stage_2_ex vs S_MET_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='S_FIG_stage_2_ex vs D_GRA+PSY_balanced: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_FIG_stage_2_ex vs D_FIR+WAT_aggro: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_FIG_stage_2_ex vs D_PSY+DAR_mega_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_FIG_stage_2_ex vs T_GRA+FIR+WAT_balanced: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_FIG_stage_2_ex vs TR_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_FIG_stage_2_ex vs DR_damage_counter: 1W - 0L'>100%</td>
+        </tr>
+        <tr>
+          <td class='row-header'>S_DAR_stage_2_ex</td>
+          <td class='cell-elite' title='S_DAR_stage_2_ex vs S_GRA_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='S_DAR_stage_2_ex vs S_FIR_aggro: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='S_DAR_stage_2_ex vs S_WAT_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_DAR_stage_2_ex vs S_LIG_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_DAR_stage_2_ex vs S_PSY_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='S_DAR_stage_2_ex vs S_FIG_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-even' title='S_DAR_stage_2_ex vs S_DAR_stage_2_ex: 0W - 0L'>50%</td>
+          <td class='cell-elite' title='S_DAR_stage_2_ex vs S_MET_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='S_DAR_stage_2_ex vs D_GRA+PSY_balanced: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='S_DAR_stage_2_ex vs D_FIR+WAT_aggro: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='S_DAR_stage_2_ex vs D_PSY+DAR_mega_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='S_DAR_stage_2_ex vs T_GRA+FIR+WAT_balanced: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='S_DAR_stage_2_ex vs TR_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_DAR_stage_2_ex vs DR_damage_counter: 1W - 0L'>100%</td>
+        </tr>
+        <tr>
+          <td class='row-header'>S_MET_stage_2_ex</td>
+          <td class='cell-bad' title='S_MET_stage_2_ex vs S_GRA_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='S_MET_stage_2_ex vs S_FIR_aggro: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_MET_stage_2_ex vs S_WAT_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='S_MET_stage_2_ex vs S_LIG_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='S_MET_stage_2_ex vs S_PSY_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_MET_stage_2_ex vs S_FIG_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='S_MET_stage_2_ex vs S_DAR_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-even' title='S_MET_stage_2_ex vs S_MET_stage_2_ex: 0W - 0L'>50%</td>
+          <td class='cell-elite' title='S_MET_stage_2_ex vs D_GRA+PSY_balanced: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_MET_stage_2_ex vs D_FIR+WAT_aggro: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_MET_stage_2_ex vs D_PSY+DAR_mega_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='S_MET_stage_2_ex vs T_GRA+FIR+WAT_balanced: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='S_MET_stage_2_ex vs TR_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='S_MET_stage_2_ex vs DR_damage_counter: 1W - 0L'>100%</td>
+        </tr>
+        <tr>
+          <td class='row-header'>D_GRA+PSY_balanced</td>
+          <td class='cell-bad' title='D_GRA+PSY_balanced vs S_GRA_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='D_GRA+PSY_balanced vs S_FIR_aggro: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='D_GRA+PSY_balanced vs S_WAT_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='D_GRA+PSY_balanced vs S_LIG_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='D_GRA+PSY_balanced vs S_PSY_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='D_GRA+PSY_balanced vs S_FIG_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='D_GRA+PSY_balanced vs S_DAR_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='D_GRA+PSY_balanced vs S_MET_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-even' title='D_GRA+PSY_balanced vs D_GRA+PSY_balanced: 0W - 0L'>50%</td>
+          <td class='cell-elite' title='D_GRA+PSY_balanced vs D_FIR+WAT_aggro: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='D_GRA+PSY_balanced vs D_PSY+DAR_mega_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='D_GRA+PSY_balanced vs T_GRA+FIR+WAT_balanced: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='D_GRA+PSY_balanced vs TR_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='D_GRA+PSY_balanced vs DR_damage_counter: 0W - 1L'>0%</td>
+        </tr>
+        <tr>
+          <td class='row-header'>D_FIR+WAT_aggro</td>
+          <td class='cell-elite' title='D_FIR+WAT_aggro vs S_GRA_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='D_FIR+WAT_aggro vs S_FIR_aggro: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='D_FIR+WAT_aggro vs S_WAT_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='D_FIR+WAT_aggro vs S_LIG_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='D_FIR+WAT_aggro vs S_PSY_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='D_FIR+WAT_aggro vs S_FIG_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='D_FIR+WAT_aggro vs S_DAR_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='D_FIR+WAT_aggro vs S_MET_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='D_FIR+WAT_aggro vs D_GRA+PSY_balanced: 0W - 1L'>0%</td>
+          <td class='cell-even' title='D_FIR+WAT_aggro vs D_FIR+WAT_aggro: 0W - 0L'>50%</td>
+          <td class='cell-bad' title='D_FIR+WAT_aggro vs D_PSY+DAR_mega_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='D_FIR+WAT_aggro vs T_GRA+FIR+WAT_balanced: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='D_FIR+WAT_aggro vs TR_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='D_FIR+WAT_aggro vs DR_damage_counter: 1W - 0L'>100%</td>
+        </tr>
+        <tr>
+          <td class='row-header'>D_PSY+DAR_mega_stage_2_ex</td>
+          <td class='cell-bad' title='D_PSY+DAR_mega_stage_2_ex vs S_GRA_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='D_PSY+DAR_mega_stage_2_ex vs S_FIR_aggro: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='D_PSY+DAR_mega_stage_2_ex vs S_WAT_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='D_PSY+DAR_mega_stage_2_ex vs S_LIG_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='D_PSY+DAR_mega_stage_2_ex vs S_PSY_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='D_PSY+DAR_mega_stage_2_ex vs S_FIG_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='D_PSY+DAR_mega_stage_2_ex vs S_DAR_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='D_PSY+DAR_mega_stage_2_ex vs S_MET_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='D_PSY+DAR_mega_stage_2_ex vs D_GRA+PSY_balanced: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='D_PSY+DAR_mega_stage_2_ex vs D_FIR+WAT_aggro: 1W - 0L'>100%</td>
+          <td class='cell-even' title='D_PSY+DAR_mega_stage_2_ex vs D_PSY+DAR_mega_stage_2_ex: 0W - 0L'>50%</td>
+          <td class='cell-elite' title='D_PSY+DAR_mega_stage_2_ex vs T_GRA+FIR+WAT_balanced: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='D_PSY+DAR_mega_stage_2_ex vs TR_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='D_PSY+DAR_mega_stage_2_ex vs DR_damage_counter: 1W - 0L'>100%</td>
+        </tr>
+        <tr>
+          <td class='row-header'>T_GRA+FIR+WAT_balanced</td>
+          <td class='cell-bad' title='T_GRA+FIR+WAT_balanced vs S_GRA_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='T_GRA+FIR+WAT_balanced vs S_FIR_aggro: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='T_GRA+FIR+WAT_balanced vs S_WAT_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='T_GRA+FIR+WAT_balanced vs S_LIG_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='T_GRA+FIR+WAT_balanced vs S_PSY_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='T_GRA+FIR+WAT_balanced vs S_FIG_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='T_GRA+FIR+WAT_balanced vs S_DAR_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='T_GRA+FIR+WAT_balanced vs S_MET_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='T_GRA+FIR+WAT_balanced vs D_GRA+PSY_balanced: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='T_GRA+FIR+WAT_balanced vs D_FIR+WAT_aggro: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='T_GRA+FIR+WAT_balanced vs D_PSY+DAR_mega_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-even' title='T_GRA+FIR+WAT_balanced vs T_GRA+FIR+WAT_balanced: 0W - 0L'>50%</td>
+          <td class='cell-elite' title='T_GRA+FIR+WAT_balanced vs TR_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-elite' title='T_GRA+FIR+WAT_balanced vs DR_damage_counter: 1W - 0L'>100%</td>
+        </tr>
+        <tr>
+          <td class='row-header'>TR_stage_2_ex</td>
+          <td class='cell-bad' title='TR_stage_2_ex vs S_GRA_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='TR_stage_2_ex vs S_FIR_aggro: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='TR_stage_2_ex vs S_WAT_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='TR_stage_2_ex vs S_LIG_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='TR_stage_2_ex vs S_PSY_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='TR_stage_2_ex vs S_FIG_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='TR_stage_2_ex vs S_DAR_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='TR_stage_2_ex vs S_MET_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='TR_stage_2_ex vs D_GRA+PSY_balanced: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='TR_stage_2_ex vs D_FIR+WAT_aggro: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='TR_stage_2_ex vs D_PSY+DAR_mega_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='TR_stage_2_ex vs T_GRA+FIR+WAT_balanced: 0W - 1L'>0%</td>
+          <td class='cell-even' title='TR_stage_2_ex vs TR_stage_2_ex: 0W - 0L'>50%</td>
+          <td class='cell-bad' title='TR_stage_2_ex vs DR_damage_counter: 0W - 1L'>0%</td>
+        </tr>
+        <tr>
+          <td class='row-header'>DR_damage_counter</td>
+          <td class='cell-bad' title='DR_damage_counter vs S_GRA_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='DR_damage_counter vs S_FIR_aggro: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='DR_damage_counter vs S_WAT_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='DR_damage_counter vs S_LIG_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='DR_damage_counter vs S_PSY_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='DR_damage_counter vs S_FIG_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='DR_damage_counter vs S_DAR_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='DR_damage_counter vs S_MET_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='DR_damage_counter vs D_GRA+PSY_balanced: 1W - 0L'>100%</td>
+          <td class='cell-bad' title='DR_damage_counter vs D_FIR+WAT_aggro: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='DR_damage_counter vs D_PSY+DAR_mega_stage_2_ex: 0W - 1L'>0%</td>
+          <td class='cell-bad' title='DR_damage_counter vs T_GRA+FIR+WAT_balanced: 0W - 1L'>0%</td>
+          <td class='cell-elite' title='DR_damage_counter vs TR_stage_2_ex: 1W - 0L'>100%</td>
+          <td class='cell-even' title='DR_damage_counter vs DR_damage_counter: 0W - 0L'>50%</td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="legend">
+      <div class="legend-item"><div class="color-box" style="background:#065f46"></div> ≥75% Dominant Advantage</div>
+      <div class="legend-item"><div class="color-box" style="background:#047857"></div> 60–74% Favorable Matchup</div>
+      <div class="legend-item"><div class="color-box" style="background:#334155"></div> 45–59% Even / Skill-Based</div>
+      <div class="legend-item"><div class="color-box" style="background:#881337"></div> 30–44% Unfavorable Matchup</div>
+      <div class="legend-item"><div class="color-box" style="background:#4c0519"></div> <30% Severe Weakness</div>
+    </div>
+  </div>
+</body>
+</html>

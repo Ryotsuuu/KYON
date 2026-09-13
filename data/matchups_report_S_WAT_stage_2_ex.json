@@ -1,0 +1,249 @@
+{
+  "candidate_agent": "S_WAT_stage_2_ex",
+  "total_games": 70,
+  "candidate_wins": 35,
+  "candidate_losses": 35,
+  "draws": 0,
+  "meta_win_rate": 0.5,
+  "duration_sec": 11.8,
+  "matchups": [
+    {
+      "opponent_label": "Grass (Stage 2 ex)",
+      "opponent_id": "S_GRA_stage_2_ex",
+      "p1_wins": 1,
+      "p2_wins": 4,
+      "draws": 0,
+      "p1_win_rate": 0.2,
+      "p2_win_rate": 0.8,
+      "ci_95": [
+        0.0362,
+        0.6245
+      ],
+      "avg_turns": 16.4,
+      "games_per_sec": 23.7,
+      "nn_loss": 0.8177,
+      "ml_mae": 0.0139
+    },
+    {
+      "opponent_label": "Fire (Stage 2 ex)",
+      "opponent_id": "S_FIR_stage_2_ex",
+      "p1_wins": 3,
+      "p2_wins": 2,
+      "draws": 0,
+      "p1_win_rate": 0.6,
+      "p2_win_rate": 0.4,
+      "ci_95": [
+        0.2307,
+        0.8824
+      ],
+      "avg_turns": 22.2,
+      "games_per_sec": 95.72,
+      "nn_loss": 0.8134,
+      "ml_mae": 0.0139
+    },
+    {
+      "opponent_label": "Water (Mega ex)",
+      "opponent_id": "S_WAT_mega_stage_1_ex",
+      "p1_wins": 2,
+      "p2_wins": 3,
+      "draws": 0,
+      "p1_win_rate": 0.4,
+      "p2_win_rate": 0.6,
+      "ci_95": [
+        0.1176,
+        0.7693
+      ],
+      "avg_turns": 23,
+      "games_per_sec": 89.26,
+      "nn_loss": 0.8101,
+      "ml_mae": 0.0139
+    },
+    {
+      "opponent_label": "Lightning (Stage 2 ex)",
+      "opponent_id": "S_LIG_stage_2_ex",
+      "p1_wins": 2,
+      "p2_wins": 3,
+      "draws": 0,
+      "p1_win_rate": 0.4,
+      "p2_win_rate": 0.6,
+      "ci_95": [
+        0.1176,
+        0.7693
+      ],
+      "avg_turns": 20.6,
+      "games_per_sec": 130.56,
+      "nn_loss": 0.8077,
+      "ml_mae": 0.0139
+    },
+    {
+      "opponent_label": "Psychic (Stage 2 ex)",
+      "opponent_id": "S_PSY_stage_2_ex",
+      "p1_wins": 5,
+      "p2_wins": 0,
+      "draws": 0,
+      "p1_win_rate": 1.0,
+      "p2_win_rate": 0.0,
+      "ci_95": [
+        0.5655,
+        1.0
+      ],
+      "avg_turns": 22,
+      "games_per_sec": 99.95,
+      "nn_loss": 0.8066,
+      "ml_mae": 0.0139
+    },
+    {
+      "opponent_label": "Fighting (Prize Rush)",
+      "opponent_id": "S_FIG_prize_rush",
+      "p1_wins": 2,
+      "p2_wins": 3,
+      "draws": 0,
+      "p1_win_rate": 0.4,
+      "p2_win_rate": 0.6,
+      "ci_95": [
+        0.1176,
+        0.7693
+      ],
+      "avg_turns": 22.8,
+      "games_per_sec": 100.68,
+      "nn_loss": 0.8064,
+      "ml_mae": 0.0139
+    },
+    {
+      "opponent_label": "Darkness (Stage 2 ex)",
+      "opponent_id": "S_DAR_stage_2_ex",
+      "p1_wins": 3,
+      "p2_wins": 2,
+      "draws": 0,
+      "p1_win_rate": 0.6,
+      "p2_win_rate": 0.4,
+      "ci_95": [
+        0.2307,
+        0.8824
+      ],
+      "avg_turns": 25.8,
+      "games_per_sec": 79.38,
+      "nn_loss": 0.8063,
+      "ml_mae": 0.0139
+    },
+    {
+      "opponent_label": "Metal (Stage 2 ex)",
+      "opponent_id": "S_MET_stage_2_ex",
+      "p1_wins": 2,
+      "p2_wins": 3,
+      "draws": 0,
+      "p1_win_rate": 0.4,
+      "p2_win_rate": 0.6,
+      "ci_95": [
+        0.1176,
+        0.7693
+      ],
+      "avg_turns": 19.6,
+      "games_per_sec": 108.45,
+      "nn_loss": 0.806,
+      "ml_mae": 0.0139
+    },
+    {
+      "opponent_label": "Dragon (Counter)",
+      "opponent_id": "DR_damage_counter",
+      "p1_wins": 2,
+      "p2_wins": 3,
+      "draws": 0,
+      "p1_win_rate": 0.4,
+      "p2_win_rate": 0.6,
+      "ci_95": [
+        0.1176,
+        0.7693
+      ],
+      "avg_turns": 24.2,
+      "games_per_sec": 100.24,
+      "nn_loss": 0.807,
+      "ml_mae": 0.0139
+    },
+    {
+      "opponent_label": "Team Rocket (Stall)",
+      "opponent_id": "TR_stall",
+      "p1_wins": 3,
+      "p2_wins": 2,
+      "draws": 0,
+      "p1_win_rate": 0.6,
+      "p2_win_rate": 0.4,
+      "ci_95": [
+        0.2307,
+        0.8824
+      ],
+      "avg_turns": 17.6,
+      "games_per_sec": 115.33,
+      "nn_loss": 0.8068,
+      "ml_mae": 0.0139
+    },
+    {
+      "opponent_label": "Dual Psy/Dar (Mega)",
+      "opponent_id": "D_PSY+DAR_mega_stage_2_ex",
+      "p1_wins": 3,
+      "p2_wins": 2,
+      "draws": 0,
+      "p1_win_rate": 0.6,
+      "p2_win_rate": 0.4,
+      "ci_95": [
+        0.2307,
+        0.8824
+      ],
+      "avg_turns": 23.4,
+      "games_per_sec": 83.85,
+      "nn_loss": 0.8067,
+      "ml_mae": 0.0139
+    },
+    {
+      "opponent_label": "Fire (Aggro)",
+      "opponent_id": "S_FIR_aggro",
+      "p1_wins": 2,
+      "p2_wins": 3,
+      "draws": 0,
+      "p1_win_rate": 0.4,
+      "p2_win_rate": 0.6,
+      "ci_95": [
+        0.1176,
+        0.7693
+      ],
+      "avg_turns": 21.4,
+      "games_per_sec": 77.28,
+      "nn_loss": 0.8065,
+      "ml_mae": 0.0139
+    },
+    {
+      "opponent_label": "Fighting (Stage 2 ex)",
+      "opponent_id": "S_FIG_stage_2_ex",
+      "p1_wins": 1,
+      "p2_wins": 4,
+      "draws": 0,
+      "p1_win_rate": 0.2,
+      "p2_win_rate": 0.8,
+      "ci_95": [
+        0.0362,
+        0.6245
+      ],
+      "avg_turns": 18.2,
+      "games_per_sec": 120.78,
+      "nn_loss": 0.806,
+      "ml_mae": 0.0139
+    },
+    {
+      "opponent_label": "Water (Stage 2 ex)",
+      "opponent_id": "S_WAT_stage_2_ex",
+      "p1_wins": 4,
+      "p2_wins": 1,
+      "draws": 0,
+      "p1_win_rate": 0.8,
+      "p2_win_rate": 0.2,
+      "ci_95": [
+        0.3755,
+        0.9638
+      ],
+      "avg_turns": 21.4,
+      "games_per_sec": 88.25,
+      "nn_loss": 0.8068,
+      "ml_mae": 0.0139
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "agent": "S_FIR_balanced",
+  "opponent": "S_WAT_mega_stage_1_ex",
+  "total_games": 100,
+  "phases": [
+    {
+      "phase": 1,
+      "game_range": "1-25",
+      "games": 25,
+      "wins_p1": 6,
+      "wins_p2": 19,
+      "draws": 0,
+      "win_rate_p1": 0.24,
+      "nn_loss": 0.9283,
+      "ml_mae": 0.0139,
+      "games_per_sec": 16.39
+    },
+    {
+      "phase": 2,
+      "game_range": "26-50",
+      "games": 25,
+      "wins_p1": 14,
+      "wins_p2": 11,
+      "draws": 0,
+      "win_rate_p1": 0.56,
+      "nn_loss": 0.9282,
+      "ml_mae": 0.0139,
+      "games_per_sec": 20.56
+    },
+    {
+      "phase": 3,
+      "game_range": "51-75",
+      "games": 25,
+      "wins_p1": 7,
+      "wins_p2": 18,
+      "draws": 0,
+      "win_rate_p1": 0.28,
+      "nn_loss": 0.9283,
+      "ml_mae": 0.0139,
+      "games_per_sec": 15.8
+    },
+    {
+      "phase": 4,
+      "game_range": "76-100",
+      "games": 25,
+      "wins_p1": 4,
+      "wins_p2": 21,
+      "draws": 0,
+      "win_rate_p1": 0.16,
+      "nn_loss": 0.9282,
+      "ml_mae": 0.0139,
+      "games_per_sec": 24.93
+    }
+  ],
+  "duration_sec": 47.27
+}

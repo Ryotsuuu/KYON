@@ -1,0 +1,79 @@
+{
+  "turn": 8,
+  "step": 35,
+  "chosen_action": [
+    0
+  ],
+  "options": [
+    {
+      "type": 3,
+      "area": 6,
+      "index": 0,
+      "playerIndex": 1
+    },
+    {
+      "type": 3,
+      "area": 6,
+      "index": 1,
+      "playerIndex": 1
+    },
+    {
+      "type": 3,
+      "area": 6,
+      "index": 2,
+      "playerIndex": 1
+    }
+  ],
+  "players": [
+    {
+      "active": [],
+      "bench": [],
+      "prizes_remaining": 6,
+      "prizes_taken": 0,
+      "hand_count": 1
+    },
+    {
+      "active": [
+        {
+          "cardId": 1056,
+          "name": "Mega Zygarde ex",
+          "hp": 130,
+          "maxHp": 310,
+          "type": "Fighting",
+          "stage": "Basic",
+          "energies": [
+            6,
+            6,
+            6
+          ]
+        }
+      ],
+      "bench": [
+        {
+          "cardId": 379,
+          "name": "Cynthia's Gible",
+          "hp": 70,
+          "maxHp": 70,
+          "type": "Fighting"
+        },
+        {
+          "cardId": 756,
+          "name": "Mega Kangaskhan ex",
+          "hp": 300,
+          "maxHp": 300,
+          "type": "Colorless"
+        }
+      ],
+      "prizes_remaining": 3,
+      "prizes_taken": 3,
+      "hand_count": 7
+    }
+  ],
+  "p1_posture": "STALL_DISRUPT",
+  "p2_posture": "BURST_RACE",
+  "win_equity_p1": 0.0,
+  "win_equity_p2": 1.0,
+  "mcts_rollouts_p2": 241,
+  "search_depth_p2": 15,
+  "nn_passes_p2": 30
+}

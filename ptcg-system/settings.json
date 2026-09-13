@@ -1,0 +1,71 @@
+{
+  "energy_combos": {
+    "single": true,
+    "dual": true,
+    "triple": true,
+    "team_rocket": true,
+    "dragon": true
+  },
+  "archetypes": { // Archetypes for some combo is not generated, becasue they don't follow some pre-defined constraints. [keep note of it]
+    "balanced": true,
+    "aggro": true,
+    "stall": true,
+    "stage_2": true,
+    "stage_1": true,
+    "stage_2_ex": true,
+    "stage_1_ex": true,
+    "mega_stage_2_ex": true,
+    "mega_stage_1_ex": true,
+    "ability_heal": false,
+    "prize_rush": true,
+    "poison_heavy": false,
+    "burn_heavy": false,
+    "sleep_heavy": false,
+    "paralyze_heavy": false,
+    "stadium_control": true,
+    "energy_transfer": false,
+    "damage_counter": true
+  },
+  "archetypes_for_triple": {
+    "balanced": true,
+    "aggro": true,
+    "stall": true,
+    "stage_2": true,
+    "stage_1": true,
+    "stage_2_ex": true,
+    "stage_1_ex": true,
+    "mega_stage_2_ex": true,
+    "mega_stage_1_ex": true,
+    "ability_heal": true,
+    "stadium_control": true,
+    "damage_counter": true
+  },
+  "archetypes_for_team_rocket": {
+    "balanced": true,
+    "aggro": true,
+    "stall": true,
+    "stage_2": true,
+    "stage_1": true,
+    "stage_2_ex": true,
+    "stage_1_ex": true,
+    "mega_stage_2_ex": true,
+    "mega_stage_1_ex": true,
+    "ability_heal": true,
+    "stadium_control": true
+  },
+  "archetypes_for_dragon": {
+    "balanced": true,
+    "aggro": true,
+    "stall": true,
+    "stage_2": true,
+    "stage_1": true,
+    "stage_2_ex": true,
+    "stage_1_ex": true,
+    "mega_stage_2_ex": true,
+    "mega_stage_1_ex": true,
+    "ability_heal": true,
+    "stadium_control": true,
+    "damage_counter": true
+  },
+  "conservation_audit": false
+}

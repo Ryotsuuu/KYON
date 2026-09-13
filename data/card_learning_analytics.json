@@ -1,0 +1,657 @@
+{
+  "total_simulations_tracked": 9511,
+  "total_turns_simulated": 353017,
+  "card_usage_stats": {
+    "6": {
+      "total_played": 8020,
+      "wins": 8010,
+      "losses": 10,
+      "draws": 0,
+      "win_rate": 0.9988
+    },
+    "20": {
+      "total_played": 8020,
+      "wins": 8010,
+      "losses": 10,
+      "draws": 0,
+      "win_rate": 0.9988
+    },
+    "1056": {
+      "total_played": 8020,
+      "wins": 8010,
+      "losses": 10,
+      "draws": 0,
+      "win_rate": 0.9988
+    },
+    "1195": {
+      "total_played": 8010,
+      "wins": 8000,
+      "losses": 10,
+      "draws": 0,
+      "win_rate": 0.9988
+    },
+    "1197": {
+      "total_played": 8010,
+      "wins": 8000,
+      "losses": 10,
+      "draws": 0,
+      "win_rate": 0.9988
+    },
+    "1202": {
+      "total_played": 8020,
+      "wins": 8010,
+      "losses": 10,
+      "draws": 0,
+      "win_rate": 0.9988
+    },
+    "1079": {
+      "total_played": 9501,
+      "wins": 9491,
+      "losses": 10,
+      "draws": 0,
+      "win_rate": 0.9989
+    },
+    "1211": {
+      "total_played": 8030,
+      "wins": 8020,
+      "losses": 10,
+      "draws": 0,
+      "win_rate": 0.9988
+    },
+    "1088": {
+      "total_played": 9501,
+      "wins": 9501,
+      "losses": 0,
+      "draws": 0,
+      "win_rate": 1.0
+    },
+    "1223": {
+      "total_played": 9041,
+      "wins": 9011,
+      "losses": 30,
+      "draws": 0,
+      "win_rate": 0.9967
+    },
+    "1229": {
+      "total_played": 8020,
+      "wins": 8010,
+      "losses": 10,
+      "draws": 0,
+      "win_rate": 0.9988
+    },
+    "1233": {
+      "total_played": 8030,
+      "wins": 8020,
+      "losses": 10,
+      "draws": 0,
+      "win_rate": 0.9988
+    },
+    "1240": {
+      "total_played": 8010,
+      "wins": 8000,
+      "losses": 10,
+      "draws": 0,
+      "win_rate": 0.9988
+    },
+    "1119": {
+      "total_played": 9501,
+      "wins": 9501,
+      "losses": 0,
+      "draws": 0,
+      "win_rate": 1.0
+    },
+    "756": {
+      "total_played": 9501,
+      "wins": 9501,
+      "losses": 0,
+      "draws": 0,
+      "win_rate": 1.0
+    },
+    "886": {
+      "total_played": 8010,
+      "wins": 8000,
+      "losses": 10,
+      "draws": 0,
+      "win_rate": 0.9988
+    },
+    "379": {
+      "total_played": 8020,
+      "wins": 8010,
+      "losses": 10,
+      "draws": 0,
+      "win_rate": 0.9988
+    },
+    "380": {
+      "total_played": 8020,
+      "wins": 8010,
+      "losses": 10,
+      "draws": 0,
+      "win_rate": 0.9988
+    },
+    "381": {
+      "total_played": 8020,
+      "wins": 8010,
+      "losses": 10,
+      "draws": 0,
+      "win_rate": 0.9988
+    },
+    "1": {
+      "total_played": 370,
+      "wins": 160,
+      "losses": 210,
+      "draws": 0,
+      "win_rate": 0.4324
+    },
+    "650": {
+      "total_played": 260,
+      "wins": 150,
+      "losses": 110,
+      "draws": 0,
+      "win_rate": 0.5769
+    },
+    "651": {
+      "total_played": 260,
+      "wins": 150,
+      "losses": 110,
+      "draws": 0,
+      "win_rate": 0.5769
+    },
+    "652": {
+      "total_played": 260,
+      "wins": 150,
+      "losses": 110,
+      "draws": 0,
+      "win_rate": 0.5769
+    },
+    "781": {
+      "total_played": 370,
+      "wins": 160,
+      "losses": 210,
+      "draws": 0,
+      "win_rate": 0.4324
+    },
+    "18": {
+      "total_played": 370,
+      "wins": 160,
+      "losses": 210,
+      "draws": 0,
+      "win_rate": 0.4324
+    },
+    "1184": {
+      "total_played": 120,
+      "wins": 20,
+      "losses": 100,
+      "draws": 0,
+      "win_rate": 0.1667
+    },
+    "1186": {
+      "total_played": 10,
+      "wins": 10,
+      "losses": 0,
+      "draws": 0,
+      "win_rate": 1.0
+    },
+    "1188": {
+      "total_played": 10,
+      "wins": 0,
+      "losses": 10,
+      "draws": 0,
+      "win_rate": 0.0
+    },
+    "1191": {
+      "total_played": 1041,
+      "wins": 1041,
+      "losses": 0,
+      "draws": 0,
+      "win_rate": 1.0
+    },
+    "1193": {
+      "total_played": 30,
+      "wins": 20,
+      "losses": 10,
+      "draws": 0,
+      "win_rate": 0.6667
+    },
+    "44": {
+      "total_played": 1151,
+      "wins": 1031,
+      "losses": 120,
+      "draws": 0,
+      "win_rate": 0.8957
+    },
+    "1200": {
+      "total_played": 120,
+      "wins": 20,
+      "losses": 100,
+      "draws": 0,
+      "win_rate": 0.1667
+    },
+    "1212": {
+      "total_played": 960,
+      "wins": 460,
+      "losses": 500,
+      "draws": 0,
+      "win_rate": 0.4792
+    },
+    "1214": {
+      "total_played": 1151,
+      "wins": 1021,
+      "losses": 130,
+      "draws": 0,
+      "win_rate": 0.8871
+    },
+    "1218": {
+      "total_played": 10,
+      "wins": 10,
+      "losses": 0,
+      "draws": 0,
+      "win_rate": 1.0
+    },
+    "1220": {
+      "total_played": 10,
+      "wins": 0,
+      "losses": 10,
+      "draws": 0,
+      "win_rate": 0.0
+    },
+    "1222": {
+      "total_played": 1041,
+      "wins": 1021,
+      "losses": 20,
+      "draws": 0,
+      "win_rate": 0.9808
+    },
+    "1224": {
+      "total_played": 960,
+      "wins": 450,
+      "losses": 510,
+      "draws": 0,
+      "win_rate": 0.4688
+    },
+    "1231": {
+      "total_played": 10,
+      "wins": 0,
+      "losses": 10,
+      "draws": 0,
+      "win_rate": 0.0
+    },
+    "1236": {
+      "total_played": 30,
+      "wins": 30,
+      "losses": 0,
+      "draws": 0,
+      "win_rate": 1.0
+    },
+    "1238": {
+      "total_played": 10,
+      "wins": 0,
+      "losses": 10,
+      "draws": 0,
+      "win_rate": 0.0
+    },
+    "1217": {
+      "total_played": 1031,
+      "wins": 1011,
+      "losses": 20,
+      "draws": 0,
+      "win_rate": 0.9806
+    },
+    "1183": {
+      "total_played": 1141,
+      "wins": 1021,
+      "losses": 120,
+      "draws": 0,
+      "win_rate": 0.8948
+    },
+    "3": {
+      "total_played": 1031,
+      "wins": 1011,
+      "losses": 20,
+      "draws": 0,
+      "win_rate": 0.9806
+    },
+    "1192": {
+      "total_played": 1031,
+      "wins": 1011,
+      "losses": 20,
+      "draws": 0,
+      "win_rate": 0.9806
+    },
+    "939": {
+      "total_played": 1031,
+      "wins": 1011,
+      "losses": 20,
+      "draws": 0,
+      "win_rate": 0.9806
+    },
+    "1006": {
+      "total_played": 2091,
+      "wins": 1491,
+      "losses": 600,
+      "draws": 0,
+      "win_rate": 0.7131
+    },
+    "47": {
+      "total_played": 1031,
+      "wins": 1011,
+      "losses": 20,
+      "draws": 0,
+      "win_rate": 0.9806
+    },
+    "48": {
+      "total_played": 1031,
+      "wins": 1011,
+      "losses": 20,
+      "draws": 0,
+      "win_rate": 0.9806
+    },
+    "1208": {
+      "total_played": 1031,
+      "wins": 1011,
+      "losses": 20,
+      "draws": 0,
+      "win_rate": 0.9806
+    },
+    "2": {
+      "total_played": 20,
+      "wins": 20,
+      "losses": 0,
+      "draws": 0,
+      "win_rate": 1.0
+    },
+    "1182": {
+      "total_played": 20,
+      "wins": 20,
+      "losses": 0,
+      "draws": 0,
+      "win_rate": 1.0
+    },
+    "932": {
+      "total_played": 20,
+      "wins": 20,
+      "losses": 0,
+      "draws": 0,
+      "win_rate": 1.0
+    },
+    "1196": {
+      "total_played": 970,
+      "wins": 470,
+      "losses": 500,
+      "draws": 0,
+      "win_rate": 0.4845
+    },
+    "46": {
+      "total_played": 20,
+      "wins": 20,
+      "losses": 0,
+      "draws": 0,
+      "win_rate": 1.0
+    },
+    "567": {
+      "total_played": 20,
+      "wins": 20,
+      "losses": 0,
+      "draws": 0,
+      "win_rate": 1.0
+    },
+    "568": {
+      "total_played": 20,
+      "wins": 20,
+      "losses": 0,
+      "draws": 0,
+      "win_rate": 1.0
+    },
+    "1241": {
+      "total_played": 970,
+      "wins": 470,
+      "losses": 500,
+      "draws": 0,
+      "win_rate": 0.4845
+    },
+    "1198": {
+      "total_played": 950,
+      "wins": 450,
+      "losses": 500,
+      "draws": 0,
+      "win_rate": 0.4737
+    },
+    "1203": {
+      "total_played": 950,
+      "wins": 450,
+      "losses": 500,
+      "draws": 0,
+      "win_rate": 0.4737
+    },
+    "1230": {
+      "total_played": 950,
+      "wins": 450,
+      "losses": 500,
+      "draws": 0,
+      "win_rate": 0.4737
+    },
+    "1234": {
+      "total_played": 1060,
+      "wins": 460,
+      "losses": 600,
+      "draws": 0,
+      "win_rate": 0.434
+    },
+    "772": {
+      "total_played": 700,
+      "wins": 300,
+      "losses": 400,
+      "draws": 0,
+      "win_rate": 0.4286
+    },
+    "7": {
+      "total_played": 700,
+      "wins": 300,
+      "losses": 400,
+      "draws": 0,
+      "win_rate": 0.4286
+    },
+    "687": {
+      "total_played": 700,
+      "wins": 300,
+      "losses": 400,
+      "draws": 0,
+      "win_rate": 0.4286
+    },
+    "59": {
+      "total_played": 700,
+      "wins": 300,
+      "losses": 400,
+      "draws": 0,
+      "win_rate": 0.4286
+    },
+    "60": {
+      "total_played": 700,
+      "wins": 300,
+      "losses": 400,
+      "draws": 0,
+      "win_rate": 0.4286
+    },
+    "1206": {
+      "total_played": 110,
+      "wins": 10,
+      "losses": 100,
+      "draws": 0,
+      "win_rate": 0.0909
+    },
+    "1209": {
+      "total_played": 110,
+      "wins": 10,
+      "losses": 100,
+      "draws": 0,
+      "win_rate": 0.0909
+    },
+    "1215": {
+      "total_played": 110,
+      "wins": 10,
+      "losses": 100,
+      "draws": 0,
+      "win_rate": 0.0909
+    },
+    "849": {
+      "total_played": 110,
+      "wins": 10,
+      "losses": 100,
+      "draws": 0,
+      "win_rate": 0.0909
+    },
+    "758": {
+      "total_played": 110,
+      "wins": 10,
+      "losses": 100,
+      "draws": 0,
+      "win_rate": 0.0909
+    }
+  },
+  "neural_loss_history": [
+    {
+      "timestamp": "2026-08-30 02:42:56",
+      "loss": 0.621,
+      "games": 10,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-02 19:20:27",
+      "loss": 1.1451,
+      "games": 3000,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-02 19:32:34",
+      "loss": 0.7897,
+      "games": 10,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-04 12:23:28",
+      "loss": 1.5593,
+      "games": 3000,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-04 16:01:07",
+      "loss": 1.0316,
+      "games": 300,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-04 16:01:58",
+      "loss": 0.9553,
+      "games": 1000,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-07 00:44:04",
+      "loss": 0.4799,
+      "games": 1,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-07 00:46:50",
+      "loss": 0.3628,
+      "games": 10,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-07 01:24:12",
+      "loss": 0.5337,
+      "games": 1000,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-07 22:01:23",
+      "loss": 0.5116,
+      "games": 10,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-07 22:22:12",
+      "loss": 0.5738,
+      "games": 100,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-07 22:22:24",
+      "loss": 0.686,
+      "games": 100,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-07 22:25:09",
+      "loss": 0.5364,
+      "games": 100,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-07 23:01:44",
+      "loss": 0.6032,
+      "games": 50,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-07 23:06:01",
+      "loss": 0.469,
+      "games": 100,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-07 23:09:19",
+      "loss": 0.4841,
+      "games": 10,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-07 23:09:59",
+      "loss": 0.5026,
+      "games": 100,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-10 14:52:03",
+      "loss": 0.6859,
+      "games": 100,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-10 14:52:48",
+      "loss": 0.5725,
+      "games": 100,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-11 21:25:41",
+      "loss": 0.9928,
+      "games": 100,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-11 21:25:42",
+      "loss": 0.5869,
+      "games": 100,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-13 14:38:55",
+      "loss": 0.5617,
+      "games": 100,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-13 14:39:14",
+      "loss": 0.4198,
+      "games": 10,
+      "sim_type": "simulate"
+    },
+    {
+      "timestamp": "2026-09-13 14:54:15",
+      "loss": 0.5988,
+      "games": 100,
+      "sim_type": "simulate"
+    }
+  ],
+  "updated_at": "2026-09-13 14:54:15"
+}

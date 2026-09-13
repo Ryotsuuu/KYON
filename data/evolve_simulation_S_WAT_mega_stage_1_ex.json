@@ -1,0 +1,32 @@
+{
+  "agent": "S_WAT_mega_stage_1_ex",
+  "opponent": "S_WAT_mega_stage_1_ex",
+  "total_games": 10,
+  "phases": [
+    {
+      "phase": 1,
+      "game_range": "1-5",
+      "games": 5,
+      "wins_p1": 3,
+      "wins_p2": 2,
+      "draws": 0,
+      "win_rate_p1": 0.6,
+      "nn_loss": 0.9617,
+      "ml_mae": 0.0139,
+      "games_per_sec": 18.3
+    },
+    {
+      "phase": 2,
+      "game_range": "6-10",
+      "games": 5,
+      "wins_p1": 4,
+      "wins_p2": 1,
+      "draws": 0,
+      "win_rate_p1": 0.8,
+      "nn_loss": 0.9607,
+      "ml_mae": 0.0139,
+      "games_per_sec": 21.79
+    }
+  ],
+  "duration_sec": 13.44
+}

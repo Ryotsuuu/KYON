@@ -1,0 +1,104 @@
+{
+  "agent": "Master_Champion_Vanguard_vs_S_FIG_stage_2_ex",
+  "opponent": "Master_Champion_Vanguard_vs_S_FIG_stage_2_ex",
+  "total_games": 400,
+  "phases": [
+    {
+      "phase": 1,
+      "game_range": "1-50",
+      "games": 50,
+      "wins_p1": 32,
+      "wins_p2": 18,
+      "draws": 0,
+      "win_rate_p1": 0.64,
+      "nn_loss": 0.9451,
+      "ml_mae": 0.0139,
+      "games_per_sec": 44.83
+    },
+    {
+      "phase": 2,
+      "game_range": "51-100",
+      "games": 50,
+      "wins_p1": 32,
+      "wins_p2": 18,
+      "draws": 0,
+      "win_rate_p1": 0.64,
+      "nn_loss": 0.9446,
+      "ml_mae": 0.0139,
+      "games_per_sec": 49.17
+    },
+    {
+      "phase": 3,
+      "game_range": "101-150",
+      "games": 50,
+      "wins_p1": 23,
+      "wins_p2": 27,
+      "draws": 0,
+      "win_rate_p1": 0.46,
+      "nn_loss": 0.9402,
+      "ml_mae": 0.0139,
+      "games_per_sec": 35.43
+    },
+    {
+      "phase": 4,
+      "game_range": "151-200",
+      "games": 50,
+      "wins_p1": 23,
+      "wins_p2": 27,
+      "draws": 0,
+      "win_rate_p1": 0.46,
+      "nn_loss": 0.9576,
+      "ml_mae": 0.0139,
+      "games_per_sec": 58.81
+    },
+    {
+      "phase": 5,
+      "game_range": "201-250",
+      "games": 50,
+      "wins_p1": 29,
+      "wins_p2": 21,
+      "draws": 0,
+      "win_rate_p1": 0.58,
+      "nn_loss": 0.9486,
+      "ml_mae": 0.0139,
+      "games_per_sec": 58.82
+    },
+    {
+      "phase": 6,
+      "game_range": "251-300",
+      "games": 50,
+      "wins_p1": 30,
+      "wins_p2": 20,
+      "draws": 0,
+      "win_rate_p1": 0.6,
+      "nn_loss": 0.9448,
+      "ml_mae": 0.0139,
+      "games_per_sec": 54.12
+    },
+    {
+      "phase": 7,
+      "game_range": "301-350",
+      "games": 50,
+      "wins_p1": 27,
+      "wins_p2": 23,
+      "draws": 0,
+      "win_rate_p1": 0.54,
+      "nn_loss": 0.9516,
+      "ml_mae": 0.0139,
+      "games_per_sec": 43.35
+    },
+    {
+      "phase": 8,
+      "game_range": "351-400",
+      "games": 50,
+      "wins_p1": 17,
+      "wins_p2": 33,
+      "draws": 0,
+      "win_rate_p1": 0.34,
+      "nn_loss": 0.9309,
+      "ml_mae": 0.0139,
+      "games_per_sec": 53.53
+    }
+  ],
+  "duration_sec": 15.7
+}

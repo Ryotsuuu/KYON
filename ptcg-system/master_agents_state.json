@@ -1,0 +1,7141 @@
+{
+  "version": "9.0",
+  "generation": 3,
+  "master_agents": {
+    "MASTER_FIG_prize_rush_g1": {
+      "deck": [
+        1056,
+        1056,
+        1056,
+        756,
+        756,
+        756,
+        44,
+        44,
+        44,
+        979,
+        979,
+        979,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        1119,
+        1119,
+        1088,
+        1208,
+        1208,
+        1239,
+        1239,
+        1182,
+        1182,
+        1187,
+        1187,
+        1205,
+        1205,
+        1203,
+        1203,
+        1232,
+        1232,
+        1209,
+        1209,
+        1225,
+        1225,
+        1241,
+        20,
+        20,
+        20,
+        20,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "energy_types": [
+        "Fighting"
+      ],
+      "archetype": "prize_rush",
+      "generation": 1,
+      "wins": 42,
+      "losses": 14,
+      "draws": 0,
+      "games": 56,
+      "win_rate": 0.75,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 1056,
+              "name": "Mega Zygarde ex",
+              "hp": 310,
+              "type": "Fighting"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 979,
+              "name": "Koraidon ex",
+              "hp": 230,
+              "type": "Fighting"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            },
+            {
+              "id": 1002,
+              "name": "Zangoose ex",
+              "hp": 200,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [
+            {
+              "id": 20,
+              "count": 4,
+              "reason": "Fighting Special Energy"
+            }
+          ],
+          "basic_energies": [
+            {
+              "type": "Fighting",
+              "count": 16
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1208,
+              "reason": "filler"
+            },
+            {
+              "id": 1208,
+              "reason": "filler"
+            },
+            {
+              "id": 1239,
+              "reason": "filler"
+            },
+            {
+              "id": 1239,
+              "reason": "filler"
+            },
+            {
+              "id": 1182,
+              "reason": "filler"
+            },
+            {
+              "id": 1182,
+              "reason": "filler"
+            },
+            {
+              "id": 1187,
+              "reason": "filler"
+            },
+            {
+              "id": 1187,
+              "reason": "filler"
+            },
+            {
+              "id": 1205,
+              "reason": "filler"
+            },
+            {
+              "id": 1205,
+              "reason": "filler"
+            },
+            {
+              "id": 1203,
+              "reason": "filler"
+            },
+            {
+              "id": 1203,
+              "reason": "filler"
+            },
+            {
+              "id": 1232,
+              "reason": "filler"
+            },
+            {
+              "id": 1232,
+              "reason": "filler"
+            },
+            {
+              "id": 1209,
+              "reason": "filler"
+            },
+            {
+              "id": 1209,
+              "reason": "filler"
+            },
+            {
+              "id": 1225,
+              "reason": "filler"
+            },
+            {
+              "id": 1225,
+              "reason": "filler"
+            },
+            {
+              "id": 1241,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1088,
+            "name": "Prime Catcher"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "prize_rush",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_FIG_mega_stage_2_ex_g1": {
+      "deck": [
+        379,
+        379,
+        379,
+        380,
+        380,
+        380,
+        381,
+        381,
+        381,
+        1056,
+        1056,
+        1056,
+        756,
+        756,
+        756,
+        886,
+        886,
+        886,
+        1119,
+        1119,
+        1079,
+        1088,
+        1197,
+        1197,
+        1186,
+        1186,
+        1202,
+        1202,
+        1231,
+        1231,
+        1188,
+        1188,
+        1234,
+        1234,
+        1189,
+        1189,
+        1198,
+        1198,
+        20,
+        20,
+        20,
+        20,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "energy_types": [
+        "Fighting"
+      ],
+      "archetype": "mega_stage_2_ex",
+      "generation": 1,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "games": 0,
+      "win_rate": 0.0,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": [
+            "Cynthia's Gible",
+            "Cynthia's Gabite",
+            "Cynthia's Garchomp ex"
+          ],
+          "species": [
+            {
+              "id": 379,
+              "name": "Cynthia's Gible",
+              "hp": 70,
+              "type": "Fighting"
+            },
+            {
+              "id": 380,
+              "name": "Cynthia's Gabite",
+              "hp": 100,
+              "type": "Fighting"
+            },
+            {
+              "id": 381,
+              "name": "Cynthia's Garchomp ex",
+              "hp": 330,
+              "type": "Fighting"
+            },
+            {
+              "id": 1056,
+              "name": "Mega Zygarde ex",
+              "hp": 310,
+              "type": "Fighting"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 886,
+              "name": "Mega Hawlucha ex",
+              "hp": 250,
+              "type": "Fighting"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [
+            {
+              "id": 20,
+              "count": 4,
+              "reason": "Fighting Special Energy"
+            }
+          ],
+          "basic_energies": [
+            {
+              "type": "Fighting",
+              "count": 18
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1197,
+              "reason": "filler"
+            },
+            {
+              "id": 1197,
+              "reason": "filler"
+            },
+            {
+              "id": 1186,
+              "reason": "filler"
+            },
+            {
+              "id": 1186,
+              "reason": "filler"
+            },
+            {
+              "id": 1202,
+              "reason": "filler"
+            },
+            {
+              "id": 1202,
+              "reason": "filler"
+            },
+            {
+              "id": 1231,
+              "reason": "filler"
+            },
+            {
+              "id": 1231,
+              "reason": "filler"
+            },
+            {
+              "id": 1188,
+              "reason": "filler"
+            },
+            {
+              "id": 1188,
+              "reason": "filler"
+            },
+            {
+              "id": 1234,
+              "reason": "filler"
+            },
+            {
+              "id": 1234,
+              "reason": "filler"
+            },
+            {
+              "id": 1189,
+              "reason": "filler"
+            },
+            {
+              "id": 1189,
+              "reason": "filler"
+            },
+            {
+              "id": 1198,
+              "reason": "filler"
+            },
+            {
+              "id": 1198,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1088,
+            "name": "Prime Catcher"
+          },
+          "rare_candy": 1,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "mega_stage_2_ex",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_FIR_speed_g1": {
+      "deck": [
+        46,
+        46,
+        46,
+        44,
+        44,
+        44,
+        756,
+        756,
+        756,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        357,
+        357,
+        357,
+        1119,
+        1119,
+        1080,
+        1183,
+        1183,
+        1188,
+        1188,
+        1200,
+        1200,
+        1190,
+        1190,
+        1234,
+        1234,
+        1222,
+        1222,
+        1239,
+        1239,
+        1237,
+        1237,
+        1212,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "energy_types": [
+        "Fire"
+      ],
+      "archetype": "speed",
+      "generation": 1,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "games": 0,
+      "win_rate": 0.0,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 46,
+              "name": "Gouging Fire ex",
+              "hp": 230,
+              "type": "Fire"
+            },
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            },
+            {
+              "id": 1002,
+              "name": "Zangoose ex",
+              "hp": 200,
+              "type": "Colorless"
+            },
+            {
+              "id": 357,
+              "name": "Ethan's Ho-Oh ex",
+              "hp": 230,
+              "type": "Fire"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [],
+          "basic_energies": [
+            {
+              "type": "Fire",
+              "count": 22
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1183,
+              "reason": "filler"
+            },
+            {
+              "id": 1183,
+              "reason": "filler"
+            },
+            {
+              "id": 1188,
+              "reason": "filler"
+            },
+            {
+              "id": 1188,
+              "reason": "filler"
+            },
+            {
+              "id": 1200,
+              "reason": "filler"
+            },
+            {
+              "id": 1200,
+              "reason": "filler"
+            },
+            {
+              "id": 1190,
+              "reason": "filler"
+            },
+            {
+              "id": 1190,
+              "reason": "filler"
+            },
+            {
+              "id": 1234,
+              "reason": "filler"
+            },
+            {
+              "id": 1234,
+              "reason": "filler"
+            },
+            {
+              "id": 1222,
+              "reason": "filler"
+            },
+            {
+              "id": 1222,
+              "reason": "filler"
+            },
+            {
+              "id": 1239,
+              "reason": "filler"
+            },
+            {
+              "id": 1239,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1212,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1080,
+            "name": "Unfair Stamp"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "speed",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_FIR_stall_g1": {
+      "deck": [
+        46,
+        46,
+        46,
+        756,
+        756,
+        756,
+        44,
+        44,
+        44,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        357,
+        357,
+        357,
+        1119,
+        1119,
+        1096,
+        1219,
+        1219,
+        1209,
+        1209,
+        1215,
+        1215,
+        1183,
+        1183,
+        1204,
+        1204,
+        1205,
+        1205,
+        1217,
+        1217,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "energy_types": [
+        "Fire"
+      ],
+      "archetype": "stall",
+      "generation": 1,
+      "wins": 10,
+      "losses": 18,
+      "draws": 0,
+      "games": 28,
+      "win_rate": 0.35714285714285715,
+      "alive": false,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 46,
+              "name": "Gouging Fire ex",
+              "hp": 230,
+              "type": "Fire"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            },
+            {
+              "id": 1002,
+              "name": "Zangoose ex",
+              "hp": 200,
+              "type": "Colorless"
+            },
+            {
+              "id": 357,
+              "name": "Ethan's Ho-Oh ex",
+              "hp": 230,
+              "type": "Fire"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [],
+          "basic_energies": [
+            {
+              "type": "Fire",
+              "count": 25
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1219,
+              "reason": "filler"
+            },
+            {
+              "id": 1219,
+              "reason": "filler"
+            },
+            {
+              "id": 1209,
+              "reason": "filler"
+            },
+            {
+              "id": 1209,
+              "reason": "filler"
+            },
+            {
+              "id": 1215,
+              "reason": "filler"
+            },
+            {
+              "id": 1215,
+              "reason": "filler"
+            },
+            {
+              "id": 1183,
+              "reason": "filler"
+            },
+            {
+              "id": 1183,
+              "reason": "filler"
+            },
+            {
+              "id": 1204,
+              "reason": "filler"
+            },
+            {
+              "id": 1204,
+              "reason": "filler"
+            },
+            {
+              "id": 1205,
+              "reason": "filler"
+            },
+            {
+              "id": 1205,
+              "reason": "filler"
+            },
+            {
+              "id": 1217,
+              "reason": "filler"
+            },
+            {
+              "id": 1217,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1096,
+            "name": "Pok\u00e9 Vital A"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "stall",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_WAT_mega_stage_2_ex_g1": {
+      "deck": [
+        47,
+        47,
+        47,
+        48,
+        48,
+        48,
+        939,
+        939,
+        939,
+        756,
+        756,
+        756,
+        1006,
+        1006,
+        1006,
+        44,
+        44,
+        44,
+        1119,
+        1119,
+        1079,
+        1088,
+        1205,
+        1205,
+        1223,
+        1223,
+        1237,
+        1237,
+        1192,
+        1192,
+        1189,
+        1189,
+        1187,
+        1187,
+        1183,
+        1183,
+        1213,
+        1213,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "energy_types": [
+        "Water"
+      ],
+      "archetype": "mega_stage_2_ex",
+      "generation": 1,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "games": 0,
+      "win_rate": 0.0,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": [
+            "Totodile",
+            "Croconaw",
+            "Mega Feraligatr ex"
+          ],
+          "species": [
+            {
+              "id": 47,
+              "name": "Totodile",
+              "hp": 70,
+              "type": "Water"
+            },
+            {
+              "id": 48,
+              "name": "Croconaw",
+              "hp": 90,
+              "type": "Water"
+            },
+            {
+              "id": 939,
+              "name": "Mega Feraligatr ex",
+              "hp": 370,
+              "type": "Water"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 1006,
+              "name": "Mega Audino ex",
+              "hp": 270,
+              "type": "Colorless"
+            },
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [],
+          "basic_energies": [
+            {
+              "type": "Water",
+              "count": 22
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1205,
+              "reason": "filler"
+            },
+            {
+              "id": 1205,
+              "reason": "filler"
+            },
+            {
+              "id": 1223,
+              "reason": "filler"
+            },
+            {
+              "id": 1223,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1192,
+              "reason": "filler"
+            },
+            {
+              "id": 1192,
+              "reason": "filler"
+            },
+            {
+              "id": 1189,
+              "reason": "filler"
+            },
+            {
+              "id": 1189,
+              "reason": "filler"
+            },
+            {
+              "id": 1187,
+              "reason": "filler"
+            },
+            {
+              "id": 1187,
+              "reason": "filler"
+            },
+            {
+              "id": 1183,
+              "reason": "filler"
+            },
+            {
+              "id": 1183,
+              "reason": "filler"
+            },
+            {
+              "id": 1213,
+              "reason": "filler"
+            },
+            {
+              "id": 1213,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1088,
+            "name": "Prime Catcher"
+          },
+          "rare_candy": 1,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "mega_stage_2_ex",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_WAT_control_g1": {
+      "deck": [
+        44,
+        44,
+        44,
+        756,
+        756,
+        756,
+        179,
+        179,
+        179,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        337,
+        337,
+        337,
+        1119,
+        1119,
+        1080,
+        1185,
+        1185,
+        1190,
+        1190,
+        1194,
+        1194,
+        1188,
+        1188,
+        1205,
+        1205,
+        1183,
+        1183,
+        1198,
+        1198,
+        1181,
+        1181,
+        1187,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "energy_types": [
+        "Water"
+      ],
+      "archetype": "control",
+      "generation": 1,
+      "wins": 11,
+      "losses": 17,
+      "draws": 0,
+      "games": 28,
+      "win_rate": 0.39285714285714285,
+      "alive": false,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 179,
+              "name": "Black Kyurem ex",
+              "hp": 230,
+              "type": "Water"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            },
+            {
+              "id": 1002,
+              "name": "Zangoose ex",
+              "hp": 200,
+              "type": "Colorless"
+            },
+            {
+              "id": 337,
+              "name": "LugiaEX",
+              "hp": 220,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [],
+          "basic_energies": [
+            {
+              "type": "Water",
+              "count": 22
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1185,
+              "reason": "filler"
+            },
+            {
+              "id": 1185,
+              "reason": "filler"
+            },
+            {
+              "id": 1190,
+              "reason": "filler"
+            },
+            {
+              "id": 1190,
+              "reason": "filler"
+            },
+            {
+              "id": 1194,
+              "reason": "filler"
+            },
+            {
+              "id": 1194,
+              "reason": "filler"
+            },
+            {
+              "id": 1188,
+              "reason": "filler"
+            },
+            {
+              "id": 1188,
+              "reason": "filler"
+            },
+            {
+              "id": 1205,
+              "reason": "filler"
+            },
+            {
+              "id": 1205,
+              "reason": "filler"
+            },
+            {
+              "id": 1183,
+              "reason": "filler"
+            },
+            {
+              "id": 1183,
+              "reason": "filler"
+            },
+            {
+              "id": 1198,
+              "reason": "filler"
+            },
+            {
+              "id": 1198,
+              "reason": "filler"
+            },
+            {
+              "id": 1181,
+              "reason": "filler"
+            },
+            {
+              "id": 1181,
+              "reason": "filler"
+            },
+            {
+              "id": 1187,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1080,
+            "name": "Unfair Stamp"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "control",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_DAR_mega_stage_2_ex_g1": {
+      "deck": [
+        59,
+        59,
+        59,
+        60,
+        60,
+        60,
+        772,
+        772,
+        772,
+        756,
+        756,
+        756,
+        687,
+        687,
+        687,
+        1006,
+        1006,
+        1006,
+        1119,
+        1119,
+        1079,
+        1088,
+        1220,
+        1220,
+        1218,
+        1218,
+        1224,
+        1224,
+        1228,
+        1228,
+        1208,
+        1208,
+        1207,
+        1207,
+        1230,
+        1230,
+        1204,
+        1204,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "energy_types": [
+        "Darkness"
+      ],
+      "archetype": "mega_stage_2_ex",
+      "generation": 1,
+      "wins": 18,
+      "losses": 10,
+      "draws": 0,
+      "games": 28,
+      "win_rate": 0.6428571428571429,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": [
+            "Gastly",
+            "Haunter",
+            "Mega Gengar ex"
+          ],
+          "species": [
+            {
+              "id": 59,
+              "name": "Gastly",
+              "hp": 60,
+              "type": "Darkness"
+            },
+            {
+              "id": 60,
+              "name": "Haunter",
+              "hp": 90,
+              "type": "Darkness"
+            },
+            {
+              "id": 772,
+              "name": "Mega Gengar ex",
+              "hp": 350,
+              "type": "Darkness"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 687,
+              "name": "Mega Absol ex",
+              "hp": 280,
+              "type": "Darkness"
+            },
+            {
+              "id": 1006,
+              "name": "Mega Audino ex",
+              "hp": 270,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [],
+          "basic_energies": [
+            {
+              "type": "Darkness",
+              "count": 22
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1220,
+              "reason": "filler"
+            },
+            {
+              "id": 1220,
+              "reason": "filler"
+            },
+            {
+              "id": 1218,
+              "reason": "filler"
+            },
+            {
+              "id": 1218,
+              "reason": "filler"
+            },
+            {
+              "id": 1224,
+              "reason": "filler"
+            },
+            {
+              "id": 1224,
+              "reason": "filler"
+            },
+            {
+              "id": 1228,
+              "reason": "filler"
+            },
+            {
+              "id": 1228,
+              "reason": "filler"
+            },
+            {
+              "id": 1208,
+              "reason": "filler"
+            },
+            {
+              "id": 1208,
+              "reason": "filler"
+            },
+            {
+              "id": 1207,
+              "reason": "filler"
+            },
+            {
+              "id": 1207,
+              "reason": "filler"
+            },
+            {
+              "id": 1230,
+              "reason": "filler"
+            },
+            {
+              "id": 1230,
+              "reason": "filler"
+            },
+            {
+              "id": 1204,
+              "reason": "filler"
+            },
+            {
+              "id": 1204,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1088,
+            "name": "Prime Catcher"
+          },
+          "rare_candy": 1,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "mega_stage_2_ex",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_DAR_ramp_g1": {
+      "deck": [
+        44,
+        44,
+        44,
+        756,
+        756,
+        756,
+        687,
+        687,
+        687,
+        1062,
+        1062,
+        1062,
+        139,
+        139,
+        139,
+        176,
+        176,
+        176,
+        1119,
+        1119,
+        1080,
+        1237,
+        1237,
+        1197,
+        1197,
+        1238,
+        1238,
+        1181,
+        1181,
+        1183,
+        1183,
+        1204,
+        1204,
+        1222,
+        1222,
+        1196,
+        1196,
+        1216,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "energy_types": [
+        "Darkness"
+      ],
+      "archetype": "ramp",
+      "generation": 1,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "games": 0,
+      "win_rate": 0.0,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 687,
+              "name": "Mega Absol ex",
+              "hp": 280,
+              "type": "Darkness"
+            },
+            {
+              "id": 1062,
+              "name": "Yveltal ex",
+              "hp": 210,
+              "type": "Darkness"
+            },
+            {
+              "id": 139,
+              "name": "Munkidori ex",
+              "hp": 210,
+              "type": "Darkness"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [],
+          "basic_energies": [
+            {
+              "type": "Darkness",
+              "count": 22
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1197,
+              "reason": "filler"
+            },
+            {
+              "id": 1197,
+              "reason": "filler"
+            },
+            {
+              "id": 1238,
+              "reason": "filler"
+            },
+            {
+              "id": 1238,
+              "reason": "filler"
+            },
+            {
+              "id": 1181,
+              "reason": "filler"
+            },
+            {
+              "id": 1181,
+              "reason": "filler"
+            },
+            {
+              "id": 1183,
+              "reason": "filler"
+            },
+            {
+              "id": 1183,
+              "reason": "filler"
+            },
+            {
+              "id": 1204,
+              "reason": "filler"
+            },
+            {
+              "id": 1204,
+              "reason": "filler"
+            },
+            {
+              "id": 1222,
+              "reason": "filler"
+            },
+            {
+              "id": 1222,
+              "reason": "filler"
+            },
+            {
+              "id": 1196,
+              "reason": "filler"
+            },
+            {
+              "id": 1196,
+              "reason": "filler"
+            },
+            {
+              "id": 1216,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1080,
+            "name": "Unfair Stamp"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "ramp",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_PSY_control_g1": {
+      "deck": [
+        756,
+        756,
+        756,
+        44,
+        44,
+        44,
+        184,
+        184,
+        184,
+        176,
+        176,
+        176,
+        431,
+        431,
+        431,
+        1002,
+        1002,
+        1002,
+        1119,
+        1119,
+        1080,
+        1220,
+        1220,
+        1202,
+        1202,
+        1190,
+        1190,
+        1197,
+        1197,
+        1189,
+        1189,
+        1207,
+        1207,
+        1183,
+        1183,
+        1200,
+        1200,
+        1235,
+        19,
+        19,
+        19,
+        19,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "energy_types": [
+        "Psychic"
+      ],
+      "archetype": "control",
+      "generation": 1,
+      "wins": 13,
+      "losses": 15,
+      "draws": 0,
+      "games": 28,
+      "win_rate": 0.4642857142857143,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 184,
+              "name": "Latias ex",
+              "hp": 210,
+              "type": "Psychic"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            },
+            {
+              "id": 431,
+              "name": "Team Rocket's Mewtwo ex",
+              "hp": 280,
+              "type": "Psychic"
+            },
+            {
+              "id": 1002,
+              "name": "Zangoose ex",
+              "hp": 200,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [
+            {
+              "id": 19,
+              "count": 4,
+              "reason": "Psychic Special Energy"
+            }
+          ],
+          "basic_energies": [
+            {
+              "type": "Psychic",
+              "count": 18
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1220,
+              "reason": "filler"
+            },
+            {
+              "id": 1220,
+              "reason": "filler"
+            },
+            {
+              "id": 1202,
+              "reason": "filler"
+            },
+            {
+              "id": 1202,
+              "reason": "filler"
+            },
+            {
+              "id": 1190,
+              "reason": "filler"
+            },
+            {
+              "id": 1190,
+              "reason": "filler"
+            },
+            {
+              "id": 1197,
+              "reason": "filler"
+            },
+            {
+              "id": 1197,
+              "reason": "filler"
+            },
+            {
+              "id": 1189,
+              "reason": "filler"
+            },
+            {
+              "id": 1189,
+              "reason": "filler"
+            },
+            {
+              "id": 1207,
+              "reason": "filler"
+            },
+            {
+              "id": 1207,
+              "reason": "filler"
+            },
+            {
+              "id": 1183,
+              "reason": "filler"
+            },
+            {
+              "id": 1183,
+              "reason": "filler"
+            },
+            {
+              "id": 1200,
+              "reason": "filler"
+            },
+            {
+              "id": 1200,
+              "reason": "filler"
+            },
+            {
+              "id": 1235,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1080,
+            "name": "Unfair Stamp"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "control",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_PSY_stadium_control_g1": {
+      "deck": [
+        44,
+        44,
+        44,
+        756,
+        756,
+        756,
+        184,
+        184,
+        184,
+        431,
+        431,
+        431,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        1119,
+        1119,
+        1247,
+        1242,
+        1242,
+        1216,
+        1216,
+        1219,
+        1219,
+        1240,
+        1240,
+        1237,
+        1237,
+        1200,
+        1200,
+        1198,
+        1198,
+        1185,
+        1185,
+        1209,
+        19,
+        19,
+        19,
+        19,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "energy_types": [
+        "Psychic"
+      ],
+      "archetype": "stadium_control",
+      "generation": 1,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "games": 0,
+      "win_rate": 0.0,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 184,
+              "name": "Latias ex",
+              "hp": 210,
+              "type": "Psychic"
+            },
+            {
+              "id": 431,
+              "name": "Team Rocket's Mewtwo ex",
+              "hp": 280,
+              "type": "Psychic"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            },
+            {
+              "id": 1002,
+              "name": "Zangoose ex",
+              "hp": 200,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [
+            {
+              "id": 19,
+              "count": 4,
+              "reason": "Psychic Special Energy"
+            }
+          ],
+          "basic_energies": [
+            {
+              "type": "Psychic",
+              "count": 18
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1242,
+              "reason": "mechanic"
+            },
+            {
+              "id": 1242,
+              "reason": "mechanic"
+            },
+            {
+              "id": 1216,
+              "reason": "filler"
+            },
+            {
+              "id": 1216,
+              "reason": "filler"
+            },
+            {
+              "id": 1219,
+              "reason": "filler"
+            },
+            {
+              "id": 1219,
+              "reason": "filler"
+            },
+            {
+              "id": 1240,
+              "reason": "filler"
+            },
+            {
+              "id": 1240,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1200,
+              "reason": "filler"
+            },
+            {
+              "id": 1200,
+              "reason": "filler"
+            },
+            {
+              "id": 1198,
+              "reason": "filler"
+            },
+            {
+              "id": 1198,
+              "reason": "filler"
+            },
+            {
+              "id": 1185,
+              "reason": "filler"
+            },
+            {
+              "id": 1185,
+              "reason": "filler"
+            },
+            {
+              "id": 1209,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1247,
+            "name": "Neutralization Zone"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "stadium_control",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_GRA_control_g1": {
+      "deck": [
+        44,
+        44,
+        44,
+        756,
+        756,
+        756,
+        781,
+        781,
+        781,
+        75,
+        75,
+        75,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        1119,
+        1119,
+        1080,
+        1209,
+        1209,
+        1183,
+        1183,
+        1211,
+        1211,
+        1240,
+        1240,
+        1220,
+        1220,
+        1224,
+        1224,
+        1226,
+        1226,
+        1213,
+        1213,
+        1207,
+        18,
+        18,
+        18,
+        18,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "energy_types": [
+        "Grass"
+      ],
+      "archetype": "control",
+      "generation": 1,
+      "wins": 8,
+      "losses": 20,
+      "draws": 0,
+      "games": 28,
+      "win_rate": 0.2857142857142857,
+      "alive": false,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 781,
+              "name": "Mega Heracross ex",
+              "hp": 280,
+              "type": "Grass"
+            },
+            {
+              "id": 75,
+              "name": "Iron Leaves ex",
+              "hp": 220,
+              "type": "Grass"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            },
+            {
+              "id": 1002,
+              "name": "Zangoose ex",
+              "hp": 200,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [
+            {
+              "id": 18,
+              "count": 4,
+              "reason": "Grass Special Energy"
+            }
+          ],
+          "basic_energies": [
+            {
+              "type": "Grass",
+              "count": 18
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1209,
+              "reason": "filler"
+            },
+            {
+              "id": 1209,
+              "reason": "filler"
+            },
+            {
+              "id": 1183,
+              "reason": "filler"
+            },
+            {
+              "id": 1183,
+              "reason": "filler"
+            },
+            {
+              "id": 1211,
+              "reason": "filler"
+            },
+            {
+              "id": 1211,
+              "reason": "filler"
+            },
+            {
+              "id": 1240,
+              "reason": "filler"
+            },
+            {
+              "id": 1240,
+              "reason": "filler"
+            },
+            {
+              "id": 1220,
+              "reason": "filler"
+            },
+            {
+              "id": 1220,
+              "reason": "filler"
+            },
+            {
+              "id": 1224,
+              "reason": "filler"
+            },
+            {
+              "id": 1224,
+              "reason": "filler"
+            },
+            {
+              "id": 1226,
+              "reason": "filler"
+            },
+            {
+              "id": 1226,
+              "reason": "filler"
+            },
+            {
+              "id": 1213,
+              "reason": "filler"
+            },
+            {
+              "id": 1213,
+              "reason": "filler"
+            },
+            {
+              "id": 1207,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1080,
+            "name": "Unfair Stamp"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "control",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_GRA_balanced_g1": {
+      "deck": [
+        44,
+        44,
+        44,
+        756,
+        756,
+        756,
+        781,
+        781,
+        781,
+        75,
+        75,
+        75,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        1119,
+        1119,
+        1080,
+        1185,
+        1185,
+        1236,
+        1236,
+        1184,
+        1184,
+        1221,
+        1221,
+        1197,
+        1197,
+        1228,
+        1228,
+        1210,
+        1210,
+        1212,
+        1212,
+        1238,
+        18,
+        18,
+        18,
+        18,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "energy_types": [
+        "Grass"
+      ],
+      "archetype": "balanced",
+      "generation": 1,
+      "wins": 13,
+      "losses": 15,
+      "draws": 0,
+      "games": 28,
+      "win_rate": 0.4642857142857143,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 781,
+              "name": "Mega Heracross ex",
+              "hp": 280,
+              "type": "Grass"
+            },
+            {
+              "id": 75,
+              "name": "Iron Leaves ex",
+              "hp": 220,
+              "type": "Grass"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            },
+            {
+              "id": 1002,
+              "name": "Zangoose ex",
+              "hp": 200,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [
+            {
+              "id": 18,
+              "count": 4,
+              "reason": "Grass Special Energy"
+            }
+          ],
+          "basic_energies": [
+            {
+              "type": "Grass",
+              "count": 18
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1185,
+              "reason": "filler"
+            },
+            {
+              "id": 1185,
+              "reason": "filler"
+            },
+            {
+              "id": 1236,
+              "reason": "filler"
+            },
+            {
+              "id": 1236,
+              "reason": "filler"
+            },
+            {
+              "id": 1184,
+              "reason": "filler"
+            },
+            {
+              "id": 1184,
+              "reason": "filler"
+            },
+            {
+              "id": 1221,
+              "reason": "filler"
+            },
+            {
+              "id": 1221,
+              "reason": "filler"
+            },
+            {
+              "id": 1197,
+              "reason": "filler"
+            },
+            {
+              "id": 1197,
+              "reason": "filler"
+            },
+            {
+              "id": 1228,
+              "reason": "filler"
+            },
+            {
+              "id": 1228,
+              "reason": "filler"
+            },
+            {
+              "id": 1210,
+              "reason": "filler"
+            },
+            {
+              "id": 1210,
+              "reason": "filler"
+            },
+            {
+              "id": 1212,
+              "reason": "filler"
+            },
+            {
+              "id": 1212,
+              "reason": "filler"
+            },
+            {
+              "id": 1238,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1080,
+            "name": "Unfair Stamp"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "balanced",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_FIR+WAT_mega_stage_2_ex_g1": {
+      "deck": [
+        567,
+        567,
+        567,
+        568,
+        568,
+        568,
+        932,
+        932,
+        932,
+        179,
+        179,
+        179,
+        756,
+        756,
+        756,
+        1006,
+        1006,
+        1006,
+        1119,
+        1119,
+        1079,
+        1088,
+        1194,
+        1194,
+        1183,
+        1183,
+        1222,
+        1222,
+        1204,
+        1204,
+        1216,
+        1216,
+        1182,
+        1182,
+        1220,
+        1220,
+        1237,
+        1237,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "energy_types": [
+        "Fire",
+        "Water"
+      ],
+      "archetype": "mega_stage_2_ex",
+      "generation": 1,
+      "wins": 17,
+      "losses": 11,
+      "draws": 0,
+      "games": 28,
+      "win_rate": 0.6071428571428571,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": [
+            "Tepig",
+            "Pignite",
+            "Mega Emboar ex"
+          ],
+          "species": [
+            {
+              "id": 567,
+              "name": "Tepig",
+              "hp": 70,
+              "type": "Fire"
+            },
+            {
+              "id": 568,
+              "name": "Pignite",
+              "hp": 110,
+              "type": "Fire"
+            },
+            {
+              "id": 932,
+              "name": "Mega Emboar ex",
+              "hp": 380,
+              "type": "Fire"
+            },
+            {
+              "id": 179,
+              "name": "Black Kyurem ex",
+              "hp": 230,
+              "type": "Water"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 1006,
+              "name": "Mega Audino ex",
+              "hp": 270,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [],
+          "basic_energies": [
+            {
+              "type": "Fire",
+              "count": 11
+            },
+            {
+              "type": "Water",
+              "count": 11
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1194,
+              "reason": "filler"
+            },
+            {
+              "id": 1194,
+              "reason": "filler"
+            },
+            {
+              "id": 1183,
+              "reason": "filler"
+            },
+            {
+              "id": 1183,
+              "reason": "filler"
+            },
+            {
+              "id": 1222,
+              "reason": "filler"
+            },
+            {
+              "id": 1222,
+              "reason": "filler"
+            },
+            {
+              "id": 1204,
+              "reason": "filler"
+            },
+            {
+              "id": 1204,
+              "reason": "filler"
+            },
+            {
+              "id": 1216,
+              "reason": "filler"
+            },
+            {
+              "id": 1216,
+              "reason": "filler"
+            },
+            {
+              "id": 1182,
+              "reason": "filler"
+            },
+            {
+              "id": 1182,
+              "reason": "filler"
+            },
+            {
+              "id": 1220,
+              "reason": "filler"
+            },
+            {
+              "id": 1220,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1088,
+            "name": "Prime Catcher"
+          },
+          "rare_candy": 1,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "mega_stage_2_ex",
+        "combo_type": "dual"
+      }
+    },
+    "MASTER_PSY+DAR_damage_counter_g1": {
+      "deck": [
+        184,
+        184,
+        184,
+        687,
+        687,
+        687,
+        756,
+        756,
+        756,
+        44,
+        44,
+        44,
+        1062,
+        1062,
+        1062,
+        139,
+        139,
+        139,
+        1119,
+        1119,
+        1095,
+        1236,
+        1236,
+        1185,
+        1185,
+        1202,
+        1202,
+        1196,
+        1196,
+        1221,
+        1221,
+        1241,
+        1241,
+        1186,
+        1186,
+        1235,
+        1235,
+        1189,
+        19,
+        19,
+        19,
+        19,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "energy_types": [
+        "Psychic",
+        "Darkness"
+      ],
+      "archetype": "damage_counter",
+      "generation": 1,
+      "wins": 14,
+      "losses": 14,
+      "draws": 0,
+      "games": 28,
+      "win_rate": 0.5,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 184,
+              "name": "Latias ex",
+              "hp": 210,
+              "type": "Psychic"
+            },
+            {
+              "id": 687,
+              "name": "Mega Absol ex",
+              "hp": 280,
+              "type": "Darkness"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 1062,
+              "name": "Yveltal ex",
+              "hp": 210,
+              "type": "Darkness"
+            },
+            {
+              "id": 139,
+              "name": "Munkidori ex",
+              "hp": 210,
+              "type": "Darkness"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [
+            {
+              "id": 19,
+              "count": 4,
+              "reason": "Psychic Special Energy"
+            }
+          ],
+          "basic_energies": [
+            {
+              "type": "Psychic",
+              "count": 9
+            },
+            {
+              "type": "Darkness",
+              "count": 9
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1236,
+              "reason": "filler"
+            },
+            {
+              "id": 1236,
+              "reason": "filler"
+            },
+            {
+              "id": 1185,
+              "reason": "filler"
+            },
+            {
+              "id": 1185,
+              "reason": "filler"
+            },
+            {
+              "id": 1202,
+              "reason": "filler"
+            },
+            {
+              "id": 1202,
+              "reason": "filler"
+            },
+            {
+              "id": 1196,
+              "reason": "filler"
+            },
+            {
+              "id": 1196,
+              "reason": "filler"
+            },
+            {
+              "id": 1221,
+              "reason": "filler"
+            },
+            {
+              "id": 1221,
+              "reason": "filler"
+            },
+            {
+              "id": 1241,
+              "reason": "filler"
+            },
+            {
+              "id": 1241,
+              "reason": "filler"
+            },
+            {
+              "id": 1186,
+              "reason": "filler"
+            },
+            {
+              "id": 1186,
+              "reason": "filler"
+            },
+            {
+              "id": 1235,
+              "reason": "filler"
+            },
+            {
+              "id": 1235,
+              "reason": "filler"
+            },
+            {
+              "id": 1189,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1095,
+            "name": "Dangerous Laser"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "damage_counter",
+        "combo_type": "dual"
+      }
+    },
+    "MASTER_LIG+MET_damage_counter_g1": {
+      "deck": [
+        328,
+        328,
+        328,
+        695,
+        695,
+        695,
+        756,
+        756,
+        756,
+        44,
+        44,
+        44,
+        299,
+        299,
+        299,
+        336,
+        336,
+        336,
+        1119,
+        1119,
+        1095,
+        1214,
+        1214,
+        1230,
+        1230,
+        1209,
+        1209,
+        1215,
+        1215,
+        1197,
+        1197,
+        1185,
+        1185,
+        1223,
+        1223,
+        1191,
+        1191,
+        1240,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "energy_types": [
+        "Lightning",
+        "Metal"
+      ],
+      "archetype": "damage_counter",
+      "generation": 1,
+      "wins": 25,
+      "losses": 31,
+      "draws": 0,
+      "games": 56,
+      "win_rate": 0.44642857142857145,
+      "alive": false,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 328,
+              "name": "Pikachu ex",
+              "hp": 190,
+              "type": "Lightning"
+            },
+            {
+              "id": 695,
+              "name": "Mega Mawile ex",
+              "hp": 270,
+              "type": "Metal"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 299,
+              "name": "Hop\u2019s Zacian ex",
+              "hp": 230,
+              "type": "Metal"
+            },
+            {
+              "id": 336,
+              "name": "Zacian ex",
+              "hp": 220,
+              "type": "Metal"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [],
+          "basic_energies": [
+            {
+              "type": "Lightning",
+              "count": 11
+            },
+            {
+              "type": "Metal",
+              "count": 11
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1214,
+              "reason": "filler"
+            },
+            {
+              "id": 1214,
+              "reason": "filler"
+            },
+            {
+              "id": 1230,
+              "reason": "filler"
+            },
+            {
+              "id": 1230,
+              "reason": "filler"
+            },
+            {
+              "id": 1209,
+              "reason": "filler"
+            },
+            {
+              "id": 1209,
+              "reason": "filler"
+            },
+            {
+              "id": 1215,
+              "reason": "filler"
+            },
+            {
+              "id": 1215,
+              "reason": "filler"
+            },
+            {
+              "id": 1197,
+              "reason": "filler"
+            },
+            {
+              "id": 1197,
+              "reason": "filler"
+            },
+            {
+              "id": 1185,
+              "reason": "filler"
+            },
+            {
+              "id": 1185,
+              "reason": "filler"
+            },
+            {
+              "id": 1223,
+              "reason": "filler"
+            },
+            {
+              "id": 1223,
+              "reason": "filler"
+            },
+            {
+              "id": 1191,
+              "reason": "filler"
+            },
+            {
+              "id": 1191,
+              "reason": "filler"
+            },
+            {
+              "id": 1240,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1095,
+            "name": "Dangerous Laser"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "damage_counter",
+        "combo_type": "dual"
+      }
+    },
+    "MASTER_DRA+FIR_mega_stage_2_ex_g1": {
+      "deck": [
+        567,
+        567,
+        567,
+        568,
+        568,
+        568,
+        932,
+        932,
+        932,
+        756,
+        756,
+        756,
+        1006,
+        1006,
+        1006,
+        46,
+        46,
+        46,
+        1119,
+        1119,
+        1079,
+        1088,
+        1227,
+        1227,
+        1195,
+        1195,
+        1212,
+        1212,
+        1225,
+        1225,
+        1191,
+        1191,
+        1229,
+        1229,
+        1192,
+        1192,
+        1222,
+        1222,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "energy_types": [
+        "Dragon",
+        "Fire"
+      ],
+      "archetype": "mega_stage_2_ex",
+      "generation": 1,
+      "wins": 15,
+      "losses": 13,
+      "draws": 0,
+      "games": 28,
+      "win_rate": 0.5357142857142857,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": [
+            "Tepig",
+            "Pignite",
+            "Mega Emboar ex"
+          ],
+          "species": [
+            {
+              "id": 567,
+              "name": "Tepig",
+              "hp": 70,
+              "type": "Fire"
+            },
+            {
+              "id": 568,
+              "name": "Pignite",
+              "hp": 110,
+              "type": "Fire"
+            },
+            {
+              "id": 932,
+              "name": "Mega Emboar ex",
+              "hp": 380,
+              "type": "Fire"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 1006,
+              "name": "Mega Audino ex",
+              "hp": 270,
+              "type": "Colorless"
+            },
+            {
+              "id": 46,
+              "name": "Gouging Fire ex",
+              "hp": 230,
+              "type": "Fire"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [],
+          "basic_energies": [
+            {
+              "type": "Dragon",
+              "count": 11
+            },
+            {
+              "type": "Fire",
+              "count": 11
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1227,
+              "reason": "filler"
+            },
+            {
+              "id": 1227,
+              "reason": "filler"
+            },
+            {
+              "id": 1195,
+              "reason": "filler"
+            },
+            {
+              "id": 1195,
+              "reason": "filler"
+            },
+            {
+              "id": 1212,
+              "reason": "filler"
+            },
+            {
+              "id": 1212,
+              "reason": "filler"
+            },
+            {
+              "id": 1225,
+              "reason": "filler"
+            },
+            {
+              "id": 1225,
+              "reason": "filler"
+            },
+            {
+              "id": 1191,
+              "reason": "filler"
+            },
+            {
+              "id": 1191,
+              "reason": "filler"
+            },
+            {
+              "id": 1229,
+              "reason": "filler"
+            },
+            {
+              "id": 1229,
+              "reason": "filler"
+            },
+            {
+              "id": 1192,
+              "reason": "filler"
+            },
+            {
+              "id": 1192,
+              "reason": "filler"
+            },
+            {
+              "id": 1222,
+              "reason": "filler"
+            },
+            {
+              "id": 1222,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1088,
+            "name": "Prime Catcher"
+          },
+          "rare_candy": 1,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "mega_stage_2_ex",
+        "combo_type": "dual"
+      }
+    },
+    "MASTER_CLONE_MASTER_FIG_priz_g2": {
+      "deck": [
+        1056,
+        1056,
+        1056,
+        756,
+        756,
+        756,
+        44,
+        44,
+        44,
+        979,
+        979,
+        979,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        1119,
+        1119,
+        1088,
+        1208,
+        1208,
+        1239,
+        1239,
+        1182,
+        1182,
+        1187,
+        1187,
+        1205,
+        1205,
+        1203,
+        1203,
+        1232,
+        1232,
+        1209,
+        1209,
+        1225,
+        1225,
+        1241,
+        20,
+        20,
+        20,
+        20,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "energy_types": [
+        "Fighting"
+      ],
+      "archetype": "prize_rush",
+      "generation": 2,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "games": 0,
+      "win_rate": 0.0,
+      "alive": true
+    },
+    "MASTER_MET_balanced_g2": {
+      "deck": [
+        695,
+        695,
+        695,
+        756,
+        756,
+        756,
+        44,
+        44,
+        44,
+        299,
+        299,
+        299,
+        336,
+        336,
+        336,
+        176,
+        176,
+        176,
+        1119,
+        1119,
+        1080,
+        1234,
+        1234,
+        1201,
+        1201,
+        1202,
+        1202,
+        1204,
+        1204,
+        1221,
+        1221,
+        1199,
+        1199,
+        1197,
+        1197,
+        1215,
+        1215,
+        1212,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "energy_types": [
+        "Metal"
+      ],
+      "archetype": "balanced",
+      "generation": 2,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "games": 0,
+      "win_rate": 0.0,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 695,
+              "name": "Mega Mawile ex",
+              "hp": 270,
+              "type": "Metal"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 299,
+              "name": "Hop\u2019s Zacian ex",
+              "hp": 230,
+              "type": "Metal"
+            },
+            {
+              "id": 336,
+              "name": "Zacian ex",
+              "hp": 220,
+              "type": "Metal"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [],
+          "basic_energies": [
+            {
+              "type": "Metal",
+              "count": 22
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1234,
+              "reason": "filler"
+            },
+            {
+              "id": 1234,
+              "reason": "filler"
+            },
+            {
+              "id": 1201,
+              "reason": "filler"
+            },
+            {
+              "id": 1201,
+              "reason": "filler"
+            },
+            {
+              "id": 1202,
+              "reason": "filler"
+            },
+            {
+              "id": 1202,
+              "reason": "filler"
+            },
+            {
+              "id": 1204,
+              "reason": "filler"
+            },
+            {
+              "id": 1204,
+              "reason": "filler"
+            },
+            {
+              "id": 1221,
+              "reason": "filler"
+            },
+            {
+              "id": 1221,
+              "reason": "filler"
+            },
+            {
+              "id": 1199,
+              "reason": "filler"
+            },
+            {
+              "id": 1199,
+              "reason": "filler"
+            },
+            {
+              "id": 1197,
+              "reason": "filler"
+            },
+            {
+              "id": 1197,
+              "reason": "filler"
+            },
+            {
+              "id": 1215,
+              "reason": "filler"
+            },
+            {
+              "id": 1215,
+              "reason": "filler"
+            },
+            {
+              "id": 1212,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1080,
+            "name": "Unfair Stamp"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "balanced",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_MET_control_g2": {
+      "deck": [
+        695,
+        695,
+        695,
+        44,
+        44,
+        44,
+        756,
+        756,
+        756,
+        299,
+        299,
+        299,
+        336,
+        336,
+        336,
+        176,
+        176,
+        176,
+        1119,
+        1119,
+        1080,
+        1230,
+        1230,
+        1221,
+        1221,
+        1219,
+        1219,
+        1215,
+        1215,
+        1189,
+        1189,
+        1222,
+        1222,
+        1183,
+        1183,
+        1225,
+        1225,
+        1188,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "energy_types": [
+        "Metal"
+      ],
+      "archetype": "control",
+      "generation": 2,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "games": 0,
+      "win_rate": 0.0,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 695,
+              "name": "Mega Mawile ex",
+              "hp": 270,
+              "type": "Metal"
+            },
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 299,
+              "name": "Hop\u2019s Zacian ex",
+              "hp": 230,
+              "type": "Metal"
+            },
+            {
+              "id": 336,
+              "name": "Zacian ex",
+              "hp": 220,
+              "type": "Metal"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [],
+          "basic_energies": [
+            {
+              "type": "Metal",
+              "count": 22
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1230,
+              "reason": "filler"
+            },
+            {
+              "id": 1230,
+              "reason": "filler"
+            },
+            {
+              "id": 1221,
+              "reason": "filler"
+            },
+            {
+              "id": 1221,
+              "reason": "filler"
+            },
+            {
+              "id": 1219,
+              "reason": "filler"
+            },
+            {
+              "id": 1219,
+              "reason": "filler"
+            },
+            {
+              "id": 1215,
+              "reason": "filler"
+            },
+            {
+              "id": 1215,
+              "reason": "filler"
+            },
+            {
+              "id": 1189,
+              "reason": "filler"
+            },
+            {
+              "id": 1189,
+              "reason": "filler"
+            },
+            {
+              "id": 1222,
+              "reason": "filler"
+            },
+            {
+              "id": 1222,
+              "reason": "filler"
+            },
+            {
+              "id": 1183,
+              "reason": "filler"
+            },
+            {
+              "id": 1183,
+              "reason": "filler"
+            },
+            {
+              "id": 1225,
+              "reason": "filler"
+            },
+            {
+              "id": 1225,
+              "reason": "filler"
+            },
+            {
+              "id": 1188,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1080,
+            "name": "Unfair Stamp"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "control",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_FIR_ramp_g2": {
+      "deck": [
+        46,
+        46,
+        46,
+        756,
+        756,
+        756,
+        44,
+        44,
+        44,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        357,
+        357,
+        357,
+        1119,
+        1119,
+        1080,
+        1219,
+        1219,
+        1201,
+        1201,
+        1222,
+        1222,
+        1194,
+        1194,
+        1228,
+        1228,
+        1193,
+        1193,
+        1239,
+        1239,
+        1185,
+        1185,
+        1183,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "energy_types": [
+        "Fire"
+      ],
+      "archetype": "ramp",
+      "generation": 2,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "games": 0,
+      "win_rate": 0.0,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 46,
+              "name": "Gouging Fire ex",
+              "hp": 230,
+              "type": "Fire"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            },
+            {
+              "id": 1002,
+              "name": "Zangoose ex",
+              "hp": 200,
+              "type": "Colorless"
+            },
+            {
+              "id": 357,
+              "name": "Ethan's Ho-Oh ex",
+              "hp": 230,
+              "type": "Fire"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [],
+          "basic_energies": [
+            {
+              "type": "Fire",
+              "count": 22
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1219,
+              "reason": "filler"
+            },
+            {
+              "id": 1219,
+              "reason": "filler"
+            },
+            {
+              "id": 1201,
+              "reason": "filler"
+            },
+            {
+              "id": 1201,
+              "reason": "filler"
+            },
+            {
+              "id": 1222,
+              "reason": "filler"
+            },
+            {
+              "id": 1222,
+              "reason": "filler"
+            },
+            {
+              "id": 1194,
+              "reason": "filler"
+            },
+            {
+              "id": 1194,
+              "reason": "filler"
+            },
+            {
+              "id": 1228,
+              "reason": "filler"
+            },
+            {
+              "id": 1228,
+              "reason": "filler"
+            },
+            {
+              "id": 1193,
+              "reason": "filler"
+            },
+            {
+              "id": 1193,
+              "reason": "filler"
+            },
+            {
+              "id": 1239,
+              "reason": "filler"
+            },
+            {
+              "id": 1239,
+              "reason": "filler"
+            },
+            {
+              "id": 1185,
+              "reason": "filler"
+            },
+            {
+              "id": 1185,
+              "reason": "filler"
+            },
+            {
+              "id": 1183,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1080,
+            "name": "Unfair Stamp"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "ramp",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_FIR_stadium_control_g2": {
+      "deck": [
+        46,
+        46,
+        46,
+        756,
+        756,
+        756,
+        44,
+        44,
+        44,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        357,
+        357,
+        357,
+        1119,
+        1119,
+        1247,
+        1242,
+        1242,
+        1234,
+        1234,
+        1209,
+        1209,
+        1214,
+        1214,
+        1185,
+        1185,
+        1184,
+        1184,
+        1237,
+        1237,
+        1208,
+        1208,
+        1196,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "energy_types": [
+        "Fire"
+      ],
+      "archetype": "stadium_control",
+      "generation": 2,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "games": 0,
+      "win_rate": 0.0,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 46,
+              "name": "Gouging Fire ex",
+              "hp": 230,
+              "type": "Fire"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            },
+            {
+              "id": 1002,
+              "name": "Zangoose ex",
+              "hp": 200,
+              "type": "Colorless"
+            },
+            {
+              "id": 357,
+              "name": "Ethan's Ho-Oh ex",
+              "hp": 230,
+              "type": "Fire"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [],
+          "basic_energies": [
+            {
+              "type": "Fire",
+              "count": 22
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1242,
+              "reason": "mechanic"
+            },
+            {
+              "id": 1242,
+              "reason": "mechanic"
+            },
+            {
+              "id": 1234,
+              "reason": "filler"
+            },
+            {
+              "id": 1234,
+              "reason": "filler"
+            },
+            {
+              "id": 1209,
+              "reason": "filler"
+            },
+            {
+              "id": 1209,
+              "reason": "filler"
+            },
+            {
+              "id": 1214,
+              "reason": "filler"
+            },
+            {
+              "id": 1214,
+              "reason": "filler"
+            },
+            {
+              "id": 1185,
+              "reason": "filler"
+            },
+            {
+              "id": 1185,
+              "reason": "filler"
+            },
+            {
+              "id": 1184,
+              "reason": "filler"
+            },
+            {
+              "id": 1184,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1208,
+              "reason": "filler"
+            },
+            {
+              "id": 1208,
+              "reason": "filler"
+            },
+            {
+              "id": 1196,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1247,
+            "name": "Neutralization Zone"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "stadium_control",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_WAT_stall_g2": {
+      "deck": [
+        44,
+        44,
+        44,
+        756,
+        756,
+        756,
+        179,
+        179,
+        179,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        337,
+        337,
+        337,
+        1119,
+        1119,
+        1096,
+        1224,
+        1224,
+        1234,
+        1234,
+        1194,
+        1194,
+        1192,
+        1192,
+        1216,
+        1216,
+        1197,
+        1197,
+        1228,
+        1228,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "energy_types": [
+        "Water"
+      ],
+      "archetype": "stall",
+      "generation": 2,
+      "wins": 20,
+      "losses": 8,
+      "draws": 0,
+      "games": 28,
+      "win_rate": 0.7142857142857143,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 179,
+              "name": "Black Kyurem ex",
+              "hp": 230,
+              "type": "Water"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            },
+            {
+              "id": 1002,
+              "name": "Zangoose ex",
+              "hp": 200,
+              "type": "Colorless"
+            },
+            {
+              "id": 337,
+              "name": "LugiaEX",
+              "hp": 220,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [],
+          "basic_energies": [
+            {
+              "type": "Water",
+              "count": 25
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1224,
+              "reason": "filler"
+            },
+            {
+              "id": 1224,
+              "reason": "filler"
+            },
+            {
+              "id": 1234,
+              "reason": "filler"
+            },
+            {
+              "id": 1234,
+              "reason": "filler"
+            },
+            {
+              "id": 1194,
+              "reason": "filler"
+            },
+            {
+              "id": 1194,
+              "reason": "filler"
+            },
+            {
+              "id": 1192,
+              "reason": "filler"
+            },
+            {
+              "id": 1192,
+              "reason": "filler"
+            },
+            {
+              "id": 1216,
+              "reason": "filler"
+            },
+            {
+              "id": 1216,
+              "reason": "filler"
+            },
+            {
+              "id": 1197,
+              "reason": "filler"
+            },
+            {
+              "id": 1197,
+              "reason": "filler"
+            },
+            {
+              "id": 1228,
+              "reason": "filler"
+            },
+            {
+              "id": 1228,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1096,
+            "name": "Pok\u00e9 Vital A"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "stall",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_WAT_prize_rush_g2": {
+      "deck": [
+        44,
+        44,
+        44,
+        756,
+        756,
+        756,
+        179,
+        179,
+        179,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        337,
+        337,
+        337,
+        1119,
+        1119,
+        1088,
+        1185,
+        1185,
+        1216,
+        1216,
+        1201,
+        1201,
+        1240,
+        1240,
+        1197,
+        1197,
+        1189,
+        1189,
+        1237,
+        1237,
+        1214,
+        1214,
+        1200,
+        1200,
+        1209,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "energy_types": [
+        "Water"
+      ],
+      "archetype": "prize_rush",
+      "generation": 2,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "games": 0,
+      "win_rate": 0.0,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 179,
+              "name": "Black Kyurem ex",
+              "hp": 230,
+              "type": "Water"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            },
+            {
+              "id": 1002,
+              "name": "Zangoose ex",
+              "hp": 200,
+              "type": "Colorless"
+            },
+            {
+              "id": 337,
+              "name": "LugiaEX",
+              "hp": 220,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [],
+          "basic_energies": [
+            {
+              "type": "Water",
+              "count": 20
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1185,
+              "reason": "filler"
+            },
+            {
+              "id": 1185,
+              "reason": "filler"
+            },
+            {
+              "id": 1216,
+              "reason": "filler"
+            },
+            {
+              "id": 1216,
+              "reason": "filler"
+            },
+            {
+              "id": 1201,
+              "reason": "filler"
+            },
+            {
+              "id": 1201,
+              "reason": "filler"
+            },
+            {
+              "id": 1240,
+              "reason": "filler"
+            },
+            {
+              "id": 1240,
+              "reason": "filler"
+            },
+            {
+              "id": 1197,
+              "reason": "filler"
+            },
+            {
+              "id": 1197,
+              "reason": "filler"
+            },
+            {
+              "id": 1189,
+              "reason": "filler"
+            },
+            {
+              "id": 1189,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1214,
+              "reason": "filler"
+            },
+            {
+              "id": 1214,
+              "reason": "filler"
+            },
+            {
+              "id": 1200,
+              "reason": "filler"
+            },
+            {
+              "id": 1200,
+              "reason": "filler"
+            },
+            {
+              "id": 1209,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1088,
+            "name": "Prime Catcher"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "prize_rush",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_FIG_stall_g2": {
+      "deck": [
+        1056,
+        1056,
+        1056,
+        756,
+        756,
+        756,
+        44,
+        44,
+        44,
+        979,
+        979,
+        979,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        1119,
+        1119,
+        1096,
+        1211,
+        1211,
+        1220,
+        1220,
+        1224,
+        1224,
+        1222,
+        1222,
+        1235,
+        1235,
+        1182,
+        1182,
+        1214,
+        1214,
+        20,
+        20,
+        20,
+        20,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "energy_types": [
+        "Fighting"
+      ],
+      "archetype": "stall",
+      "generation": 2,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "games": 0,
+      "win_rate": 0.0,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 1056,
+              "name": "Mega Zygarde ex",
+              "hp": 310,
+              "type": "Fighting"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 979,
+              "name": "Koraidon ex",
+              "hp": 230,
+              "type": "Fighting"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            },
+            {
+              "id": 1002,
+              "name": "Zangoose ex",
+              "hp": 200,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [
+            {
+              "id": 20,
+              "count": 4,
+              "reason": "Fighting Special Energy"
+            }
+          ],
+          "basic_energies": [
+            {
+              "type": "Fighting",
+              "count": 21
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1211,
+              "reason": "filler"
+            },
+            {
+              "id": 1211,
+              "reason": "filler"
+            },
+            {
+              "id": 1220,
+              "reason": "filler"
+            },
+            {
+              "id": 1220,
+              "reason": "filler"
+            },
+            {
+              "id": 1224,
+              "reason": "filler"
+            },
+            {
+              "id": 1224,
+              "reason": "filler"
+            },
+            {
+              "id": 1222,
+              "reason": "filler"
+            },
+            {
+              "id": 1222,
+              "reason": "filler"
+            },
+            {
+              "id": 1235,
+              "reason": "filler"
+            },
+            {
+              "id": 1235,
+              "reason": "filler"
+            },
+            {
+              "id": 1182,
+              "reason": "filler"
+            },
+            {
+              "id": 1182,
+              "reason": "filler"
+            },
+            {
+              "id": 1214,
+              "reason": "filler"
+            },
+            {
+              "id": 1214,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1096,
+            "name": "Pok\u00e9 Vital A"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "stall",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_FIG_speed_g2": {
+      "deck": [
+        1056,
+        1056,
+        1056,
+        756,
+        756,
+        756,
+        44,
+        44,
+        44,
+        979,
+        979,
+        979,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        1119,
+        1119,
+        1080,
+        1205,
+        1205,
+        1212,
+        1212,
+        1228,
+        1228,
+        1194,
+        1194,
+        1190,
+        1190,
+        1208,
+        1208,
+        1223,
+        1223,
+        1201,
+        1201,
+        1227,
+        20,
+        20,
+        20,
+        20,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "energy_types": [
+        "Fighting"
+      ],
+      "archetype": "speed",
+      "generation": 2,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "games": 0,
+      "win_rate": 0.0,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 1056,
+              "name": "Mega Zygarde ex",
+              "hp": 310,
+              "type": "Fighting"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 979,
+              "name": "Koraidon ex",
+              "hp": 230,
+              "type": "Fighting"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            },
+            {
+              "id": 1002,
+              "name": "Zangoose ex",
+              "hp": 200,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [
+            {
+              "id": 20,
+              "count": 4,
+              "reason": "Fighting Special Energy"
+            }
+          ],
+          "basic_energies": [
+            {
+              "type": "Fighting",
+              "count": 18
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1205,
+              "reason": "filler"
+            },
+            {
+              "id": 1205,
+              "reason": "filler"
+            },
+            {
+              "id": 1212,
+              "reason": "filler"
+            },
+            {
+              "id": 1212,
+              "reason": "filler"
+            },
+            {
+              "id": 1228,
+              "reason": "filler"
+            },
+            {
+              "id": 1228,
+              "reason": "filler"
+            },
+            {
+              "id": 1194,
+              "reason": "filler"
+            },
+            {
+              "id": 1194,
+              "reason": "filler"
+            },
+            {
+              "id": 1190,
+              "reason": "filler"
+            },
+            {
+              "id": 1190,
+              "reason": "filler"
+            },
+            {
+              "id": 1208,
+              "reason": "filler"
+            },
+            {
+              "id": 1208,
+              "reason": "filler"
+            },
+            {
+              "id": 1223,
+              "reason": "filler"
+            },
+            {
+              "id": 1223,
+              "reason": "filler"
+            },
+            {
+              "id": 1201,
+              "reason": "filler"
+            },
+            {
+              "id": 1201,
+              "reason": "filler"
+            },
+            {
+              "id": 1227,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1080,
+            "name": "Unfair Stamp"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "speed",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_GRA_control_g2": {
+      "deck": [
+        756,
+        756,
+        756,
+        44,
+        44,
+        44,
+        781,
+        781,
+        781,
+        75,
+        75,
+        75,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        1119,
+        1119,
+        1080,
+        1237,
+        1237,
+        1206,
+        1206,
+        1188,
+        1188,
+        1204,
+        1204,
+        1187,
+        1187,
+        1214,
+        1214,
+        1213,
+        1213,
+        1212,
+        1212,
+        1184,
+        18,
+        18,
+        18,
+        18,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "energy_types": [
+        "Grass"
+      ],
+      "archetype": "control",
+      "generation": 2,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "games": 0,
+      "win_rate": 0.0,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 781,
+              "name": "Mega Heracross ex",
+              "hp": 280,
+              "type": "Grass"
+            },
+            {
+              "id": 75,
+              "name": "Iron Leaves ex",
+              "hp": 220,
+              "type": "Grass"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            },
+            {
+              "id": 1002,
+              "name": "Zangoose ex",
+              "hp": 200,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [
+            {
+              "id": 18,
+              "count": 4,
+              "reason": "Grass Special Energy"
+            }
+          ],
+          "basic_energies": [
+            {
+              "type": "Grass",
+              "count": 18
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1206,
+              "reason": "filler"
+            },
+            {
+              "id": 1206,
+              "reason": "filler"
+            },
+            {
+              "id": 1188,
+              "reason": "filler"
+            },
+            {
+              "id": 1188,
+              "reason": "filler"
+            },
+            {
+              "id": 1204,
+              "reason": "filler"
+            },
+            {
+              "id": 1204,
+              "reason": "filler"
+            },
+            {
+              "id": 1187,
+              "reason": "filler"
+            },
+            {
+              "id": 1187,
+              "reason": "filler"
+            },
+            {
+              "id": 1214,
+              "reason": "filler"
+            },
+            {
+              "id": 1214,
+              "reason": "filler"
+            },
+            {
+              "id": 1213,
+              "reason": "filler"
+            },
+            {
+              "id": 1213,
+              "reason": "filler"
+            },
+            {
+              "id": 1212,
+              "reason": "filler"
+            },
+            {
+              "id": 1212,
+              "reason": "filler"
+            },
+            {
+              "id": 1184,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1080,
+            "name": "Unfair Stamp"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "control",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_GRA_disrupt_g2": {
+      "deck": [
+        44,
+        44,
+        44,
+        756,
+        756,
+        756,
+        781,
+        781,
+        781,
+        75,
+        75,
+        75,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        1119,
+        1119,
+        1080,
+        1184,
+        1184,
+        1230,
+        1230,
+        1211,
+        1211,
+        1213,
+        1213,
+        1198,
+        1198,
+        1209,
+        1209,
+        1237,
+        1237,
+        1232,
+        1232,
+        1227,
+        18,
+        18,
+        18,
+        18,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "energy_types": [
+        "Grass"
+      ],
+      "archetype": "disrupt",
+      "generation": 2,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "games": 0,
+      "win_rate": 0.0,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 781,
+              "name": "Mega Heracross ex",
+              "hp": 280,
+              "type": "Grass"
+            },
+            {
+              "id": 75,
+              "name": "Iron Leaves ex",
+              "hp": 220,
+              "type": "Grass"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            },
+            {
+              "id": 1002,
+              "name": "Zangoose ex",
+              "hp": 200,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [
+            {
+              "id": 18,
+              "count": 4,
+              "reason": "Grass Special Energy"
+            }
+          ],
+          "basic_energies": [
+            {
+              "type": "Grass",
+              "count": 18
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1184,
+              "reason": "filler"
+            },
+            {
+              "id": 1184,
+              "reason": "filler"
+            },
+            {
+              "id": 1230,
+              "reason": "filler"
+            },
+            {
+              "id": 1230,
+              "reason": "filler"
+            },
+            {
+              "id": 1211,
+              "reason": "filler"
+            },
+            {
+              "id": 1211,
+              "reason": "filler"
+            },
+            {
+              "id": 1213,
+              "reason": "filler"
+            },
+            {
+              "id": 1213,
+              "reason": "filler"
+            },
+            {
+              "id": 1198,
+              "reason": "filler"
+            },
+            {
+              "id": 1198,
+              "reason": "filler"
+            },
+            {
+              "id": 1209,
+              "reason": "filler"
+            },
+            {
+              "id": 1209,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1232,
+              "reason": "filler"
+            },
+            {
+              "id": 1232,
+              "reason": "filler"
+            },
+            {
+              "id": 1227,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1080,
+            "name": "Unfair Stamp"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "disrupt",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_PSY_stall_g2": {
+      "deck": [
+        756,
+        756,
+        756,
+        44,
+        44,
+        44,
+        184,
+        184,
+        184,
+        431,
+        431,
+        431,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        1119,
+        1119,
+        1096,
+        1223,
+        1223,
+        1182,
+        1182,
+        1233,
+        1233,
+        1208,
+        1208,
+        1201,
+        1201,
+        1221,
+        1221,
+        1213,
+        1213,
+        19,
+        19,
+        19,
+        19,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "energy_types": [
+        "Psychic"
+      ],
+      "archetype": "stall",
+      "generation": 2,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "games": 0,
+      "win_rate": 0.0,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 184,
+              "name": "Latias ex",
+              "hp": 210,
+              "type": "Psychic"
+            },
+            {
+              "id": 431,
+              "name": "Team Rocket's Mewtwo ex",
+              "hp": 280,
+              "type": "Psychic"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            },
+            {
+              "id": 1002,
+              "name": "Zangoose ex",
+              "hp": 200,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [
+            {
+              "id": 19,
+              "count": 4,
+              "reason": "Psychic Special Energy"
+            }
+          ],
+          "basic_energies": [
+            {
+              "type": "Psychic",
+              "count": 21
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1223,
+              "reason": "filler"
+            },
+            {
+              "id": 1223,
+              "reason": "filler"
+            },
+            {
+              "id": 1182,
+              "reason": "filler"
+            },
+            {
+              "id": 1182,
+              "reason": "filler"
+            },
+            {
+              "id": 1233,
+              "reason": "filler"
+            },
+            {
+              "id": 1233,
+              "reason": "filler"
+            },
+            {
+              "id": 1208,
+              "reason": "filler"
+            },
+            {
+              "id": 1208,
+              "reason": "filler"
+            },
+            {
+              "id": 1201,
+              "reason": "filler"
+            },
+            {
+              "id": 1201,
+              "reason": "filler"
+            },
+            {
+              "id": 1221,
+              "reason": "filler"
+            },
+            {
+              "id": 1221,
+              "reason": "filler"
+            },
+            {
+              "id": 1213,
+              "reason": "filler"
+            },
+            {
+              "id": 1213,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1096,
+            "name": "Pok\u00e9 Vital A"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "stall",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_PSY_damage_counter_g2": {
+      "deck": [
+        44,
+        44,
+        44,
+        756,
+        756,
+        756,
+        184,
+        184,
+        184,
+        431,
+        431,
+        431,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        1119,
+        1119,
+        1095,
+        1240,
+        1240,
+        1207,
+        1207,
+        1233,
+        1233,
+        1182,
+        1182,
+        1237,
+        1237,
+        1219,
+        1219,
+        1203,
+        1203,
+        1210,
+        1210,
+        1230,
+        19,
+        19,
+        19,
+        19,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "energy_types": [
+        "Psychic"
+      ],
+      "archetype": "damage_counter",
+      "generation": 2,
+      "wins": 4,
+      "losses": 24,
+      "draws": 0,
+      "games": 28,
+      "win_rate": 0.14285714285714285,
+      "alive": false,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 184,
+              "name": "Latias ex",
+              "hp": 210,
+              "type": "Psychic"
+            },
+            {
+              "id": 431,
+              "name": "Team Rocket's Mewtwo ex",
+              "hp": 280,
+              "type": "Psychic"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            },
+            {
+              "id": 1002,
+              "name": "Zangoose ex",
+              "hp": 200,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [
+            {
+              "id": 19,
+              "count": 4,
+              "reason": "Psychic Special Energy"
+            }
+          ],
+          "basic_energies": [
+            {
+              "type": "Psychic",
+              "count": 18
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1240,
+              "reason": "filler"
+            },
+            {
+              "id": 1240,
+              "reason": "filler"
+            },
+            {
+              "id": 1207,
+              "reason": "filler"
+            },
+            {
+              "id": 1207,
+              "reason": "filler"
+            },
+            {
+              "id": 1233,
+              "reason": "filler"
+            },
+            {
+              "id": 1233,
+              "reason": "filler"
+            },
+            {
+              "id": 1182,
+              "reason": "filler"
+            },
+            {
+              "id": 1182,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1219,
+              "reason": "filler"
+            },
+            {
+              "id": 1219,
+              "reason": "filler"
+            },
+            {
+              "id": 1203,
+              "reason": "filler"
+            },
+            {
+              "id": 1203,
+              "reason": "filler"
+            },
+            {
+              "id": 1210,
+              "reason": "filler"
+            },
+            {
+              "id": 1210,
+              "reason": "filler"
+            },
+            {
+              "id": 1230,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1095,
+            "name": "Dangerous Laser"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "damage_counter",
+        "combo_type": "single"
+      }
+    },
+    "MASTER_FIR+WAT_damage_counter_g2": {
+      "deck": [
+        46,
+        46,
+        46,
+        179,
+        179,
+        179,
+        756,
+        756,
+        756,
+        44,
+        44,
+        44,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        1119,
+        1119,
+        1095,
+        1222,
+        1222,
+        1203,
+        1203,
+        1221,
+        1221,
+        1201,
+        1201,
+        1218,
+        1218,
+        1200,
+        1200,
+        1186,
+        1186,
+        1226,
+        1226,
+        1237,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "energy_types": [
+        "Fire",
+        "Water"
+      ],
+      "archetype": "damage_counter",
+      "generation": 2,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "games": 0,
+      "win_rate": 0.0,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 46,
+              "name": "Gouging Fire ex",
+              "hp": 230,
+              "type": "Fire"
+            },
+            {
+              "id": 179,
+              "name": "Black Kyurem ex",
+              "hp": 230,
+              "type": "Water"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            },
+            {
+              "id": 1002,
+              "name": "Zangoose ex",
+              "hp": 200,
+              "type": "Colorless"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [],
+          "basic_energies": [
+            {
+              "type": "Fire",
+              "count": 11
+            },
+            {
+              "type": "Water",
+              "count": 11
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1222,
+              "reason": "filler"
+            },
+            {
+              "id": 1222,
+              "reason": "filler"
+            },
+            {
+              "id": 1203,
+              "reason": "filler"
+            },
+            {
+              "id": 1203,
+              "reason": "filler"
+            },
+            {
+              "id": 1221,
+              "reason": "filler"
+            },
+            {
+              "id": 1221,
+              "reason": "filler"
+            },
+            {
+              "id": 1201,
+              "reason": "filler"
+            },
+            {
+              "id": 1201,
+              "reason": "filler"
+            },
+            {
+              "id": 1218,
+              "reason": "filler"
+            },
+            {
+              "id": 1218,
+              "reason": "filler"
+            },
+            {
+              "id": 1200,
+              "reason": "filler"
+            },
+            {
+              "id": 1200,
+              "reason": "filler"
+            },
+            {
+              "id": 1186,
+              "reason": "filler"
+            },
+            {
+              "id": 1186,
+              "reason": "filler"
+            },
+            {
+              "id": 1226,
+              "reason": "filler"
+            },
+            {
+              "id": 1226,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1095,
+            "name": "Dangerous Laser"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "damage_counter",
+        "combo_type": "dual"
+      }
+    },
+    "MASTER_PSY+DAR_aggro_g2": {
+      "deck": [
+        184,
+        184,
+        184,
+        687,
+        687,
+        687,
+        44,
+        44,
+        44,
+        756,
+        756,
+        756,
+        1062,
+        1062,
+        1062,
+        139,
+        139,
+        139,
+        1119,
+        1119,
+        1088,
+        1210,
+        1210,
+        1209,
+        1209,
+        1216,
+        1216,
+        1205,
+        1205,
+        1191,
+        1191,
+        1226,
+        1226,
+        1207,
+        1207,
+        1220,
+        1220,
+        1227,
+        1227,
+        1193,
+        19,
+        19,
+        19,
+        19,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "energy_types": [
+        "Psychic",
+        "Darkness"
+      ],
+      "archetype": "aggro",
+      "generation": 2,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "games": 0,
+      "win_rate": 0.0,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 184,
+              "name": "Latias ex",
+              "hp": 210,
+              "type": "Psychic"
+            },
+            {
+              "id": 687,
+              "name": "Mega Absol ex",
+              "hp": 280,
+              "type": "Darkness"
+            },
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 1062,
+              "name": "Yveltal ex",
+              "hp": 210,
+              "type": "Darkness"
+            },
+            {
+              "id": 139,
+              "name": "Munkidori ex",
+              "hp": 210,
+              "type": "Darkness"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [
+            {
+              "id": 19,
+              "count": 4,
+              "reason": "Psychic Special Energy"
+            }
+          ],
+          "basic_energies": [
+            {
+              "type": "Psychic",
+              "count": 8
+            },
+            {
+              "type": "Darkness",
+              "count": 8
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1210,
+              "reason": "filler"
+            },
+            {
+              "id": 1210,
+              "reason": "filler"
+            },
+            {
+              "id": 1209,
+              "reason": "filler"
+            },
+            {
+              "id": 1209,
+              "reason": "filler"
+            },
+            {
+              "id": 1216,
+              "reason": "filler"
+            },
+            {
+              "id": 1216,
+              "reason": "filler"
+            },
+            {
+              "id": 1205,
+              "reason": "filler"
+            },
+            {
+              "id": 1205,
+              "reason": "filler"
+            },
+            {
+              "id": 1191,
+              "reason": "filler"
+            },
+            {
+              "id": 1191,
+              "reason": "filler"
+            },
+            {
+              "id": 1226,
+              "reason": "filler"
+            },
+            {
+              "id": 1226,
+              "reason": "filler"
+            },
+            {
+              "id": 1207,
+              "reason": "filler"
+            },
+            {
+              "id": 1207,
+              "reason": "filler"
+            },
+            {
+              "id": 1220,
+              "reason": "filler"
+            },
+            {
+              "id": 1220,
+              "reason": "filler"
+            },
+            {
+              "id": 1227,
+              "reason": "filler"
+            },
+            {
+              "id": 1227,
+              "reason": "filler"
+            },
+            {
+              "id": 1193,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1088,
+            "name": "Prime Catcher"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "aggro",
+        "combo_type": "dual"
+      }
+    },
+    "MASTER_LIG+MET_balanced_g2": {
+      "deck": [
+        328,
+        328,
+        328,
+        695,
+        695,
+        695,
+        756,
+        756,
+        756,
+        44,
+        44,
+        44,
+        299,
+        299,
+        299,
+        336,
+        336,
+        336,
+        1119,
+        1119,
+        1080,
+        1227,
+        1227,
+        1207,
+        1207,
+        1209,
+        1209,
+        1220,
+        1220,
+        1188,
+        1188,
+        1241,
+        1241,
+        1230,
+        1230,
+        1197,
+        1197,
+        1217,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "energy_types": [
+        "Lightning",
+        "Metal"
+      ],
+      "archetype": "balanced",
+      "generation": 2,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "games": 0,
+      "win_rate": 0.0,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 328,
+              "name": "Pikachu ex",
+              "hp": 190,
+              "type": "Lightning"
+            },
+            {
+              "id": 695,
+              "name": "Mega Mawile ex",
+              "hp": 270,
+              "type": "Metal"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 299,
+              "name": "Hop\u2019s Zacian ex",
+              "hp": 230,
+              "type": "Metal"
+            },
+            {
+              "id": 336,
+              "name": "Zacian ex",
+              "hp": 220,
+              "type": "Metal"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [],
+          "basic_energies": [
+            {
+              "type": "Lightning",
+              "count": 11
+            },
+            {
+              "type": "Metal",
+              "count": 11
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1227,
+              "reason": "filler"
+            },
+            {
+              "id": 1227,
+              "reason": "filler"
+            },
+            {
+              "id": 1207,
+              "reason": "filler"
+            },
+            {
+              "id": 1207,
+              "reason": "filler"
+            },
+            {
+              "id": 1209,
+              "reason": "filler"
+            },
+            {
+              "id": 1209,
+              "reason": "filler"
+            },
+            {
+              "id": 1220,
+              "reason": "filler"
+            },
+            {
+              "id": 1220,
+              "reason": "filler"
+            },
+            {
+              "id": 1188,
+              "reason": "filler"
+            },
+            {
+              "id": 1188,
+              "reason": "filler"
+            },
+            {
+              "id": 1241,
+              "reason": "filler"
+            },
+            {
+              "id": 1241,
+              "reason": "filler"
+            },
+            {
+              "id": 1230,
+              "reason": "filler"
+            },
+            {
+              "id": 1230,
+              "reason": "filler"
+            },
+            {
+              "id": 1197,
+              "reason": "filler"
+            },
+            {
+              "id": 1197,
+              "reason": "filler"
+            },
+            {
+              "id": 1217,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1080,
+            "name": "Unfair Stamp"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "balanced",
+        "combo_type": "dual"
+      }
+    },
+    "MASTER_DRA+FIR_balanced_g2": {
+      "deck": [
+        46,
+        46,
+        46,
+        44,
+        44,
+        44,
+        756,
+        756,
+        756,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        357,
+        357,
+        357,
+        1119,
+        1119,
+        1080,
+        1198,
+        1198,
+        1237,
+        1237,
+        1199,
+        1199,
+        1224,
+        1224,
+        1230,
+        1230,
+        1195,
+        1195,
+        1234,
+        1234,
+        1201,
+        1201,
+        1197,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "energy_types": [
+        "Dragon",
+        "Fire"
+      ],
+      "archetype": "balanced",
+      "generation": 2,
+      "wins": 14,
+      "losses": 14,
+      "draws": 0,
+      "games": 28,
+      "win_rate": 0.5,
+      "alive": true,
+      "meta": {
+        "pokemon": {
+          "evolution_chain": null,
+          "species": [
+            {
+              "id": 46,
+              "name": "Gouging Fire ex",
+              "hp": 230,
+              "type": "Fire"
+            },
+            {
+              "id": 44,
+              "name": "Bloodmoon Ursaluna ex",
+              "hp": 260,
+              "type": "Colorless"
+            },
+            {
+              "id": 756,
+              "name": "Mega Kangaskhan ex",
+              "hp": 300,
+              "type": "Colorless"
+            },
+            {
+              "id": 176,
+              "name": "Terapagos ex",
+              "hp": 230,
+              "type": "Colorless"
+            },
+            {
+              "id": 1002,
+              "name": "Zangoose ex",
+              "hp": 200,
+              "type": "Colorless"
+            },
+            {
+              "id": 357,
+              "name": "Ethan's Ho-Oh ex",
+              "hp": 230,
+              "type": "Fire"
+            }
+          ]
+        },
+        "energy": {
+          "special_energies": [],
+          "basic_energies": [
+            {
+              "type": "Dragon",
+              "count": 11
+            },
+            {
+              "type": "Fire",
+              "count": 11
+            }
+          ]
+        },
+        "trainers": {
+          "cards": [
+            {
+              "id": 1198,
+              "reason": "filler"
+            },
+            {
+              "id": 1198,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1237,
+              "reason": "filler"
+            },
+            {
+              "id": 1199,
+              "reason": "filler"
+            },
+            {
+              "id": 1199,
+              "reason": "filler"
+            },
+            {
+              "id": 1224,
+              "reason": "filler"
+            },
+            {
+              "id": 1224,
+              "reason": "filler"
+            },
+            {
+              "id": 1230,
+              "reason": "filler"
+            },
+            {
+              "id": 1230,
+              "reason": "filler"
+            },
+            {
+              "id": 1195,
+              "reason": "filler"
+            },
+            {
+              "id": 1195,
+              "reason": "filler"
+            },
+            {
+              "id": 1234,
+              "reason": "filler"
+            },
+            {
+              "id": 1234,
+              "reason": "filler"
+            },
+            {
+              "id": 1201,
+              "reason": "filler"
+            },
+            {
+              "id": 1201,
+              "reason": "filler"
+            },
+            {
+              "id": 1197,
+              "reason": "filler"
+            }
+          ],
+          "ace_spec": {
+            "id": 1080,
+            "name": "Unfair Stamp"
+          },
+          "rare_candy": 0,
+          "energy_search": 2
+        },
+        "total": 60,
+        "archetype": "balanced",
+        "combo_type": "dual"
+      }
+    },
+    "MASTER_CLONE_MASTER_FIG_priz_g3": {
+      "deck": [
+        1056,
+        1056,
+        1056,
+        756,
+        756,
+        756,
+        44,
+        44,
+        44,
+        979,
+        979,
+        979,
+        176,
+        176,
+        176,
+        1002,
+        1002,
+        1002,
+        1119,
+        1119,
+        1088,
+        1208,
+        1208,
+        1239,
+        1239,
+        1182,
+        1182,
+        1187,
+        1187,
+        1205,
+        1205,
+        1203,
+        1203,
+        1232,
+        1232,
+        1209,
+        1209,
+        1225,
+        1225,
+        1241,
+        20,
+        20,
+        20,
+        20,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "energy_types": [
+        "Fighting"
+      ],
+      "archetype": "prize_rush",
+      "generation": 3,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "games": 0,
+      "win_rate": 0.0,
+      "alive": true
+    },
+    "Master_Vanguard_v2_S_FIG_stage_2_ex_Psychic": {
+      "deck": [
+        184,
+        184,
+        184,
+        687,
+        687,
+        687,
+        44,
+        44,
+        44,
+        756,
+        756,
+        756,
+        1062,
+        1062,
+        1062,
+        139,
+        139,
+        139,
+        1119,
+        1119,
+        1080,
+        1219,
+        1219,
+        1223,
+        1223,
+        1209,
+        1209,
+        1112,
+        1241,
+        1236,
+        1236,
+        1203,
+        1203,
+        1218,
+        1218,
+        1230,
+        1230,
+        1192,
+        19,
+        19,
+        19,
+        19,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "energy_types": [
+        "Psychic",
+        "Darkness"
+      ],
+      "archetype": "balanced",
+      "generation": 3,
+      "wins": 4,
+      "losses": 0,
+      "draws": 0,
+      "games": 4,
+      "win_rate": 1.0,
+      "alive": true,
+      "target_agent_id": "S_FIG_stage_2_ex",
+      "acceptance_reason": "PROMOTED_CHAMPION_COUNTER: Achieved 100.0% Win Rate vs S_FIG_stage_2_ex via Dual-Psychic+Darkness Balanced Counter (Legality: 60 cards, Peak Fitness: 100.9)",
+      "simulation_learnings": {
+        "target_agent": "S_FIG_stage_2_ex",
+        "primary_target_type": "Fighting",
+        "winning_counter_elements": [
+          "Psychic",
+          "Darkness"
+        ],
+        "winning_archetype": "balanced",
+        "peak_win_rate": 1.0,
+        "evolutionary_rounds": 28,
+        "strategy_hypothesis": "Elemental Weakness (Psychic/Darkness) combined with balanced synergy curve",
+        "nn_post_loss": 0.9624
+      }
+    },
+    "Master_Vanguard_v1_Master_Vanguard_v2_S_FIG_stage_2_ex_Psychic_Darkness": {
+      "deck": [
+        59,
+        59,
+        59,
+        60,
+        60,
+        60,
+        772,
+        772,
+        772,
+        756,
+        756,
+        756,
+        687,
+        687,
+        687,
+        1006,
+        1006,
+        1006,
+        1119,
+        1119,
+        1079,
+        1088,
+        1224,
+        1224,
+        1241,
+        1241,
+        1196,
+        1196,
+        1230,
+        1195,
+        1212,
+        1212,
+        1198,
+        1198,
+        1234,
+        1234,
+        1203,
+        1203,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "energy_types": [
+        "Darkness"
+      ],
+      "archetype": "mega_stage_2_ex",
+      "generation": 3,
+      "wins": 4,
+      "losses": 0,
+      "draws": 0,
+      "games": 4,
+      "win_rate": 1.0,
+      "alive": true,
+      "target_agent_id": "Master_Vanguard_v2_S_FIG_stage_2_ex_Psychic",
+      "acceptance_reason": "PROMOTED_CHAMPION_COUNTER: Achieved 100.0% Win Rate vs Master_Vanguard_v2_S_FIG_stage_2_ex_Psychic via Single-Darkness Mega EX Counter (Legality: 60 cards, Peak Fitness: 100.5)",
+      "simulation_learnings": {
+        "target_agent": "Master_Vanguard_v2_S_FIG_stage_2_ex_Psychic",
+        "primary_target_type": "Psychic",
+        "winning_counter_elements": [
+          "Darkness"
+        ],
+        "winning_archetype": "mega_stage_2_ex",
+        "peak_win_rate": 1.0,
+        "evolutionary_rounds": 2,
+        "strategy_hypothesis": "Elemental Weakness (Darkness) combined with mega_stage_2_ex synergy curve",
+        "nn_post_loss": 0.9095
+      }
+    }
+  },
+  "learning_history": [
+    {
+      "round": 1,
+      "generation": 2,
+      "created": 17,
+      "matches": 112,
+      "synergies": 171,
+      "ml_samples": 1267,
+      "nn_loss": 1.0561,
+      "killed": 2,
+      "optimized": 4,
+      "alive_agents": 15,
+      "duration_sec": 286.41
+    },
+    {
+      "round": 2,
+      "generation": 3,
+      "created": 17,
+      "matches": 112,
+      "synergies": 171,
+      "ml_samples": 1267,
+      "nn_loss": 0.9722,
+      "killed": 3,
+      "optimized": 4,
+      "alive_agents": 29,
+      "duration_sec": 100.51
+    }
+  ],
+  "causal_findings": [
+    {
+      "hypothesis": "Early Energy Acceleration -> Win Conversion",
+      "p_value": 0.0012,
+      "win_multiplier": "+68.4% Win Correlation",
+      "confidence": "High"
+    },
+    {
+      "hypothesis": "Bench Swarming (>=3 Basics Turn 1) -> Prize Advantage",
+      "p_value": 0.0034,
+      "win_multiplier": "+54.2% Win Correlation",
+      "confidence": "High"
+    },
+    {
+      "hypothesis": "ACE SPEC #1100 Energy Search Pro -> Hand Unbricking",
+      "p_value": 0.0008,
+      "win_multiplier": "+71.0% Consistency Boost",
+      "confidence": "Very High"
+    }
+  ],
+  "updated_at": "2026-08-28T03:21:04.014360"
+}

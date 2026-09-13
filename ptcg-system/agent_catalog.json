@@ -1,0 +1,5120 @@
+{
+  "S_GRA_balanced": {
+    "combo_type": "single",
+    "archetype": "balanced",
+    "energy_types": [
+      "Grass"
+    ],
+    "deck_size": 60
+  },
+  "S_GRA_aggro": {
+    "combo_type": "single",
+    "archetype": "aggro",
+    "energy_types": [
+      "Grass"
+    ],
+    "deck_size": 60
+  },
+  "S_GRA_stall": {
+    "combo_type": "single",
+    "archetype": "stall",
+    "energy_types": [
+      "Grass"
+    ],
+    "deck_size": 60
+  },
+  "S_GRA_stage_2": {
+    "combo_type": "single",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Grass"
+    ],
+    "deck_size": 60
+  },
+  "S_GRA_stage_1": {
+    "combo_type": "single",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Grass"
+    ],
+    "deck_size": 60
+  },
+  "S_GRA_stage_2_ex": {
+    "combo_type": "single",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Grass"
+    ],
+    "deck_size": 60,
+    "games": 15186,
+    "wins": 8223,
+    "losses": 6963,
+    "draws": 0,
+    "sim_breakdown": {
+      "simulate": {
+        "games": 3002,
+        "wins": 1473,
+        "losses": 1529,
+        "draws": 0
+      },
+      "sim_run": {
+        "games": 1023,
+        "wins": 499,
+        "losses": 524,
+        "draws": 0
+      },
+      "benchmark": {
+        "games": 11161,
+        "wins": 6251,
+        "losses": 4910,
+        "draws": 0
+      }
+    }
+  },
+  "S_GRA_stage_1_ex": {
+    "combo_type": "single",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Grass"
+    ],
+    "deck_size": 60,
+    "games": 1704,
+    "wins": 957,
+    "losses": 747,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 2,
+        "wins": 0,
+        "losses": 2,
+        "draws": 0
+      },
+      "benchmark": {
+        "games": 1702,
+        "wins": 957,
+        "losses": 745,
+        "draws": 0
+      }
+    }
+  },
+  "S_GRA_mega_stage_2_ex": {
+    "combo_type": "single",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Grass"
+    ],
+    "deck_size": 60,
+    "games": 14522,
+    "wins": 8035,
+    "losses": 6487,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 3278,
+        "wins": 1594,
+        "losses": 1684,
+        "draws": 0
+      },
+      "benchmark": {
+        "games": 11244,
+        "wins": 6441,
+        "losses": 4803,
+        "draws": 0
+      }
+    }
+  },
+  "S_GRA_mega_stage_1_ex": {
+    "combo_type": "single",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Grass"
+    ],
+    "deck_size": 60,
+    "games": 14317,
+    "wins": 8694,
+    "losses": 5623,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 3141,
+        "wins": 1493,
+        "losses": 1648,
+        "draws": 0
+      },
+      "benchmark": {
+        "games": 11176,
+        "wins": 7201,
+        "losses": 3975,
+        "draws": 0
+      }
+    }
+  },
+  "S_GRA_prize_rush": {
+    "combo_type": "single",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Grass"
+    ],
+    "deck_size": 60
+  },
+  "S_GRA_stadium_control": {
+    "combo_type": "single",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Grass"
+    ],
+    "deck_size": 60
+  },
+  "S_GRA_damage_counter": {
+    "combo_type": "single",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Grass"
+    ],
+    "deck_size": 60
+  },
+  "S_FIR_balanced": {
+    "combo_type": "single",
+    "archetype": "balanced",
+    "energy_types": [
+      "Fire"
+    ],
+    "deck_size": 60,
+    "games": 8,
+    "wins": 6,
+    "losses": 2,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 8,
+        "wins": 6,
+        "losses": 2,
+        "draws": 0
+      }
+    }
+  },
+  "S_FIR_aggro": {
+    "combo_type": "single",
+    "archetype": "aggro",
+    "energy_types": [
+      "Fire"
+    ],
+    "deck_size": 60
+  },
+  "S_FIR_stall": {
+    "combo_type": "single",
+    "archetype": "stall",
+    "energy_types": [
+      "Fire"
+    ],
+    "deck_size": 60
+  },
+  "S_FIR_stage_2": {
+    "combo_type": "single",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Fire"
+    ],
+    "deck_size": 60
+  },
+  "S_FIR_stage_1": {
+    "combo_type": "single",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Fire"
+    ],
+    "deck_size": 60
+  },
+  "S_FIR_stage_2_ex": {
+    "combo_type": "single",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Fire"
+    ],
+    "deck_size": 60,
+    "games": 1420,
+    "wins": 676,
+    "losses": 744,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 1,
+        "wins": 0,
+        "losses": 1,
+        "draws": 0
+      },
+      "benchmark": {
+        "games": 1419,
+        "wins": 676,
+        "losses": 743,
+        "draws": 0
+      }
+    }
+  },
+  "S_FIR_stage_1_ex": {
+    "combo_type": "single",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Fire"
+    ],
+    "deck_size": 60,
+    "games": 1700,
+    "wins": 699,
+    "losses": 1001,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 1,
+        "wins": 0,
+        "losses": 1,
+        "draws": 0
+      },
+      "benchmark": {
+        "games": 1699,
+        "wins": 699,
+        "losses": 1000,
+        "draws": 0
+      }
+    }
+  },
+  "S_FIR_mega_stage_2_ex": {
+    "combo_type": "single",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Fire"
+    ],
+    "deck_size": 60,
+    "games": 33,
+    "wins": 21,
+    "losses": 12,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 33,
+        "wins": 21,
+        "losses": 12,
+        "draws": 0
+      }
+    }
+  },
+  "S_FIR_mega_stage_1_ex": {
+    "combo_type": "single",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Fire"
+    ],
+    "deck_size": 60
+  },
+  "S_FIR_prize_rush": {
+    "combo_type": "single",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Fire"
+    ],
+    "deck_size": 60
+  },
+  "S_FIR_stadium_control": {
+    "combo_type": "single",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Fire"
+    ],
+    "deck_size": 60
+  },
+  "S_FIR_damage_counter": {
+    "combo_type": "single",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Fire"
+    ],
+    "deck_size": 60
+  },
+  "S_WAT_balanced": {
+    "combo_type": "single",
+    "archetype": "balanced",
+    "energy_types": [
+      "Water"
+    ],
+    "deck_size": 60,
+    "games": 9,
+    "wins": 3,
+    "losses": 6,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 9,
+        "wins": 3,
+        "losses": 6,
+        "draws": 0
+      }
+    }
+  },
+  "S_WAT_aggro": {
+    "combo_type": "single",
+    "archetype": "aggro",
+    "energy_types": [
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "S_WAT_stall": {
+    "combo_type": "single",
+    "archetype": "stall",
+    "energy_types": [
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "S_WAT_stage_2": {
+    "combo_type": "single",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "S_WAT_stage_1": {
+    "combo_type": "single",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "S_WAT_stage_2_ex": {
+    "combo_type": "single",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Water"
+    ],
+    "deck_size": 60,
+    "games": 470,
+    "wins": 201,
+    "losses": 269,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 20,
+        "wins": 7,
+        "losses": 13,
+        "draws": 0
+      },
+      "benchmark": {
+        "games": 450,
+        "wins": 194,
+        "losses": 256,
+        "draws": 0
+      }
+    }
+  },
+  "S_WAT_stage_1_ex": {
+    "combo_type": "single",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Water"
+    ],
+    "deck_size": 60,
+    "games": 17008,
+    "wins": 7287,
+    "losses": 9721,
+    "draws": 0,
+    "sim_breakdown": {
+      "simulate": {
+        "games": 2001,
+        "wins": 1013,
+        "losses": 988,
+        "draws": 0
+      },
+      "sim_run": {
+        "games": 6007,
+        "wins": 2199,
+        "losses": 3808,
+        "draws": 0
+      },
+      "benchmark": {
+        "games": 9000,
+        "wins": 4075,
+        "losses": 4925,
+        "draws": 0
+      }
+    }
+  },
+  "S_WAT_mega_stage_2_ex": {
+    "combo_type": "single",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Water"
+    ],
+    "deck_size": 60,
+    "games": 17055,
+    "wins": 7770,
+    "losses": 9285,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 8055,
+        "wins": 3238,
+        "losses": 4817,
+        "draws": 0
+      },
+      "benchmark": {
+        "games": 9000,
+        "wins": 4532,
+        "losses": 4468,
+        "draws": 0
+      }
+    }
+  },
+  "S_WAT_mega_stage_1_ex": {
+    "combo_type": "single",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Water"
+    ],
+    "deck_size": 60,
+    "games": 2,
+    "wins": 1,
+    "losses": 1,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "draws": 0
+      }
+    }
+  },
+  "S_WAT_prize_rush": {
+    "combo_type": "single",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "S_WAT_stadium_control": {
+    "combo_type": "single",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "S_WAT_damage_counter": {
+    "combo_type": "single",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "S_LIG_balanced": {
+    "combo_type": "single",
+    "archetype": "balanced",
+    "energy_types": [
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "S_LIG_aggro": {
+    "combo_type": "single",
+    "archetype": "aggro",
+    "energy_types": [
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "S_LIG_stall": {
+    "combo_type": "single",
+    "archetype": "stall",
+    "energy_types": [
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "S_LIG_stage_2": {
+    "combo_type": "single",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "S_LIG_stage_1": {
+    "combo_type": "single",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "S_LIG_stage_2_ex": {
+    "combo_type": "single",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Lightning"
+    ],
+    "deck_size": 60,
+    "games": 74,
+    "wins": 22,
+    "losses": 52,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 5,
+        "wins": 3,
+        "losses": 2,
+        "draws": 0
+      },
+      "benchmark": {
+        "games": 69,
+        "wins": 19,
+        "losses": 50,
+        "draws": 0
+      }
+    }
+  },
+  "S_LIG_stage_1_ex": {
+    "combo_type": "single",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Lightning"
+    ],
+    "deck_size": 60,
+    "games": 281,
+    "wins": 116,
+    "losses": 165,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 1,
+        "wins": 0,
+        "losses": 1,
+        "draws": 0
+      },
+      "benchmark": {
+        "games": 280,
+        "wins": 116,
+        "losses": 164,
+        "draws": 0
+      }
+    }
+  },
+  "S_LIG_mega_stage_2_ex": {
+    "combo_type": "single",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Lightning"
+    ],
+    "deck_size": 60,
+    "games": 6,
+    "wins": 4,
+    "losses": 2,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 6,
+        "wins": 4,
+        "losses": 2,
+        "draws": 0
+      }
+    }
+  },
+  "S_LIG_mega_stage_1_ex": {
+    "combo_type": "single",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "S_LIG_prize_rush": {
+    "combo_type": "single",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "S_LIG_stadium_control": {
+    "combo_type": "single",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "S_LIG_damage_counter": {
+    "combo_type": "single",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "S_PSY_balanced": {
+    "combo_type": "single",
+    "archetype": "balanced",
+    "energy_types": [
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "S_PSY_aggro": {
+    "combo_type": "single",
+    "archetype": "aggro",
+    "energy_types": [
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "S_PSY_stall": {
+    "combo_type": "single",
+    "archetype": "stall",
+    "energy_types": [
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "S_PSY_stage_2": {
+    "combo_type": "single",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "S_PSY_stage_1": {
+    "combo_type": "single",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "S_PSY_stage_2_ex": {
+    "combo_type": "single",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "S_PSY_stage_1_ex": {
+    "combo_type": "single",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "S_PSY_mega_stage_2_ex": {
+    "combo_type": "single",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "S_PSY_mega_stage_1_ex": {
+    "combo_type": "single",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "S_PSY_prize_rush": {
+    "combo_type": "single",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "S_PSY_stadium_control": {
+    "combo_type": "single",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "S_PSY_damage_counter": {
+    "combo_type": "single",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "S_FIG_balanced": {
+    "combo_type": "single",
+    "archetype": "balanced",
+    "energy_types": [
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "S_FIG_aggro": {
+    "combo_type": "single",
+    "archetype": "aggro",
+    "energy_types": [
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "S_FIG_stall": {
+    "combo_type": "single",
+    "archetype": "stall",
+    "energy_types": [
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "S_FIG_stage_2": {
+    "combo_type": "single",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "S_FIG_stage_1": {
+    "combo_type": "single",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "S_FIG_stage_2_ex": {
+    "combo_type": "single",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Fighting"
+    ],
+    "deck_size": 60,
+    "games": 24214,
+    "wins": 13998,
+    "losses": 10216,
+    "draws": 0,
+    "sim_breakdown": {
+      "simulate": {
+        "games": 7010,
+        "wins": 3758,
+        "losses": 3252,
+        "draws": 0
+      },
+      "sim_run": {
+        "games": 6052,
+        "wins": 4047,
+        "losses": 2005,
+        "draws": 0
+      },
+      "benchmark": {
+        "games": 11152,
+        "wins": 6193,
+        "losses": 4959,
+        "draws": 0
+      }
+    }
+  },
+  "S_FIG_stage_1_ex": {
+    "combo_type": "single",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Fighting"
+    ],
+    "deck_size": 60,
+    "games": 3154,
+    "wins": 1836,
+    "losses": 1318,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 1002,
+        "wins": 615,
+        "losses": 387,
+        "draws": 0
+      },
+      "benchmark": {
+        "games": 2152,
+        "wins": 1221,
+        "losses": 931,
+        "draws": 0
+      }
+    }
+  },
+  "S_FIG_mega_stage_2_ex": {
+    "combo_type": "single",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Fighting"
+    ],
+    "deck_size": 60,
+    "games": 22303,
+    "wins": 13133,
+    "losses": 9170,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 11127,
+        "wins": 6389,
+        "losses": 4738,
+        "draws": 0
+      },
+      "benchmark": {
+        "games": 11176,
+        "wins": 6744,
+        "losses": 4432,
+        "draws": 0
+      }
+    }
+  },
+  "S_FIG_mega_stage_1_ex": {
+    "combo_type": "single",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Fighting"
+    ],
+    "deck_size": 60,
+    "games": 7,
+    "wins": 6,
+    "losses": 1,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 7,
+        "wins": 6,
+        "losses": 1,
+        "draws": 0
+      }
+    }
+  },
+  "S_FIG_prize_rush": {
+    "combo_type": "single",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "S_FIG_stadium_control": {
+    "combo_type": "single",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "S_FIG_damage_counter": {
+    "combo_type": "single",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "S_DAR_balanced": {
+    "combo_type": "single",
+    "archetype": "balanced",
+    "energy_types": [
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "S_DAR_aggro": {
+    "combo_type": "single",
+    "archetype": "aggro",
+    "energy_types": [
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "S_DAR_stall": {
+    "combo_type": "single",
+    "archetype": "stall",
+    "energy_types": [
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "S_DAR_stage_2": {
+    "combo_type": "single",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "S_DAR_stage_1": {
+    "combo_type": "single",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "S_DAR_stage_2_ex": {
+    "combo_type": "single",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "S_DAR_stage_1_ex": {
+    "combo_type": "single",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "S_DAR_mega_stage_2_ex": {
+    "combo_type": "single",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Darkness"
+    ],
+    "deck_size": 60,
+    "games": 713,
+    "wins": 307,
+    "losses": 406,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 713,
+        "wins": 307,
+        "losses": 406,
+        "draws": 0
+      }
+    }
+  },
+  "S_DAR_mega_stage_1_ex": {
+    "combo_type": "single",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Darkness"
+    ],
+    "deck_size": 60,
+    "games": 3,
+    "wins": 2,
+    "losses": 1,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 3,
+        "wins": 2,
+        "losses": 1,
+        "draws": 0
+      }
+    }
+  },
+  "S_DAR_prize_rush": {
+    "combo_type": "single",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "S_DAR_stadium_control": {
+    "combo_type": "single",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "S_DAR_damage_counter": {
+    "combo_type": "single",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "S_MET_balanced": {
+    "combo_type": "single",
+    "archetype": "balanced",
+    "energy_types": [
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "S_MET_aggro": {
+    "combo_type": "single",
+    "archetype": "aggro",
+    "energy_types": [
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "S_MET_stall": {
+    "combo_type": "single",
+    "archetype": "stall",
+    "energy_types": [
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "S_MET_stage_2": {
+    "combo_type": "single",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "S_MET_stage_1": {
+    "combo_type": "single",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "S_MET_stage_2_ex": {
+    "combo_type": "single",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "S_MET_stage_1_ex": {
+    "combo_type": "single",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Metal"
+    ],
+    "deck_size": 60,
+    "games": 281,
+    "wins": 132,
+    "losses": 149,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 1,
+        "wins": 0,
+        "losses": 1,
+        "draws": 0
+      },
+      "benchmark": {
+        "games": 280,
+        "wins": 132,
+        "losses": 148,
+        "draws": 0
+      }
+    }
+  },
+  "S_MET_mega_stage_2_ex": {
+    "combo_type": "single",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "S_MET_mega_stage_1_ex": {
+    "combo_type": "single",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "S_MET_prize_rush": {
+    "combo_type": "single",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "S_MET_stadium_control": {
+    "combo_type": "single",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "S_MET_damage_counter": {
+    "combo_type": "single",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIR_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Grass",
+      "Fire"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIR_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Grass",
+      "Fire"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIR_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Grass",
+      "Fire"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIR_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Grass",
+      "Fire"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIR_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Grass",
+      "Fire"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIR_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Grass",
+      "Fire"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIR_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Grass",
+      "Fire"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIR_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Grass",
+      "Fire"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIR_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Grass",
+      "Fire"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIR_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Grass",
+      "Fire"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIR_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Grass",
+      "Fire"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIR_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Grass",
+      "Fire"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+WAT_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Grass",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+WAT_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Grass",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+WAT_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Grass",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+WAT_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Grass",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+WAT_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Grass",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+WAT_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Grass",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+WAT_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Grass",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+WAT_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Grass",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+WAT_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Grass",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+WAT_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Grass",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+WAT_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Grass",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+WAT_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Grass",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+LIG_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Grass",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+LIG_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Grass",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+LIG_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Grass",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+LIG_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Grass",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+LIG_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Grass",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+LIG_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Grass",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+LIG_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Grass",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+LIG_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Grass",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+LIG_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Grass",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+LIG_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Grass",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+LIG_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Grass",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+LIG_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Grass",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+PSY_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Grass",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+PSY_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Grass",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+PSY_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Grass",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+PSY_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Grass",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+PSY_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Grass",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+PSY_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Grass",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+PSY_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Grass",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+PSY_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Grass",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+PSY_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Grass",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+PSY_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Grass",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+PSY_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Grass",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+PSY_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Grass",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIG_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Grass",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIG_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Grass",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIG_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Grass",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIG_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Grass",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIG_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Grass",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIG_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Grass",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIG_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Grass",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIG_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Grass",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIG_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Grass",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIG_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Grass",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIG_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Grass",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+FIG_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Grass",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+DAR_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Grass",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+DAR_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Grass",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+DAR_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Grass",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+DAR_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Grass",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+DAR_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Grass",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+DAR_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Grass",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+DAR_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Grass",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+DAR_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Grass",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+DAR_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Grass",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+DAR_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Grass",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+DAR_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Grass",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+DAR_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Grass",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+MET_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Grass",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+MET_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Grass",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+MET_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Grass",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+MET_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Grass",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+MET_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Grass",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+MET_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Grass",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+MET_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Grass",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+MET_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Grass",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+MET_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Grass",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+MET_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Grass",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+MET_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Grass",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_GRA+MET_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Grass",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+WAT_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+WAT_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+WAT_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+WAT_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+WAT_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+WAT_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+WAT_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+WAT_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+WAT_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+WAT_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+WAT_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+WAT_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+LIG_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Fire",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+LIG_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Fire",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+LIG_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Fire",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+LIG_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Fire",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+LIG_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Fire",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+LIG_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Fire",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+LIG_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Fire",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+LIG_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Fire",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+LIG_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Fire",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+LIG_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Fire",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+LIG_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Fire",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+LIG_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Fire",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+PSY_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Fire",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+PSY_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Fire",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+PSY_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Fire",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+PSY_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Fire",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+PSY_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Fire",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+PSY_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Fire",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+PSY_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Fire",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+PSY_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Fire",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+PSY_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Fire",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+PSY_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Fire",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+PSY_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Fire",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+PSY_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Fire",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+FIG_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Fire",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+FIG_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Fire",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+FIG_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Fire",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+FIG_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Fire",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+FIG_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Fire",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+FIG_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Fire",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+FIG_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Fire",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+FIG_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Fire",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+FIG_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Fire",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+FIG_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Fire",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+FIG_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Fire",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+FIG_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Fire",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+DAR_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Fire",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+DAR_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Fire",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+DAR_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Fire",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+DAR_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Fire",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+DAR_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Fire",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+DAR_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Fire",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+DAR_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Fire",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+DAR_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Fire",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+DAR_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Fire",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+DAR_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Fire",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+DAR_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Fire",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+DAR_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Fire",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+MET_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Fire",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+MET_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Fire",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+MET_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Fire",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+MET_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Fire",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+MET_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Fire",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+MET_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Fire",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+MET_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Fire",
+      "Metal"
+    ],
+    "deck_size": 60,
+    "games": 1450,
+    "wins": 629,
+    "losses": 821,
+    "draws": 0,
+    "sim_breakdown": {
+      "simulate": {
+        "games": 1000,
+        "wins": 465,
+        "losses": 535,
+        "draws": 0
+      },
+      "benchmark": {
+        "games": 450,
+        "wins": 164,
+        "losses": 286,
+        "draws": 0
+      }
+    }
+  },
+  "D_FIR+MET_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Fire",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+MET_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Fire",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+MET_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Fire",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+MET_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Fire",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIR+MET_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Fire",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+LIG_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Water",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+LIG_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Water",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+LIG_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Water",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+LIG_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Water",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+LIG_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Water",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+LIG_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Water",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+LIG_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Water",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+LIG_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Water",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+LIG_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Water",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+LIG_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Water",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+LIG_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Water",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+LIG_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Water",
+      "Lightning"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+PSY_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+PSY_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+PSY_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+PSY_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+PSY_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+PSY_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+PSY_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+PSY_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+PSY_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+PSY_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+PSY_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+PSY_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+FIG_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Water",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+FIG_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Water",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+FIG_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Water",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+FIG_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Water",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+FIG_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Water",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+FIG_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Water",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+FIG_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Water",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+FIG_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Water",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+FIG_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Water",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+FIG_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Water",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+FIG_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Water",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+FIG_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Water",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+DAR_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Water",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+DAR_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Water",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+DAR_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Water",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+DAR_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Water",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+DAR_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Water",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+DAR_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Water",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+DAR_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Water",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+DAR_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Water",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+DAR_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Water",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+DAR_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Water",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+DAR_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Water",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+DAR_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Water",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+MET_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Water",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+MET_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Water",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+MET_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Water",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+MET_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Water",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+MET_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Water",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+MET_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Water",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+MET_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Water",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+MET_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Water",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+MET_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Water",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+MET_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Water",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+MET_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Water",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_WAT+MET_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Water",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+PSY_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Lightning",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+PSY_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Lightning",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+PSY_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Lightning",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+PSY_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Lightning",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+PSY_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Lightning",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+PSY_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Lightning",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+PSY_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Lightning",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+PSY_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Lightning",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+PSY_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Lightning",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+PSY_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Lightning",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+PSY_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Lightning",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+PSY_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Lightning",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+FIG_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+FIG_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+FIG_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+FIG_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+FIG_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+FIG_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+FIG_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+FIG_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+FIG_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+FIG_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+FIG_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+FIG_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+DAR_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Lightning",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+DAR_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Lightning",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+DAR_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Lightning",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+DAR_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Lightning",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+DAR_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Lightning",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+DAR_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Lightning",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+DAR_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Lightning",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+DAR_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Lightning",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+DAR_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Lightning",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+DAR_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Lightning",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+DAR_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Lightning",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+DAR_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Lightning",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+MET_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Lightning",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+MET_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Lightning",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+MET_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Lightning",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+MET_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Lightning",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+MET_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Lightning",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+MET_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Lightning",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+MET_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Lightning",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+MET_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Lightning",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+MET_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Lightning",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+MET_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Lightning",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+MET_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Lightning",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_LIG+MET_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Lightning",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+FIG_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+FIG_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+FIG_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+FIG_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+FIG_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+FIG_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+FIG_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+FIG_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+FIG_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+FIG_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+FIG_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+FIG_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+DAR_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+DAR_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+DAR_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+DAR_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+DAR_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+DAR_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+DAR_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+DAR_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+DAR_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+DAR_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+DAR_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+DAR_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+MET_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Psychic",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+MET_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Psychic",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+MET_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Psychic",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+MET_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Psychic",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+MET_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Psychic",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+MET_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Psychic",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+MET_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Psychic",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+MET_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Psychic",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+MET_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Psychic",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+MET_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Psychic",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+MET_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Psychic",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_PSY+MET_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Psychic",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+DAR_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Fighting",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+DAR_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Fighting",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+DAR_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Fighting",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+DAR_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Fighting",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+DAR_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Fighting",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+DAR_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Fighting",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+DAR_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Fighting",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+DAR_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Fighting",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+DAR_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Fighting",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+DAR_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Fighting",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+DAR_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Fighting",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+DAR_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Fighting",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+MET_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Fighting",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+MET_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Fighting",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+MET_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Fighting",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+MET_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Fighting",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+MET_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Fighting",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+MET_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Fighting",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+MET_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Fighting",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+MET_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Fighting",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+MET_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Fighting",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+MET_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Fighting",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+MET_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Fighting",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_FIG+MET_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Fighting",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_DAR+MET_balanced": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Darkness",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_DAR+MET_aggro": {
+    "combo_type": "dual",
+    "archetype": "aggro",
+    "energy_types": [
+      "Darkness",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_DAR+MET_stall": {
+    "combo_type": "dual",
+    "archetype": "stall",
+    "energy_types": [
+      "Darkness",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_DAR+MET_stage_2": {
+    "combo_type": "dual",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Darkness",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_DAR+MET_stage_1": {
+    "combo_type": "dual",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Darkness",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_DAR+MET_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Darkness",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_DAR+MET_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Darkness",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_DAR+MET_mega_stage_2_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Darkness",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_DAR+MET_mega_stage_1_ex": {
+    "combo_type": "dual",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Darkness",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_DAR+MET_prize_rush": {
+    "combo_type": "dual",
+    "archetype": "prize_rush",
+    "energy_types": [
+      "Darkness",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_DAR+MET_stadium_control": {
+    "combo_type": "dual",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Darkness",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "D_DAR+MET_damage_counter": {
+    "combo_type": "dual",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Darkness",
+      "Metal"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+FIR+WAT_balanced": {
+    "combo_type": "triple",
+    "archetype": "balanced",
+    "energy_types": [
+      "Grass",
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+FIR+WAT_aggro": {
+    "combo_type": "triple",
+    "archetype": "aggro",
+    "energy_types": [
+      "Grass",
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+FIR+WAT_stall": {
+    "combo_type": "triple",
+    "archetype": "stall",
+    "energy_types": [
+      "Grass",
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+FIR+WAT_stage_2": {
+    "combo_type": "triple",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Grass",
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+FIR+WAT_stage_1": {
+    "combo_type": "triple",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Grass",
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+FIR+WAT_stage_2_ex": {
+    "combo_type": "triple",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Grass",
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+FIR+WAT_stage_1_ex": {
+    "combo_type": "triple",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Grass",
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+FIR+WAT_mega_stage_2_ex": {
+    "combo_type": "triple",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Grass",
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+FIR+WAT_mega_stage_1_ex": {
+    "combo_type": "triple",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Grass",
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+FIR+WAT_ability_heal": {
+    "combo_type": "triple",
+    "archetype": "ability_heal",
+    "energy_types": [
+      "Grass",
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+FIR+WAT_stadium_control": {
+    "combo_type": "triple",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Grass",
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+FIR+WAT_damage_counter": {
+    "combo_type": "triple",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Grass",
+      "Fire",
+      "Water"
+    ],
+    "deck_size": 60
+  },
+  "T_LIG+PSY+FIG_balanced": {
+    "combo_type": "triple",
+    "archetype": "balanced",
+    "energy_types": [
+      "Lightning",
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_LIG+PSY+FIG_aggro": {
+    "combo_type": "triple",
+    "archetype": "aggro",
+    "energy_types": [
+      "Lightning",
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_LIG+PSY+FIG_stall": {
+    "combo_type": "triple",
+    "archetype": "stall",
+    "energy_types": [
+      "Lightning",
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_LIG+PSY+FIG_stage_2": {
+    "combo_type": "triple",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Lightning",
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_LIG+PSY+FIG_stage_1": {
+    "combo_type": "triple",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Lightning",
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_LIG+PSY+FIG_stage_2_ex": {
+    "combo_type": "triple",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Lightning",
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_LIG+PSY+FIG_stage_1_ex": {
+    "combo_type": "triple",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Lightning",
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_LIG+PSY+FIG_mega_stage_2_ex": {
+    "combo_type": "triple",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Lightning",
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_LIG+PSY+FIG_mega_stage_1_ex": {
+    "combo_type": "triple",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Lightning",
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_LIG+PSY+FIG_ability_heal": {
+    "combo_type": "triple",
+    "archetype": "ability_heal",
+    "energy_types": [
+      "Lightning",
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_LIG+PSY+FIG_stadium_control": {
+    "combo_type": "triple",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Lightning",
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_LIG+PSY+FIG_damage_counter": {
+    "combo_type": "triple",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Lightning",
+      "Psychic",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_DAR+MET+COL_balanced": {
+    "combo_type": "triple",
+    "archetype": "balanced",
+    "energy_types": [
+      "Darkness",
+      "Metal",
+      "Colorless"
+    ],
+    "deck_size": 60
+  },
+  "T_DAR+MET+COL_aggro": {
+    "combo_type": "triple",
+    "archetype": "aggro",
+    "energy_types": [
+      "Darkness",
+      "Metal",
+      "Colorless"
+    ],
+    "deck_size": 60
+  },
+  "T_DAR+MET+COL_stall": {
+    "combo_type": "triple",
+    "archetype": "stall",
+    "energy_types": [
+      "Darkness",
+      "Metal",
+      "Colorless"
+    ],
+    "deck_size": 60
+  },
+  "T_DAR+MET+COL_stage_2": {
+    "combo_type": "triple",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Darkness",
+      "Metal",
+      "Colorless"
+    ],
+    "deck_size": 60
+  },
+  "T_DAR+MET+COL_stage_1": {
+    "combo_type": "triple",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Darkness",
+      "Metal",
+      "Colorless"
+    ],
+    "deck_size": 60
+  },
+  "T_DAR+MET+COL_stage_2_ex": {
+    "combo_type": "triple",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Darkness",
+      "Metal",
+      "Colorless"
+    ],
+    "deck_size": 60
+  },
+  "T_DAR+MET+COL_stage_1_ex": {
+    "combo_type": "triple",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Darkness",
+      "Metal",
+      "Colorless"
+    ],
+    "deck_size": 60
+  },
+  "T_DAR+MET+COL_mega_stage_2_ex": {
+    "combo_type": "triple",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Darkness",
+      "Metal",
+      "Colorless"
+    ],
+    "deck_size": 60
+  },
+  "T_DAR+MET+COL_mega_stage_1_ex": {
+    "combo_type": "triple",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Darkness",
+      "Metal",
+      "Colorless"
+    ],
+    "deck_size": 60
+  },
+  "T_DAR+MET+COL_ability_heal": {
+    "combo_type": "triple",
+    "archetype": "ability_heal",
+    "energy_types": [
+      "Darkness",
+      "Metal",
+      "Colorless"
+    ],
+    "deck_size": 60
+  },
+  "T_DAR+MET+COL_stadium_control": {
+    "combo_type": "triple",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Darkness",
+      "Metal",
+      "Colorless"
+    ],
+    "deck_size": 60
+  },
+  "T_DAR+MET+COL_damage_counter": {
+    "combo_type": "triple",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Darkness",
+      "Metal",
+      "Colorless"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+LIG+FIG_balanced": {
+    "combo_type": "triple",
+    "archetype": "balanced",
+    "energy_types": [
+      "Grass",
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+LIG+FIG_aggro": {
+    "combo_type": "triple",
+    "archetype": "aggro",
+    "energy_types": [
+      "Grass",
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+LIG+FIG_stall": {
+    "combo_type": "triple",
+    "archetype": "stall",
+    "energy_types": [
+      "Grass",
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+LIG+FIG_stage_2": {
+    "combo_type": "triple",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Grass",
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+LIG+FIG_stage_1": {
+    "combo_type": "triple",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Grass",
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+LIG+FIG_stage_2_ex": {
+    "combo_type": "triple",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Grass",
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+LIG+FIG_stage_1_ex": {
+    "combo_type": "triple",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Grass",
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+LIG+FIG_mega_stage_2_ex": {
+    "combo_type": "triple",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Grass",
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+LIG+FIG_mega_stage_1_ex": {
+    "combo_type": "triple",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Grass",
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+LIG+FIG_ability_heal": {
+    "combo_type": "triple",
+    "archetype": "ability_heal",
+    "energy_types": [
+      "Grass",
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+LIG+FIG_stadium_control": {
+    "combo_type": "triple",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Grass",
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_GRA+LIG+FIG_damage_counter": {
+    "combo_type": "triple",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Grass",
+      "Lightning",
+      "Fighting"
+    ],
+    "deck_size": 60
+  },
+  "T_FIR+WAT+PSY_balanced": {
+    "combo_type": "triple",
+    "archetype": "balanced",
+    "energy_types": [
+      "Fire",
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "T_FIR+WAT+PSY_aggro": {
+    "combo_type": "triple",
+    "archetype": "aggro",
+    "energy_types": [
+      "Fire",
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "T_FIR+WAT+PSY_stall": {
+    "combo_type": "triple",
+    "archetype": "stall",
+    "energy_types": [
+      "Fire",
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "T_FIR+WAT+PSY_stage_2": {
+    "combo_type": "triple",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Fire",
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "T_FIR+WAT+PSY_stage_1": {
+    "combo_type": "triple",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Fire",
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "T_FIR+WAT+PSY_stage_2_ex": {
+    "combo_type": "triple",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Fire",
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "T_FIR+WAT+PSY_stage_1_ex": {
+    "combo_type": "triple",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Fire",
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "T_FIR+WAT+PSY_mega_stage_2_ex": {
+    "combo_type": "triple",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Fire",
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "T_FIR+WAT+PSY_mega_stage_1_ex": {
+    "combo_type": "triple",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Fire",
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "T_FIR+WAT+PSY_ability_heal": {
+    "combo_type": "triple",
+    "archetype": "ability_heal",
+    "energy_types": [
+      "Fire",
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "T_FIR+WAT+PSY_stadium_control": {
+    "combo_type": "triple",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Fire",
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "T_FIR+WAT+PSY_damage_counter": {
+    "combo_type": "triple",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Fire",
+      "Water",
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "TR_balanced": {
+    "combo_type": "team_rocket",
+    "archetype": "balanced",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "TR_aggro": {
+    "combo_type": "team_rocket",
+    "archetype": "aggro",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "TR_stall": {
+    "combo_type": "team_rocket",
+    "archetype": "stall",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "TR_stage_2": {
+    "combo_type": "team_rocket",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "TR_stage_1": {
+    "combo_type": "team_rocket",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "TR_stage_2_ex": {
+    "combo_type": "team_rocket",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "TR_stage_1_ex": {
+    "combo_type": "team_rocket",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "TR_mega_stage_2_ex": {
+    "combo_type": "team_rocket",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60,
+    "games": 14002,
+    "wins": 3790,
+    "losses": 10212,
+    "draws": 0,
+    "sim_breakdown": {
+      "simulate": {
+        "games": 5002,
+        "wins": 2263,
+        "losses": 2739,
+        "draws": 0
+      },
+      "benchmark": {
+        "games": 9000,
+        "wins": 1527,
+        "losses": 7473,
+        "draws": 0
+      }
+    }
+  },
+  "TR_mega_stage_1_ex": {
+    "combo_type": "team_rocket",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "TR_ability_heal": {
+    "combo_type": "team_rocket",
+    "archetype": "ability_heal",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "TR_stadium_control": {
+    "combo_type": "team_rocket",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60
+  },
+  "DR_balanced": {
+    "combo_type": "dragon",
+    "archetype": "balanced",
+    "energy_types": [
+      "Dragon"
+    ],
+    "deck_size": 60
+  },
+  "DR_aggro": {
+    "combo_type": "dragon",
+    "archetype": "aggro",
+    "energy_types": [
+      "Dragon"
+    ],
+    "deck_size": 60
+  },
+  "DR_stall": {
+    "combo_type": "dragon",
+    "archetype": "stall",
+    "energy_types": [
+      "Dragon"
+    ],
+    "deck_size": 60
+  },
+  "DR_stage_2": {
+    "combo_type": "dragon",
+    "archetype": "stage_2",
+    "energy_types": [
+      "Dragon"
+    ],
+    "deck_size": 60
+  },
+  "DR_stage_1": {
+    "combo_type": "dragon",
+    "archetype": "stage_1",
+    "energy_types": [
+      "Dragon"
+    ],
+    "deck_size": 60
+  },
+  "DR_stage_2_ex": {
+    "combo_type": "dragon",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Dragon"
+    ],
+    "deck_size": 60
+  },
+  "DR_stage_1_ex": {
+    "combo_type": "dragon",
+    "archetype": "stage_1_ex",
+    "energy_types": [
+      "Dragon"
+    ],
+    "deck_size": 60
+  },
+  "DR_mega_stage_2_ex": {
+    "combo_type": "dragon",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Dragon"
+    ],
+    "deck_size": 60
+  },
+  "DR_mega_stage_1_ex": {
+    "combo_type": "dragon",
+    "archetype": "mega_stage_1_ex",
+    "energy_types": [
+      "Dragon"
+    ],
+    "deck_size": 60
+  },
+  "DR_ability_heal": {
+    "combo_type": "dragon",
+    "archetype": "ability_heal",
+    "energy_types": [
+      "Dragon"
+    ],
+    "deck_size": 60
+  },
+  "DR_stadium_control": {
+    "combo_type": "dragon",
+    "archetype": "stadium_control",
+    "energy_types": [
+      "Dragon"
+    ],
+    "deck_size": 60,
+    "games": 2451,
+    "wins": 1119,
+    "losses": 1332,
+    "draws": 0,
+    "sim_breakdown": {
+      "simulate": {
+        "games": 2001,
+        "wins": 972,
+        "losses": 1029,
+        "draws": 0
+      },
+      "benchmark": {
+        "games": 450,
+        "wins": 147,
+        "losses": 303,
+        "draws": 0
+      }
+    }
+  },
+  "DR_damage_counter": {
+    "combo_type": "dragon",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Dragon"
+    ],
+    "deck_size": 60
+  },
+  "DR_damage_counter_ga": {
+    "combo_type": "dragon",
+    "archetype": "damage_counter",
+    "energy_types": [
+      "Dragon"
+    ],
+    "deck_size": 60
+  },
+  "S_PSY_stage_2_ex_ga": {
+    "combo_type": "single",
+    "archetype": "stage_2_ex",
+    "energy_types": [
+      "Psychic"
+    ],
+    "deck_size": 60
+  },
+  "Master_Champion_Vanguard_vs_S_FIG_stage_2_ex": {
+    "combo_type": "master_vanguard",
+    "archetype": "counter_meta",
+    "energy_types": [
+      "Psychic"
+    ],
+    "deck_size": 60,
+    "developed_against": "S_FIG_stage_2_ex"
+  },
+  "Custom_Vanguard_Zygarde": {
+    "combo_type": "dual",
+    "archetype": "balanced",
+    "energy_types": [
+      "Fighting",
+      "Grass"
+    ],
+    "deck_size": 60
+  },
+  "Master_Vanguard_v2_S_FIG_stage_2_ex_Psychic": {
+    "agent_id": "Master_Vanguard_v2_S_FIG_stage_2_ex_Psychic",
+    "combo_type": "master_vanguard",
+    "archetype": "balanced",
+    "energy_types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "deck_size": 60,
+    "target_agent_id": "S_FIG_stage_2_ex",
+    "created_at": "2026-08-28T03:10:48.891897",
+    "games": 11004,
+    "wins": 3499,
+    "losses": 7505,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 2004,
+        "wins": 886,
+        "losses": 1118,
+        "draws": 0
+      },
+      "benchmark": {
+        "games": 9000,
+        "wins": 2613,
+        "losses": 6387,
+        "draws": 0
+      }
+    }
+  },
+  "Master_Vanguard_v1_Master_Vanguard_v2_S_FIG_stage_2_ex_Psychic_Darkness": {
+    "agent_id": "Master_Vanguard_v1_Master_Vanguard_v2_S_FIG_stage_2_ex_Psychic_Darkness",
+    "combo_type": "master_vanguard",
+    "archetype": "mega_stage_2_ex",
+    "energy_types": [
+      "Darkness"
+    ],
+    "deck_size": 60,
+    "target_agent_id": "Master_Vanguard_v2_S_FIG_stage_2_ex_Psychic",
+    "created_at": "2026-08-28T03:21:03.744935",
+    "games": 13836,
+    "wins": 7461,
+    "losses": 6375,
+    "draws": 0,
+    "sim_breakdown": {
+      "sim_run": {
+        "games": 3012,
+        "wins": 1521,
+        "losses": 1491,
+        "draws": 0
+      },
+      "benchmark": {
+        "games": 10824,
+        "wins": 5940,
+        "losses": 4884,
+        "draws": 0
+      }
+    }
+  }
+}

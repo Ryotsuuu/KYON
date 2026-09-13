@@ -1,0 +1,410 @@
+{
+  "top_15_best": [
+    {
+      "rank": 1,
+      "card_id": 236,
+      "name": "Leafeon ex",
+      "category": "Pokemon",
+      "score": 30.7,
+      "synergy_count": 10,
+      "effectiveness_rating": "very_high",
+      "gameplay_role": "attacker",
+      "best_use_case": "Primary attacker with 230 max damage. wall/staller with damage prevention. healer for sustain. Stage 1 evolution.",
+      "key_strength": "very high HP (270); ex status with high stats; high damage (230); healing ([100]); damage prevention",
+      "deckbuilding_priority": "high"
+    },
+    {
+      "rank": 2,
+      "card_id": 244,
+      "name": "Jolteon ex",
+      "category": "Pokemon",
+      "score": 30.2,
+      "synergy_count": 10,
+      "effectiveness_rating": "very_high",
+      "gameplay_role": "attacker",
+      "best_use_case": "Primary attacker with 280 max damage. wall/staller with damage prevention. Stage 1 evolution.",
+      "key_strength": "very high HP (260); ex status with high stats; free retreat; high damage (280); damage prevention",
+      "deckbuilding_priority": "high"
+    },
+    {
+      "rank": 3,
+      "card_id": 40,
+      "name": "Greninja ex",
+      "category": "Pokemon",
+      "score": 29.7,
+      "synergy_count": 7,
+      "effectiveness_rating": "very_high",
+      "gameplay_role": "attacker",
+      "best_use_case": "Secondary attacker with 170 damage. wall/staller with damage prevention. Stage 2 evolution.",
+      "key_strength": "very high HP (310); ex status with high stats; damage prevention; Bench position bonus: prevent all damage done to this Pokémon by attacks (both yours and your opponent",
+      "deckbuilding_priority": "high"
+    },
+    {
+      "rank": 4,
+      "card_id": 121,
+      "name": "Dragapult ex",
+      "category": "Pokemon",
+      "score": 29.7,
+      "synergy_count": 10,
+      "effectiveness_rating": "very_high",
+      "gameplay_role": "attacker",
+      "best_use_case": "Primary attacker with 200 max damage. wall/staller with damage prevention. Stage 2 evolution.",
+      "key_strength": "very high HP (320); ex status with high stats; high damage (200); damage prevention; Bench position bonus: prevent all damage done to this Pokémon by attacks (both yours and your opponent",
+      "deckbuilding_priority": "high"
+    },
+    {
+      "rank": 5,
+      "card_id": 153,
+      "name": "Cinderace ex",
+      "category": "Pokemon",
+      "score": 29.4,
+      "synergy_count": 10,
+      "effectiveness_rating": "very_high",
+      "gameplay_role": "attacker",
+      "best_use_case": "Primary attacker with 280 max damage. wall/staller with damage prevention. Stage 2 evolution.",
+      "key_strength": "very high HP (320); ex status with high stats; free retreat; high damage (280); damage prevention",
+      "deckbuilding_priority": "high"
+    },
+    {
+      "rank": 6,
+      "card_id": 161,
+      "name": "Galvantula ex",
+      "category": "Pokemon",
+      "score": 29.4,
+      "synergy_count": 10,
+      "effectiveness_rating": "very_high",
+      "gameplay_role": "attacker",
+      "best_use_case": "Primary attacker with 220 max damage. wall/staller with damage prevention. Stage 1 evolution.",
+      "key_strength": "very high HP (260); ex status with high stats; high damage (220); damage prevention; Bench position bonus: prevent all damage done to this Pokémon by attacks (both yours and your opponent",
+      "deckbuilding_priority": "high"
+    },
+    {
+      "rank": 7,
+      "card_id": 737,
+      "name": "Mega Manectric ex",
+      "category": "Pokemon",
+      "score": 29.4,
+      "synergy_count": 10,
+      "effectiveness_rating": "very_high",
+      "gameplay_role": "attacker",
+      "best_use_case": "Primary attacker with 330 max damage. Stage 1 evolution.",
+      "key_strength": "very high HP (330); ex status with high stats; Mega ex — peak power; free retreat; high damage (330)",
+      "deckbuilding_priority": "high"
+    },
+    {
+      "rank": 8,
+      "card_id": 861,
+      "name": "Mega Froslass ex",
+      "category": "Pokemon",
+      "score": 29.4,
+      "synergy_count": 10,
+      "effectiveness_rating": "very_high",
+      "gameplay_role": "attacker",
+      "best_use_case": "Secondary attacker with 150 damage. status inflictor (sleep). Stage 1 evolution.",
+      "key_strength": "very high HP (310); ex status with high stats; Mega ex — peak power; guaranteed sleep",
+      "deckbuilding_priority": "high"
+    },
+    {
+      "rank": 9,
+      "card_id": 99,
+      "name": "Hearthflame Mask Ogerpon ex",
+      "category": "Pokemon",
+      "score": 29.1,
+      "synergy_count": 10,
+      "effectiveness_rating": "very_high",
+      "gameplay_role": "attacker",
+      "best_use_case": "Primary attacker with 280 max damage. wall/staller with damage prevention. Basic Pokemon.",
+      "key_strength": "solid HP (210); ex status with high stats; high damage (280); damage prevention; Bench position bonus: prevent all damage done to this Pokémon by attacks (both yours and your opponent",
+      "deckbuilding_priority": "high"
+    },
+    {
+      "rank": 10,
+      "card_id": 828,
+      "name": "Mega Sharpedo ex",
+      "category": "Pokemon",
+      "score": 29.1,
+      "synergy_count": 10,
+      "effectiveness_rating": "very_high",
+      "gameplay_role": "attacker",
+      "best_use_case": "Primary attacker with 270 max damage. Stage 1 evolution.",
+      "key_strength": "very high HP (330); ex status with high stats; Mega ex — peak power; free retreat; high damage (270)",
+      "deckbuilding_priority": "high"
+    },
+    {
+      "rank": 11,
+      "card_id": 130,
+      "name": "Revavroom ex",
+      "category": "Pokemon",
+      "score": 28.9,
+      "synergy_count": 10,
+      "effectiveness_rating": "very_high",
+      "gameplay_role": "attacker",
+      "best_use_case": "Primary attacker with 250 max damage. wall/staller with damage prevention. Stage 1 evolution.",
+      "key_strength": "very high HP (280); ex status with high stats; high damage (250); damage prevention; Bench position bonus: prevent all damage done to this Pokémon by attacks (both yours and your opponent",
+      "deckbuilding_priority": "high"
+    },
+    {
+      "rank": 12,
+      "card_id": 246,
+      "name": "Espeon ex",
+      "category": "Pokemon",
+      "score": 28.9,
+      "synergy_count": 10,
+      "effectiveness_rating": "very_high",
+      "gameplay_role": "attacker",
+      "best_use_case": "Secondary attacker with 160 damage. wall/staller with damage prevention. Stage 1 evolution.",
+      "key_strength": "very high HP (270); ex status with high stats; damage prevention; Bench position bonus: prevent all damage done to this Pokémon by attacks (both yours and your opponent",
+      "deckbuilding_priority": "high"
+    },
+    {
+      "rank": 13,
+      "card_id": 754,
+      "name": "Mega Latias ex",
+      "category": "Pokemon",
+      "score": 26.3,
+      "synergy_count": 1,
+      "effectiveness_rating": "very_high",
+      "gameplay_role": "attacker",
+      "best_use_case": "Primary attacker with 300 max damage. Basic Pokemon.",
+      "key_strength": "very high HP (280); ex status with high stats; Mega ex — peak power; high damage (300)",
+      "deckbuilding_priority": "high"
+    },
+    {
+      "rank": 14,
+      "card_id": 849,
+      "name": "Mega Lopunny ex",
+      "category": "Pokemon",
+      "score": 25.5,
+      "synergy_count": 1,
+      "effectiveness_rating": "very_high",
+      "gameplay_role": "attacker",
+      "best_use_case": "Primary attacker with 230 max damage. Stage 1 evolution.",
+      "key_strength": "very high HP (330); ex status with high stats; Mega ex — peak power; high damage (230)",
+      "deckbuilding_priority": "high"
+    },
+    {
+      "rank": 15,
+      "card_id": 138,
+      "name": "Okidogi ex",
+      "category": "Pokemon",
+      "score": 25.1,
+      "synergy_count": 10,
+      "effectiveness_rating": "high",
+      "gameplay_role": "attacker",
+      "best_use_case": "Primary attacker with 260 max damage. status inflictor (poison). Basic Pokemon.",
+      "key_strength": "very high HP (250); ex status with high stats; high damage (260); guaranteed poison",
+      "deckbuilding_priority": "medium"
+    }
+  ],
+  "worst_10": [
+    {
+      "rank": 10,
+      "card_id": 556,
+      "name": "Cinccino",
+      "category": "Pokemon",
+      "score": 4.2,
+      "effectiveness_rating": "low",
+      "key_weakness": "Stage 1 — 1-turn setup",
+      "why_weak": "Low effectiveness (low), utility role, Stage 1 evolution."
+    },
+    {
+      "rank": 9,
+      "card_id": 755,
+      "name": "Latios",
+      "category": "Pokemon",
+      "score": 4.2,
+      "effectiveness_rating": "low",
+      "key_weakness": "no notable weakness",
+      "why_weak": "Low effectiveness (low), attacker role, Secondary attacker with 130 damage. Basic Pokemon."
+    },
+    {
+      "rank": 8,
+      "card_id": 902,
+      "name": "Dratini",
+      "category": "Pokemon",
+      "score": 4.2,
+      "effectiveness_rating": "low",
+      "key_weakness": "no notable weakness",
+      "why_weak": "Low effectiveness (low), utility role, Basic Pokemon."
+    },
+    {
+      "rank": 7,
+      "card_id": 999,
+      "name": "Vigoroth",
+      "category": "Pokemon",
+      "score": 4.2,
+      "effectiveness_rating": "low",
+      "key_weakness": "Stage 1 — 1-turn setup",
+      "why_weak": "Low effectiveness (low), utility role, Stage 1 evolution."
+    },
+    {
+      "rank": 6,
+      "card_id": 310,
+      "name": "Hop’s Dubwool",
+      "category": "Pokemon",
+      "score": 4.1,
+      "effectiveness_rating": "low",
+      "key_weakness": "Stage 1 — 1-turn setup",
+      "why_weak": "Low effectiveness (low), support role, Stage 1 evolution."
+    },
+    {
+      "rank": 5,
+      "card_id": 705,
+      "name": "Gumshoos",
+      "category": "Pokemon",
+      "score": 4.1,
+      "effectiveness_rating": "low",
+      "key_weakness": "Stage 1 — 1-turn setup",
+      "why_weak": "Low effectiveness (low), support role, Stage 1 evolution."
+    },
+    {
+      "rank": 4,
+      "card_id": 86,
+      "name": "Metang",
+      "category": "Pokemon",
+      "score": 3.8,
+      "effectiveness_rating": "low",
+      "key_weakness": "Stage 1 — 1-turn setup",
+      "why_weak": "Low effectiveness (low), support role, energy accelerator. Stage 1 evolution."
+    },
+    {
+      "rank": 3,
+      "card_id": 392,
+      "name": "Arven's Greedent",
+      "category": "Pokemon",
+      "score": 3.8,
+      "effectiveness_rating": "low",
+      "key_weakness": "Stage 1 — 1-turn setup",
+      "why_weak": "Low effectiveness (low), support role, Stage 1 evolution."
+    },
+    {
+      "rank": 2,
+      "card_id": 842,
+      "name": "Wigglytuff",
+      "category": "Pokemon",
+      "score": 3.8,
+      "effectiveness_rating": "low",
+      "key_weakness": "Stage 1 — 1-turn setup",
+      "why_weak": "Low effectiveness (low), utility role, Stage 1 evolution."
+    },
+    {
+      "rank": 1,
+      "card_id": 1074,
+      "name": "Diggersby",
+      "category": "Pokemon",
+      "score": 3.8,
+      "effectiveness_rating": "low",
+      "key_weakness": "high retreat (4); Stage 1 — 1-turn setup",
+      "why_weak": "Low effectiveness (low), attacker role, Secondary attacker with 140 damage. Stage 1 evolution."
+    }
+  ],
+  "least_useful_for_ga": [
+    {
+      "rank": 1,
+      "card_id": 86,
+      "name": "Metang",
+      "category": "Pokemon",
+      "score": 3.8,
+      "ga_risk_note": "Stage 1 from Beldum; GA must preserve pre-evo;",
+      "synergy_requirements": [],
+      "why_risky_for_ga": "GA mutations can break this card's deck requirements. Stage 1 from Beldum; GA must preserve pre-evo;"
+    },
+    {
+      "rank": 2,
+      "card_id": 392,
+      "name": "Arven's Greedent",
+      "category": "Pokemon",
+      "score": 3.8,
+      "ga_risk_note": "Stage 1 from Arven's Skwovet; GA must preserve pre-evo;",
+      "synergy_requirements": [],
+      "why_risky_for_ga": "GA mutations can break this card's deck requirements. Stage 1 from Arven's Skwovet; GA must preserve pre-evo;"
+    },
+    {
+      "rank": 3,
+      "card_id": 842,
+      "name": "Wigglytuff",
+      "category": "Pokemon",
+      "score": 3.8,
+      "ga_risk_note": "Stage 1 from Jigglypuff; GA must preserve pre-evo;",
+      "synergy_requirements": [],
+      "why_risky_for_ga": "GA mutations can break this card's deck requirements. Stage 1 from Jigglypuff; GA must preserve pre-evo;"
+    },
+    {
+      "rank": 4,
+      "card_id": 1074,
+      "name": "Diggersby",
+      "category": "Pokemon",
+      "score": 3.8,
+      "ga_risk_note": "Stage 1 from Bunnelby; GA must preserve pre-evo;",
+      "synergy_requirements": [],
+      "why_risky_for_ga": "GA mutations can break this card's deck requirements. Stage 1 from Bunnelby; GA must preserve pre-evo;"
+    },
+    {
+      "rank": 5,
+      "card_id": 310,
+      "name": "Hop’s Dubwool",
+      "category": "Pokemon",
+      "score": 4.1,
+      "ga_risk_note": "Stage 1 from Hop’s Wooloo; GA must preserve pre-evo;",
+      "synergy_requirements": [],
+      "why_risky_for_ga": "GA mutations can break this card's deck requirements. Stage 1 from Hop’s Wooloo; GA must preserve pre-evo;"
+    },
+    {
+      "rank": 6,
+      "card_id": 705,
+      "name": "Gumshoos",
+      "category": "Pokemon",
+      "score": 4.1,
+      "ga_risk_note": "Stage 1 from Yungoos; GA must preserve pre-evo;",
+      "synergy_requirements": [],
+      "why_risky_for_ga": "GA mutations can break this card's deck requirements. Stage 1 from Yungoos; GA must preserve pre-evo;"
+    },
+    {
+      "rank": 7,
+      "card_id": 122,
+      "name": "Tatsugiri",
+      "category": "Pokemon",
+      "score": 4.2,
+      "ga_risk_note": "Dragon-type costs ['{R}{W}'] need flexible energy;",
+      "synergy_requirements": [
+        "flexible/rainbow energy (no Basic Dragon Energy)"
+      ],
+      "why_risky_for_ga": "GA mutations can break this card's deck requirements. Dragon-type costs ['{R}{W}'] need flexible energy;"
+    },
+    {
+      "rank": 8,
+      "card_id": 171,
+      "name": "Raging Bolt",
+      "category": "Pokemon",
+      "score": 4.2,
+      "ga_risk_note": "Dragon-type costs ['{L}{F}', '{L}{F}●'] need flexible energy;",
+      "synergy_requirements": [
+        "flexible/rainbow energy (no Basic Dragon Energy)"
+      ],
+      "why_risky_for_ga": "GA mutations can break this card's deck requirements. Dragon-type costs ['{L}{F}', '{L}{F}●'] need flexible energy;"
+    },
+    {
+      "rank": 9,
+      "card_id": 300,
+      "name": "Bagon",
+      "category": "Pokemon",
+      "score": 4.2,
+      "ga_risk_note": "Dragon-type costs ['●', '{R}{W}'] need flexible energy;",
+      "synergy_requirements": [
+        "flexible/rainbow energy (no Basic Dragon Energy)"
+      ],
+      "why_risky_for_ga": "GA mutations can break this card's deck requirements. Dragon-type costs ['●', '{R}{W}'] need flexible energy;"
+    },
+    {
+      "rank": 10,
+      "card_id": 556,
+      "name": "Cinccino",
+      "category": "Pokemon",
+      "score": 4.2,
+      "ga_risk_note": "Stage 1 from Minccino; GA must preserve pre-evo;",
+      "synergy_requirements": [],
+      "why_risky_for_ga": "GA mutations can break this card's deck requirements. Stage 1 from Minccino; GA must preserve pre-evo;"
+    }
+  ],
+  "methodology": "Scored by: effectiveness_rating (weighted), deckbuilding_priority, effect_tag_density, archetype_versatility, synergy_count, GA_risk_penalty, category_bonuses, HP_bonus"
+}
